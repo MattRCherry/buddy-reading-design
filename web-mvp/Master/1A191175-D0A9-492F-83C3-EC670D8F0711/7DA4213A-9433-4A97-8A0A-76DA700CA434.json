@@ -33,6 +33,12 @@
   "name": "Overlay",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "735CF73C-A58E-4968-8511-4F0BADB8CA3B",
+      "overrideName": "3F6097E4-52F5-4686-96CE-2A2512FD808F_stringValue",
+      "value": "Join Fantasy Fans Club?"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

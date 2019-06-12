@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "17F536CB-EBE9-45A7-8395-FA025FC2EBD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AA29002-7962-4A5F-BCC9-4E3BB5A76877",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D0AAEE9-4B4E-48EF-AD70-DB4454A97D5C",
+    "height": 1024,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Overlay",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "735CF73C-A58E-4968-8511-4F0BADB8CA3B",
+      "overrideName": "3F6097E4-52F5-4686-96CE-2A2512FD808F_stringValue",
+      "value": "Join Fantasy Fans Club?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95CE83C4-554B-4731-8813-FE8F3DFF8AFC",
+      "overrideName": "D23C9015-73D1-44D1-9199-76DF16581102_flowDestination",
+      "value": "44D8CFE3-C741-4586-BE61-3CDC46748334"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D779D69-020F-45C0-855C-D70F04924F3C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D536A471-9E7A-4E65-81B0-B747FE7C355D",
+  "verticalSpacing": 0
+}

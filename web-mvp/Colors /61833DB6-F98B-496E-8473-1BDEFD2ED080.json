@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-SemiBold",
-              "size": 14
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Borders"
+    "string": "Borders (2px)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9E8DCF69-C367-46D7-A957-6BC67036A18F",
-    "height": 18,
-    "width": 57,
+    "height": 19,
+    "width": 110,
     "x": -354,
-    "y": -18
+    "y": -19
   },
-  "glyphBounds": "{{1, 3}, {56, 12}}",
+  "glyphBounds": "{{1, 3}, {108, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Borders",
+  "name": "Borders (2px)",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-SemiBold",
-            "size": 14
+            "size": 16
           }
         },
         "paragraphStyle": {

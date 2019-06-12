@@ -15,6 +15,12 @@
     "shouldTrim": false
   },
   "fixedRadius": 5,
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "1D7E7E76-40CE-4F68-9B18-3395BE37DE09",
+    "do_objectID": "59E03F98-41F8-4532-B6F1-3BFB4C828892"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": true,

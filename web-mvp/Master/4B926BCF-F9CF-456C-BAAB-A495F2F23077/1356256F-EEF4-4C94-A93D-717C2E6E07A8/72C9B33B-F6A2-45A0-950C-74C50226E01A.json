@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "72C9B33B-F6A2-45A0-950C-74C50226E01A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0C2A92B-4CBA-46B2-8251-F1049C8E6F03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F877DBBD-A0A3-4F39-AC24-D8265E6B81DF",
+    "height": 35,
+    "width": 292,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group Member Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A30192A3-2742-4136-9923-1D0B3BD739C3",
+      "overrideName": "02B3E095-3A5F-422B-8DE4-06C903A4B88F_stringValue",
+      "value": "Quinn Turner"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA5C3289-DF8D-4B4A-A796-4D4EFC439278",
+      "overrideName": "2CD3144E-36E8-46E5-8C37-569DCBC1BD87_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/485796df9767a7b20f17960e94c355583627c260.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCE61085-2F22-4D9F-8FFC-20C512658697",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9E13582D-21C6-42A4-A4FC-BA10C8F3E7BB",
+  "verticalSpacing": 0
+}

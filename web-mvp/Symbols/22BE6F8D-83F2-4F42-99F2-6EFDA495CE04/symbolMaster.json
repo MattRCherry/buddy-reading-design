@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 311,
+  "changeIdentifier": 323,
   "clippingMaskMode": 0,
   "do_objectID": "22BE6F8D-83F2-4F42-99F2-6EFDA495CE04",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "D3A7952E-89C0-4F68-8E2C-1F1E5AB89DAF"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,28 +55,29 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "373750DF-171D-431B-BEEE-68B56FBFBBDD"
     },
     {
-      "class": "oval",
-      "id": "315661F5-9C43-4CAB-BC25-A06A8B27F155"
-    },
-    {
-      "class": "group",
-      "id": "368CBC1F-2996-4CDD-97BD-963127A0B3A2"
+      "class": "symbolInstance",
+      "id": "E6E1948C-252A-4D7E-A806-056734F085FE"
     }
   ],
-  "name": "List Items / Fast",
+  "name": "List Items / Circle Icon",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "373750DF-171D-431B-BEEE-68B56FBFBBDD_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E6E1948C-252A-4D7E-A806-056734F085FE_symbolID"
     }
   ],
   "resizesContent": false,
