@@ -1,0 +1,147 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BDF6D772-B057-4BEC-8B1D-7F5B8E92143D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "25783CC2-4292-46F3-BEB6-90CF3D310ABC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A78EB6BD-ABE1-4F32-A48D-48877D426358",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17122546-E968-4B9D-93C5-2FD508174DFD",
+    "height": 1024,
+    "width": 320,
+    "x": 680,
+    "y": 3160
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C258AC4A-ADD2-431A-88CC-CB199E94D35C"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E1288AC2-3923-426F-87C5-6C6771050922",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "13162110-7C2F-45FF-8714-31E253F38E14"
+    },
+    {
+      "class": "group",
+      "id": "5ABFF819-2CC2-4D6A-A8D1-A6A33DF702EB"
+    },
+    {
+      "class": "group",
+      "id": "E270CDF6-A7AD-4BA3-87B4-7F696675364F"
+    },
+    {
+      "class": "group",
+      "id": "6BBAC542-F75A-4467-88C5-9D7541216478"
+    },
+    {
+      "class": "group",
+      "id": "FD8B351F-E1A8-4C65-ADE5-414FBBDE5478"
+    },
+    {
+      "class": "group",
+      "id": "335383EC-D8F2-4499-B23D-E40F49FAC060"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2AF1E49-E856-4988-9B13-24B50F161945"
+    },
+    {
+      "class": "group",
+      "id": "08B0040B-EBEB-41B0-8B8B-B508FB432A4F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BB5A5F5-BE0C-4711-B9B4-C219DEA7360E"
+    },
+    {
+      "class": "group",
+      "id": "3DC619D1-774A-40F8-AEA8-EC3F27BA82DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89D3B4EA-D2B4-417A-9C58-E4275FDCE2CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67AB3946-C91A-45E5-8356-92F46100F5E1"
+    },
+    {
+      "class": "text",
+      "id": "CE49240C-E759-4E43-83D3-044ECB1CD2CD"
+    },
+    {
+      "class": "group",
+      "id": "85B7E436-0A09-461C-AC72-6043155155AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A47BA4EA-740F-43CE-94D2-3D3E40EA524C"
+    }
+  ],
+  "name": "Mobile - Group Page - Join Overlay",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F0D44474-8017-4305-AD5D-219C04A201DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0BDC896C-0282-40F1-81F0-B4B87DACA494",
+    "guides": [
+    ]
+  }
+}
