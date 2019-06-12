@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 140,
+        "length": 82,
         "location": 0
       }
     ],
-    "string": "Hi everyone — my name is Matt :) Looking for a group of people to help me get through some of the books I’ve been meaning to read for ages! "
+    "string": "Looking for awesome people to read epic fantasy novels / series with and geek out!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4BC4BE4F-2D53-4EF5-B85A-3F24CCC67E52",
-    "height": 72,
+    "height": 54,
     "width": 292,
     "x": 0,
     "y": 25
   },
-  "glyphBounds": "{{0, 3}, {291, 68}}",
+  "glyphBounds": "{{0, 3}, {259, 50}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Hi everyone — my nam",
+  "name": "Looking for awesome",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -35,7 +35,7 @@
     "do_objectID": "920F4715-2310-4B79-8CBB-E7B6E1A4BB91"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -75,8 +75,8 @@
       "id": "A4618F35-2BF6-46CE-AC7C-F7135DF4EDED"
     }
   ],
-  "name": "Mobile - Sign Up Preferences",
-  "nameIsFixed": false,
+  "name": "Mobile / Sign Up / Preferences",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

@@ -27,7 +27,7 @@
     "do_objectID": "5A4A5E52-1A2A-421C-8A1F-398E76D0FDDB",
     "height": 1024,
     "width": 320,
-    "x": 1940,
+    "x": 2360,
     "y": 3160
   },
   "groupLayout": {
@@ -95,23 +95,19 @@
       "id": "A0B7CBC7-4482-4892-8EA4-657FAA42D7E0"
     },
     {
-      "class": "text",
-      "id": "CA16070A-2332-47BB-A224-25545118DF01"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C3F72509-6F3E-4754-8518-D319EF56FBA0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A375E465-4587-4A03-9536-4B3A117D4829"
-    },
-    {
       "class": "symbolInstance",
       "id": "EECCF733-47D4-49E3-AF9B-2F9B482D6D77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1294D943-A5E7-49BC-B3DF-6E5674570967"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FCC96E2E-13AE-418C-BCFD-69BBB4D81E5A"
     }
   ],
-  "name": "Mobile - Group Page - Owner",
+  "name": "Mobile / Group Page / Owner / Group / KotS",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

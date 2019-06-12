@@ -33,6 +33,18 @@
   "name": "Fast Reading Speed",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E014BDCF-4610-4985-B1AF-D73F5F069A69",
+      "overrideName": "E6E1948C-252A-4D7E-A806-056734F085FE_symbolID",
+      "value": "592390F5-6805-4607-BFCF-0DF1889C9CF6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82D014BD-683C-42FD-9BEF-29416C7AD297",
+      "overrideName": "373750DF-171D-431B-BEEE-68B56FBFBBDD_stringValue",
+      "value": "Moderate Reading Speed"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "112E7E90-FC6B-43D8-8673-16108A336B71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E232943B-EE74-4F74-A22F-07BA1FCF14EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B336C2DA-4E58-4A9B-A105-D113EA132196",
+    "height": 80,
+    "width": 304,
+    "x": 8,
+    "y": 140
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book List Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BA484B36-A1DA-43C0-9106-1966F032E611",
+      "overrideName": "6DC0D43A-98A1-4351-9440-8A5036D9AAAB/CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8adf43e6fa09d55134d8ad411d231b61ef0b5c87.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71B65777-3853-408C-B86B-5046890F7D40",
+      "overrideName": "1BA15D21-2353-4A63-9714-4490A3EF9E8A_stringValue",
+      "value": "How to Train your Pet Dragon # 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "590A2E9A-5A47-4559-A96A-AEDFA5D9F53E",
+      "overrideName": "F725A446-673C-4B84-8167-407778BFB159_flowDestination",
+      "value": "FF207922-8A4D-4EFC-B4DC-842F526DBFBB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "618D54C2-6BAE-4025-ABB3-8C94910E1D28",
+      "overrideName": "C32460BC-0669-4D46-9604-D85621CBD176/CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9b1eec7dfa716f841446d8563e5fe47c13c1d822.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95B39ABD-55AE-4167-834F-9625E244E193",
+      "overrideName": "4CCEA709-70AD-4912-BC7B-F2B254ED8DD9_stringValue",
+      "value": "The Hobbit"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70E8DB88-E9D8-4B9C-8B8D-77B72CD7E6C0",
+      "overrideName": "A56EEC5C-F876-46A1-A10E-F4EE8C546548_stringValue",
+      "value": "J.R.R. Tolkein"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7158D8FD-8497-488A-A5CD-B909C946ABE2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "755799D9-18A0-4DDA-82EE-6F90F9E38492",
+  "verticalSpacing": 0
+}

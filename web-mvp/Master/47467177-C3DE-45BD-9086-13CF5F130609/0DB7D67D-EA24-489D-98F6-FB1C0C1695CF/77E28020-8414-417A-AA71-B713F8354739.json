@@ -49,9 +49,9 @@
   },
   "flow": {
     "_class": "MSImmutableFlowConnection",
-    "animationType": 0,
-    "destinationArtboardID": "7EA109A8-C897-4158-A487-732FABA18807",
-    "do_objectID": "A7E80553-F5FB-45CB-AE1C-2812839F145D"
+    "animationType": -1,
+    "destinationArtboardID": "4B926BCF-F9CF-456C-BAAB-A495F2F23077",
+    "do_objectID": "E2CDCA8F-622A-4409-9BE0-1868D17F977B"
   },
   "frame": {
     "_class": "rect",

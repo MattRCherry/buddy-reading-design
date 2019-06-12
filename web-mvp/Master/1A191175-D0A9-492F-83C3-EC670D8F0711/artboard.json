@@ -35,7 +35,7 @@
     "do_objectID": "074DF067-E5DF-4BA2-AE14-1750B7620B91"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,12 +55,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "750E2ADC-5CC1-4456-918A-F2F80B2A5631"
-    },
-    {
-      "class": "group",
-      "id": "5E43E074-F1AC-4705-BE22-83BE05C6B42C"
+      "class": "symbolInstance",
+      "id": "CDFC5022-AB7C-40A9-A815-8E3FF110B531"
     },
     {
       "class": "group",
@@ -77,10 +73,6 @@
     {
       "class": "group",
       "id": "2540F808-856A-4919-BD27-94A8A0C1203E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A2187C55-1A84-4CF4-A3AC-F492170A9141"
     },
     {
       "class": "group",
@@ -115,7 +107,7 @@
       "id": "7DA4213A-9433-4A97-8A0A-76DA700CA434"
     }
   ],
-  "name": "Mobile - Group Page - Join Overlay",
+  "name": "Mobile / Group Page / Join / Group",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

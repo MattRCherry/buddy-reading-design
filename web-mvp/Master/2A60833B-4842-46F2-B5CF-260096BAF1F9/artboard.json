@@ -35,7 +35,7 @@
     "do_objectID": "14160F34-BC5F-4963-AEF8-3636F4CCCB54"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,7 +59,7 @@
       "id": "47ED82EC-1F32-420F-B6B0-DFB639BE7A33"
     }
   ],
-  "name": "Mobile - Log In",
+  "name": "Mobile / Log In",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

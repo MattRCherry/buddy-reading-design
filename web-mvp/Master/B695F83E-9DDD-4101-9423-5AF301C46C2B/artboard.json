@@ -44,7 +44,7 @@
     "do_objectID": "3A9EC912-6614-47F1-A801-5C0BBDB129F0"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -73,14 +73,14 @@
     },
     {
       "class": "symbolInstance",
-      "id": "18E151D1-E01D-4B93-8F94-FE2FBFECD4B2"
+      "id": "1DECE1F4-2F52-4442-852A-3854AA650056"
     },
     {
       "class": "symbolInstance",
-      "id": "80693606-8AA1-47B3-AB81-C0E91952840C"
+      "id": "5154D939-C56C-453E-B8EE-B946F3B49C21"
     }
   ],
-  "name": "Mobile Landing Page -- Not Logged In Copy",
+  "name": "Mobile / Find a Buddy / Logged In",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
