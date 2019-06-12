@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "802568C8-9076-4DBF-9F5A-FE07BDA13675",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24B1B3DC-F633-41C0-9C4A-6924294100D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3B778C7-94D6-4C1D-914C-15AB6BEB527B",
+    "height": 120,
+    "width": 75,
+    "x": 21,
+    "y": 553
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book Cover",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "13B652EE-A6AD-409C-AD5B-AC3FFCF88C52",
+      "overrideName": "CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4380c0b01fb6ccd51a7f67827587d3baa0fb1078.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E328477-FF22-493F-9814-53E2104C4692",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C22044F0-915B-4915-BA92-096E43C6E755",
+  "verticalSpacing": 0
+}

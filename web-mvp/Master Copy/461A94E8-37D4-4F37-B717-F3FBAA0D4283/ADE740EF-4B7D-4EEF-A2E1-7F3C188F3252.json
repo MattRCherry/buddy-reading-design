@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADE740EF-4B7D-4EEF-A2E1-7F3C188F3252",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C92AC18-63EA-4A73-A3AE-3D5D0F94465D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "96BB0A32-04CB-443C-8816-77BDA6177707",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 588
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book List Item Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D28D768E-87A0-4D3D-A67D-5349FE04C17A",
+      "overrideName": "F8E65C5A-D4A7-4B17-8DED-1539A8668FA8_stringValue",
+      "value": "Young Adult"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "663570D8-95CD-4678-B479-F4E97FE8FD77",
+      "overrideName": "7691E813-3989-479C-A67C-CD74D069BF7D/CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9d22b8a55799c00886e1059f63293a66ba182db8.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50B6EF32-8CEC-42E2-9E3A-A0D55F6BA785",
+      "overrideName": "6638EC1A-7800-4BDC-99B1-4EF6AE7BF1BB_stringValue",
+      "value": "Throne of Glass"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47B8AD5A-0936-490D-B919-E5A932EA13CE",
+      "overrideName": "3B7626A3-62DE-459E-8294-ECA750FDC605_stringValue",
+      "value": "Sarah J. Maas"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9EE5D696-7754-41E5-866F-9F2FAEA21CCF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "553C394F-3994-4068-AB13-5238CE078D58",
+  "verticalSpacing": 0
+}
