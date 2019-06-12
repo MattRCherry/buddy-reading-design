@@ -75,16 +75,8 @@
       "id": "5784E03C-FEF5-48AC-99EF-6B6B7EF5EA09"
     },
     {
-      "class": "symbolInstance",
-      "id": "DF3930BE-5647-4D4B-AB08-151F4D06CB10"
-    },
-    {
       "class": "group",
       "id": "2BD2AA25-E7A8-4607-B323-1BCC2785FB56"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "39044A19-EA37-4402-AAA7-39A5D69D627C"
     },
     {
       "class": "symbolInstance",
@@ -101,6 +93,14 @@
     {
       "class": "symbolInstance",
       "id": "F09F4B96-C1EE-462E-8E87-3F8F5D83EDED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "143C6FB0-150B-4D6B-8EDA-015816B2B8F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53011292-F74B-42F6-BF66-82D1C28B5338"
     }
   ],
   "name": "Mobile / Group Page / Owner / Group / Hobbit",

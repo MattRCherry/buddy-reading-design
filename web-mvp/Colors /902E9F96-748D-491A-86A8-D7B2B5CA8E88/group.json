@@ -7,6 +7,15 @@
     "_class": "exportOptions",
     "do_objectID": "313FB9A5-F649-4B5F-BA55-5542F3D084C6",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],

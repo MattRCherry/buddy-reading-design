@@ -75,16 +75,8 @@
       "id": "31E09793-FE4D-4FD2-9A91-6E886D09735A"
     },
     {
-      "class": "symbolInstance",
-      "id": "8AAB5E20-FA27-4D7E-A0BA-44B034282226"
-    },
-    {
       "class": "group",
       "id": "1D6D1303-CB56-41E5-8A91-39633E88F95C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4B0365D4-8F20-4A0F-B206-D6D8484D7943"
     },
     {
       "class": "symbolInstance",
@@ -101,6 +93,14 @@
     {
       "class": "symbolInstance",
       "id": "62357F7A-C8B4-4B8C-896E-DA041B3E16ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DEB74578-A361-478A-B123-5B9016EDB9BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D3543E2-C3E7-4F9A-93C0-159CFEF8AFAA"
     }
   ],
   "name": "Mobile / Group Page / Owner / Group / HPGF",

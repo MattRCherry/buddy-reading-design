@@ -33,6 +33,18 @@
   "name": "Fast Reading Speed",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4EE7F6B-0D1D-450A-BA39-CBD05F21F737",
+      "overrideName": "E6E1948C-252A-4D7E-A806-056734F085FE_symbolID",
+      "value": "E329DF4E-38AB-446C-B13E-3220EAF08E6D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E327B1D8-B1A5-497C-8F53-F9628DF81FE7",
+      "overrideName": "373750DF-171D-431B-BEEE-68B56FBFBBDD_stringValue",
+      "value": "Chill"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,6 +59,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "092F5FBF-0C60-40C0-BBF3-045145B83FA3",
+  "symbolID": "C7941352-887D-4E19-A191-5949F87338BB",
   "verticalSpacing": 0
 }
