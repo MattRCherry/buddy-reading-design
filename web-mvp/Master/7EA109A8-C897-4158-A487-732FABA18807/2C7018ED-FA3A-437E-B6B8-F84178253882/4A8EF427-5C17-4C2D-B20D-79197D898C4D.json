@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A8EF427-5C17-4C2D-B20D-79197D898C4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73BFAD03-55AE-47D0-8004-45FB5DF86DBB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "59ECDE56-2A28-457E-BC20-458C4E55A5E7",
+    "height": 35,
+    "width": 292,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group Member Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F35E15F-BDCE-4561-9910-A036D7112270",
+      "overrideName": "5A4573C0-6D63-4719-9D18-EC47ECEC2529_stringValue",
+      "value": "Yusuf Khaled"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B241DBE7-815A-4D8C-B832-F3D8E50A045F",
+      "overrideName": "E4B9D00D-76DA-4C64-92E2-93F88AA7CEE3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4a4c4f4ccc9b13334f35409cf6d9ee2349fad3db.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D7848AED-B8EA-4EE2-8E33-D86E6102BA1F",
+      "overrideName": "2CD3144E-36E8-46E5-8C37-569DCBC1BD87_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4a4c4f4ccc9b13334f35409cf6d9ee2349fad3db.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDE545DA-8F40-482F-8C89-70F62DE94836",
+      "overrideName": "02B3E095-3A5F-422B-8DE4-06C903A4B88F_stringValue",
+      "value": "Yusuf Khaled"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C498C84D-E867-46AA-BA26-9C9200DB2685",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9E13582D-21C6-42A4-A4FC-BA10C8F3E7BB",
+  "verticalSpacing": 0
+}

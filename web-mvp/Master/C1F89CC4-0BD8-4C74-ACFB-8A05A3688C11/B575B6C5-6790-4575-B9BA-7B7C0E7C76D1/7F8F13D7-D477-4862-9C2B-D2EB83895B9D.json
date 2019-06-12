@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F8F13D7-D477-4862-9C2B-D2EB83895B9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4166D8BC-A006-4D30-8EC0-BB48CA6B3F61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D69F49B-D451-4E7D-94B6-E09D2B45A0FD",
+    "height": 27,
+    "width": 92,
+    "x": 0,
+    "y": 160
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Genre Filter Button Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC3C472F-2962-43E4-A656-3E3C991A1833",
+      "overrideName": "E0AE3C4E-C6A9-4A50-84A5-37EEB9908E0F_stringValue",
+      "value": "Fantasy"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "378D56AB-D818-48C8-8737-19531F8A2697",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "284FE7A0-0ED9-45E1-839C-FFE6C9418D26",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1560293110.994487
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

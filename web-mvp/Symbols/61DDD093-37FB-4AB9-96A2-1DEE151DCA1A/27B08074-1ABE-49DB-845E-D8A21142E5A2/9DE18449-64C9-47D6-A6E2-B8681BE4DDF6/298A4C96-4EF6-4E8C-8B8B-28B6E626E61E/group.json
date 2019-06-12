@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "298A4C96-4EF6-4E8C-8B8B-28B6E626E61E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 25,
+    "width": 30.55555555555556,
+    "x": -4.050093593832571e-13,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "02864F19-791C-4C4C-85A6-6CA6D0672674"
+    },
+    {
+      "class": "oval",
+      "id": "FBCE775C-F5D1-4388-9542-AFCF143735F0"
+    },
+    {
+      "class": "shapePath",
+      "id": "7E73FD31-54C9-4F91-BF3C-32277688FE9B"
+    },
+    {
+      "class": "shapePath",
+      "id": "49C60A65-DB62-403A-BC06-71BEC09F2FBE"
+    }
+  ],
+  "name": "user-plus",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 25,
+            "enabled": 1,
+            "modelID": "constraint_4648767d-7ce0-4de3-93bc-c7c2b8ca3176",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 30.55556
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_1029f586-9d82-40db-a5e1-872ecbbc8ec4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

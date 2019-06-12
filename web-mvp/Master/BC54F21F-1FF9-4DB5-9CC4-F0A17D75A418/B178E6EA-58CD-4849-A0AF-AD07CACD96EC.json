@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B178E6EA-58CD-4849-A0AF-AD07CACD96EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1D4EC1D-BA96-4D98-8F84-52AABB43A3D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0FD73550-CE46-45F5-8B6C-80744FADAE82",
+    "height": 77,
+    "width": 304,
+    "x": 8,
+    "y": 88
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field Active w CC",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FFFC3020-96B5-4B10-9379-35C4B1BB9922",
+      "overrideName": "934FC382-C346-4BBD-BF5C-FF4689FAA591_stringValue",
+      "value": "Matt's Reading Crew"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8591887-1C2F-4D34-8EE9-6B0E1556D875",
+      "overrideName": "3A1F794A-5673-4E27-AA90-21819727669A_stringValue",
+      "value": "Group Name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F143629B-F69C-4344-BFEC-3EC9A4221E94",
+      "overrideName": "2E058ED8-BAC9-4BF8-A9B8-EDDAD6C12778_stringValue",
+      "value": "19 / 50"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A52C897-6BA9-4B06-B213-6FFE8A996B72",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE1634C0-5FA3-49FA-A93B-180C61F1EA62",
+  "verticalSpacing": 0
+}

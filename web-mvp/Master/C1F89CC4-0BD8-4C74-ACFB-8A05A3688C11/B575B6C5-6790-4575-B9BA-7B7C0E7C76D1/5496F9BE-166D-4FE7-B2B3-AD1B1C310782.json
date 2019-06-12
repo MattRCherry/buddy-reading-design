@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5496F9BE-166D-4FE7-B2B3-AD1B1C310782",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F4588024-3B24-44AB-8231-184E38224224",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9AF7B8D3-D4BA-4390-96C5-3A6A9A9660D6",
+    "height": 29,
+    "width": 167,
+    "x": 92,
+    "y": 31
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Genre Filter Button Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C539CD00-3BBA-4D9D-B87A-3B37AB7D0778",
+      "overrideName": "0380F3F7-FCF2-43E3-9BAB-DF1CA0EA7717_stringValue",
+      "value": "Self Improvement"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2CDE1A25-7570-4AC3-A69B-4C47CF61E594",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F6453712-43D9-4238-A17E-88424E9562A6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1560293110.751656
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

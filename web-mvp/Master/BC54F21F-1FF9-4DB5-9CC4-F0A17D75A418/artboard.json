@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "55BAEBC4-33CE-4907-B3BE-EE9F16CD650E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC54F21F-1FF9-4DB5-9CC4-F0A17D75A418",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6C7C7E4-6F44-4F4C-A66F-9DC898382BC2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "748D7AEA-656E-4500-B81A-DDEFBF3B26FC",
+    "height": 1301,
+    "width": 320,
+    "x": -160,
+    "y": 6832
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D0996D9D-8F3E-4F2E-97BA-BA033535B7DD"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "84C29DE3-0201-4FCB-B3B8-B203D5FE5FE1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5E78AFC9-FF68-4B62-A87B-B26061E7C248"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B178E6EA-58CD-4849-A0AF-AD07CACD96EC"
+    },
+    {
+      "class": "group",
+      "id": "DACE823B-54F9-470D-83A2-140ECC2FEEAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7111F496-0768-4A04-BD30-C2F2AE577DFA"
+    },
+    {
+      "class": "group",
+      "id": "5306E3A8-B0E9-42B1-845D-40FD11153345"
+    },
+    {
+      "class": "group",
+      "id": "1EEE7004-CFB7-42C6-8C19-517AA3506178"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7371C2F-E53D-446B-8FC0-859DA970A30E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EDFE057-DB46-4A38-9D75-A8491E4D7664"
+    }
+  ],
+  "name": "Mobile - Create a Group",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F28EBC2-76ED-491D-8430-CBF2063CE8A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E2AB6184-68C2-4FFF-8940-D49634F6E96A",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A97AA5C9-F4FE-4185-BA4D-F1FE682BC878",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6379B090-6A6B-4B33-AEF5-68B2194D1997",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "91365664-0063-41E4-AFE3-BE9661079EDA",
+    "height": 30,
+    "width": 13.5,
+    "x": 18,
+    "y": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "53E3FE7E-8E17-4D07-BE8B-6B3FB91A05FF"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E31DF0A7-9220-4F74-9F42-E91729754AB8"
+    }
+  ],
+  "name": "old-man-walking-with-a-crutch",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B99B655-4A65-404F-AAEE-A3F8DB444C73",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_076e73b5-1e9e-44c3-a153-0a92262cd766",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 13.5
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c3b01fe1-91f5-48fc-b73e-a56d8bee1c25",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

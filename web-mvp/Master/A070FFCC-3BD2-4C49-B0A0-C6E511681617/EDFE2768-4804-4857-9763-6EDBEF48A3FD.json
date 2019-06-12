@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EDFE2768-4804-4857-9763-6EDBEF48A3FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D24F24E-830F-4BC8-AE73-35257F603BB9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F008631A-F4ED-4614-9265-1FE42AF558DA",
+    "height": 36,
+    "width": 304,
+    "x": 8,
+    "y": 72
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Search Bar - Shadow ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01E9652F-5BA4-42DA-8473-210CA261E6E8",
+      "overrideName": "3C21B766-9036-4E70-92C5-C58FE92ED582_stringValue",
+      "value": "How to train your dragon"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "67675F38-67E9-4F69-83D1-426FD050C5A8",
+      "overrideName": "F1B90315-35F9-4671-AFEB-46F68B64044E_stringValue",
+      "value": "how to train your dragon"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BAA05F3B-C5A5-4C8F-92B3-55BFFC88D8D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D485B153-647B-451D-8F80-84DF9DBEBE8B",
+  "verticalSpacing": 0
+}

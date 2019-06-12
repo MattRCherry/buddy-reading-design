@@ -1,0 +1,148 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5B279104-1DFC-497E-A403-701BC66320D5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 858,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC7B0837-9ABE-400B-936D-5E2B59916E59",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F7B16DE-8840-4C60-9B53-2D8606DD5E30",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD90959A-BDF5-44D5-9F80-B50E08E07016",
+    "height": 80,
+    "width": 304,
+    "x": 1878,
+    "y": 768
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3508BDAE-41EB-4746-B782-9FF37CF36E15"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3FB5485B-E8C3-4E95-A7BB-110E25BABA5A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "963975E8-9103-4E60-954C-9C97AFE98C5F"
+    },
+    {
+      "class": "group",
+      "id": "4A3C91CA-0D6D-45BE-91C5-76EB8EE1673B"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "F725A446-673C-4B84-8167-407778BFB159"
+    }
+  ],
+  "name": "List Items / Book List / Search Page",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AD0C00C5-2F4F-448E-B011-F76F4EA7A34F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4E24B25F-F2F4-4A22-AE55-0FF18D782817_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AD0C00C5-2F4F-448E-B011-F76F4EA7A34F_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A56EEC5C-F876-46A1-A10E-F4EE8C546548_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A56EEC5C-F876-46A1-A10E-F4EE8C546548_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C6CDB325-9B1C-4000-8153-2E834926E104_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4CCEA709-70AD-4912-BC7B-F2B254ED8DD9_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C32460BC-0669-4D46-9604-D85621CBD176_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4CCEA709-70AD-4912-BC7B-F2B254ED8DD9_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F725A446-673C-4B84-8167-407778BFB159_flowDestination"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB901DD2-5C7F-46C1-A10B-FE6F485E467F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "755799D9-18A0-4DDA-82EE-6F90F9E38492",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CF13CE58-5070-48B4-A4B3-2090E421B966",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EE80C72-F3B7-4385-ADB8-C880960F5E52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B90B49D1-7285-4192-A584-7F863D2757FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C1710B35-CCFB-4E6D-8EB2-26DBBAE5F376",
+    "height": 34,
+    "width": 81,
+    "x": 101,
+    "y": 953
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Pill Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD68AFEC-7122-4A60-80EF-3168440CA192",
+      "overrideName": "26D62F92-E65D-4133-A4BE-5A78390CAEA2_stringValue",
+      "value": "open chat"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08FEABEC-8759-49AA-A0ED-774D8A13ECE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2DEA9E31-A205-449D-9D03-F3612C9D57D3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_ccca8c6c-25c2-4df7-8fac-a0e5cdbdac45",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "right": {
+            "constant": 100,
+            "enabled": 1,
+            "modelID": "constraint_8f64f06e-9f39-4887-94b0-7c0795d826e4",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "scaleFactor": 1
+        },
+        "size.update": 1560276633.161632
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

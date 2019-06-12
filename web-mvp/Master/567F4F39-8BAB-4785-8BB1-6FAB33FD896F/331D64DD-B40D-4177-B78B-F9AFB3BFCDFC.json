@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "331D64DD-B40D-4177-B78B-F9AFB3BFCDFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C3AC96AB-753F-4696-8C12-0A61062A52D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0BF211B7-FB0E-4A81-BFEA-CEEA74137927",
+    "height": 80,
+    "width": 304,
+    "x": 10,
+    "y": 236
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book List Item - Search Page ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BD2DE63-D1CB-42D9-A33D-8D7BF587B560",
+      "overrideName": "1BA15D21-2353-4A63-9714-4490A3EF9E8A_stringValue",
+      "value": "How to be a Pirate "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E9E346DF-A430-478D-A59F-DF56CD7C79C0",
+      "overrideName": "6DC0D43A-98A1-4351-9440-8A5036D9AAAB/CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6b4fe2e75274d3f8b23e9fa71a1f7cbab44c9645.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4D58CFA-0284-4F71-9BD2-ECEBC7F93743",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D4E4DAF6-63D0-4A80-8EF2-11CB85487C45",
+  "verticalSpacing": 0
+}

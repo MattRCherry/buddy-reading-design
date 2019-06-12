@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "18E151D1-E01D-4B93-8F94-FE2FBFECD4B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2851474F-A64E-4998-AFC4-5CDB6C76B6CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 1,
+    "destinationArtboardID": "10FE2A65-D410-41F8-A8BC-DEE7FC92C5EE",
+    "do_objectID": "DD285AC3-305F-4DF1-9C68-1ED86D7AB55D"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58A22A60-AD4F-4EBE-97FA-898284F49126",
+    "height": 383,
+    "width": 304,
+    "x": 8,
+    "y": 217
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile Card -- Info & Join",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83118610-B5B0-4AAA-BFF1-57DB2236F4CF",
+      "overrideName": "53096889-DDB0-4D7D-9BA7-6D4B1877C9DD_stringValue",
+      "value": "Matt Cherry's Reading Crew"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8CE8EF09-69FE-4C64-ABBB-91829D7FA668",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3A24F95A-1822-40D6-B46A-0230F6CEF3A2",
+  "verticalSpacing": 0
+}

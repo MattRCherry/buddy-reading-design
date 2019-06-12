@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "do_objectID": "436D71EB-8E75-40E6-A304-2B72963890FA",
+    "green": 0.9803921568627451,
+    "red": 0.9803921568627451
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B695F83E-9DDD-4101-9423-5AF301C46C2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "797B9015-3AB6-44AA-AB30-1C542EDF5FC6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4077A867-A152-4615-B961-B272BA6DDAF4",
+    "height": 1024,
+    "width": 320,
+    "x": 260,
+    "y": -512
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3A9EC912-6614-47F1-A801-5C0BBDB129F0"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FBCFCF5B-4C26-4933-87F8-84FB620D5FE7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8C27EB07-7FD7-4BAC-B5C0-AEB4737A5CCE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6CBA5F3F-4A2A-4090-B1FB-9EC265DF948F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18E151D1-E01D-4B93-8F94-FE2FBFECD4B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80693606-8AA1-47B3-AB81-C0E91952840C"
+    }
+  ],
+  "name": "Mobile Landing Page -- Not Logged In Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8366AEA0-3CD9-4B1B-9588-523281EF4227",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "97180ADD-B385-4F12-959A-E58C5E81600B",
+    "guides": [
+    ]
+  }
+}

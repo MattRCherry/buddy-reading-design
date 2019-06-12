@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "970D3495-FB0D-4345-AC3C-9505644A2C5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5ED4CC66-0BF5-438E-907D-0885264AB319",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6E6F5FC5-8EFF-422F-8AE8-57F2BE1AF92C",
+    "height": 30,
+    "width": 17,
+    "x": 17,
+    "y": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0FEB41EC-8870-40D3-8961-F95AC50D7581"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1C066E73-8BCF-4BC6-99EA-E9A5FAFEA6A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "1514A239-1E2E-4010-B6CC-555C8B22A3D0"
+    }
+  ],
+  "name": "pedestrian-walking",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C996BDF-5C54-44AC-85C0-1BBCB8E98423",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_f032e7ea-bc22-4ae5-9578-967da004315b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 16.5
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d9f58ae5-71e8-4bf9-9ab2-de3cf052b2f6",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "35D86FB5-9DF5-426B-8A2B-A25192563C33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04474AAB-85D0-41C2-98BE-53A35C80FC96",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7283759B-8541-480D-ACD3-B22A4B8A0FAD",
+    "height": 76,
+    "width": 304,
+    "x": 8,
+    "y": 514
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field Inactive w Error",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4EB9386A-886A-4036-A20A-E4453C3073F5",
+      "overrideName": "6FD10F91-ADF4-4A9B-99B0-F5BF1D46BDAB_stringValue",
+      "value": "Incorrect password."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A34F11E-E4E3-46B1-8A52-2F4A2AD4FDB3",
+      "overrideName": "B2B56ACE-A69B-4EE7-B456-81612FE5350E_stringValue",
+      "value": "●●●●●●●●"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "732FE5FB-80A9-4C04-B23E-01EFCFCF0537",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "24907623-7CDA-41CC-887A-6DDCA6AA218F",
+  "verticalSpacing": 0
+}
