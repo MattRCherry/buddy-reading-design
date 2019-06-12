@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8806B121-C530-412F-A349-5458AE7C384A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2700BD9-0F37-41D2-B9B9-F367C2CF29C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "9EE4F5EF-EDC1-48CC-99EE-3B3105228E4E",
+    "do_objectID": "E34BEAE9-906F-400A-AB2B-14D1CC10883D"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E042D2DF-5928-46E1-8DDB-BB6EA3C698A5",
+    "height": 51,
+    "width": 98,
+    "x": 206,
+    "y": 1224
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button Contained",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E1F8BD0-FFA7-4131-8A84-74D189609F0A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0C66FD9-8BCE-4EB8-93A9-C353A632AD9F",
+  "verticalSpacing": 0
+}

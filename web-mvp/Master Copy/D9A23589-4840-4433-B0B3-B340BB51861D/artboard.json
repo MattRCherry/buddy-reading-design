@@ -1,0 +1,167 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7A9FF479-7558-4297-A7F3-AD2AACD31276",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D9A23589-4840-4433-B0B3-B340BB51861D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8DA1E420-034E-4855-981A-C0078130E0FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09E0677C-668F-47D3-802C-3C8A2C965693",
+    "height": 1024,
+    "width": 320,
+    "x": 2780,
+    "y": 3160
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "21C59015-779C-4564-9007-9F5A006930E9"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "20965D21-BC03-42FD-B994-337807BFEBD9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EEFF7F1E-5A5E-4043-AFEE-333B8048BBAD"
+    },
+    {
+      "class": "group",
+      "id": "6FEB6E0B-E2F6-4150-A3D7-8961AC17C366"
+    },
+    {
+      "class": "group",
+      "id": "F6370353-1548-4CE5-8162-5939170CEE38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80F9B27C-B4B4-418C-8B73-E2DE44019D22"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F3114E3-43D9-4A4C-BA4D-367E93EF7E77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99E4A61C-EB3C-4C47-A4B8-5BAE19DCA764"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E39D3D39-97FA-468C-9D29-6CF693FE2D7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13B75D3E-31D5-43CE-B6A0-5D8E5DA3F43E"
+    },
+    {
+      "class": "group",
+      "id": "EF7BA24B-85AC-4FE3-929F-32D14C7D6479"
+    },
+    {
+      "class": "group",
+      "id": "85B22CAF-A503-425C-9C06-FEE92097052E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "802568C8-9076-4DBF-9F5A-FE07BDA13675"
+    },
+    {
+      "class": "rectangle",
+      "id": "FD772119-5D76-4091-AA81-C141F7395D65"
+    },
+    {
+      "class": "rectangle",
+      "id": "A4D4A383-975C-4F4B-AAD3-01C4A0F198B5"
+    },
+    {
+      "class": "group",
+      "id": "CD18FF67-7F75-41F2-A6ED-40CC40854AAF"
+    },
+    {
+      "class": "rectangle",
+      "id": "1DAFBE43-1B85-4C41-ACAC-BBE88879B1FF"
+    },
+    {
+      "class": "rectangle",
+      "id": "D8ED1ABA-9827-4726-B28D-1BCDC66F0D1D"
+    },
+    {
+      "class": "rectangle",
+      "id": "2CC43B23-9856-4882-8ED1-06BFFC7F5852"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B425232-C26D-477D-9A04-786EF2D5B987"
+    },
+    {
+      "class": "text",
+      "id": "C12EDD17-AF77-45F0-8037-C7A8003A0FFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2370361E-ADCE-404C-86EE-E583D4BED3BF"
+    }
+  ],
+  "name": "Mobile - Group Page - Member / Shelf",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D260EC2F-4BF6-4E40-BB41-C419CB06AD7C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D4CCBC3A-B2BB-4BE4-AC03-28BEAF7157EC",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC35E0C6-22D1-44EF-9395-577C3BB81E10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE14A8AE-8A5F-49C1-8B70-FF30B7B5047D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B87E1CF9-61C1-43C7-A6EA-CAFF3DDF15D5",
+    "height": 57,
+    "width": 304,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A43CDA4-38A3-4523-9325-A9D8B76B3C2B",
+      "overrideName": "9787FC6F-87D3-44C8-812A-296CF98A95D4_stringValue",
+      "value": "Username"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "625601FA-0D4E-4F96-BCA6-D5C689AEF9AC",
+      "overrideName": "D825F4D5-3057-49E9-A06F-49674366EAD2_stringValue",
+      "value": "FrescoCherry"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB4DF488-D0F7-476D-A9C2-A99FC561BC48",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AEA301A1-4500-42B9-ACEF-20D0BFB2D49A",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "203939EA-E1E1-4858-91B0-58166CF9CFEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5137641-E64E-478C-981A-171236ABB4D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "B44EFBD2-0C2B-410B-95CC-579B9E73B070",
+    "do_objectID": "FF3CA810-4B2E-40C9-8920-0C7EA31AE8D2"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FBC778E7-E7BE-458B-8BFC-4A11C45FE490",
+    "height": 51,
+    "width": 228,
+    "x": 35,
+    "y": 177
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button Contained",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "137C98DB-0FB6-487D-ABF0-353BA8E47182",
+      "overrideName": "F76F0D22-9703-4448-AA8A-F8713A450DEA_stringValue",
+      "value": "SIGN IN WITH DISCORD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55716FDB-7B19-4B8D-A720-E328A4C98AB3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0C66FD9-8BCE-4EB8-93A9-C353A632AD9F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1560293110.650657
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

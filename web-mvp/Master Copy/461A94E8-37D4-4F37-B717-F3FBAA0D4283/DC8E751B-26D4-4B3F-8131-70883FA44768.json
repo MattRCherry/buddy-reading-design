@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC8E751B-26D4-4B3F-8131-70883FA44768",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "159C0E50-D73B-4796-BFB1-B5020F80AF78",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F08A26C5-CE6C-44CB-938B-184BE2881F11",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 395
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book List Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "849C78E7-6CBD-4FF6-8C56-90B866BD8CAD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A1EE65DB-FF11-4C05-8943-1E1B83E5D071",
+  "verticalSpacing": 0
+}
