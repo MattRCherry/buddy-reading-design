@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "09164BB7-755E-4C5B-9966-52397921C95B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 221,
+    "width": 296,
+    "x": 8,
+    "y": 970
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Fields / Large Active w CC",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75BCB1C5-1B0A-45A2-AB3E-F337D0319C7B",
+      "overrideName": "A28B1279-5FA8-47AB-8CF5-EBE0657BF565_stringValue",
+      "value": "Group Bio"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5ED76FC9-B90F-42BD-9592-CA555FBC0FB5",
+      "overrideName": "9DB60C37-CB18-46BD-A964-A5C82ADB3B03_stringValue",
+      "value": "Hi everyone — my name is Matt :) Looking for a group of people to help me get through some of the books I’ve been meaning to read for ages! "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F492F9E5-CE44-4BDD-855A-DABD5788D9A5",
+  "verticalSpacing": 0
+}

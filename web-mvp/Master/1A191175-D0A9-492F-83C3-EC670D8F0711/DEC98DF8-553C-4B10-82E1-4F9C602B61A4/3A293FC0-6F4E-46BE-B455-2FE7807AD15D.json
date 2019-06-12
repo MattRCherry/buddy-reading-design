@@ -33,6 +33,22 @@
   "name": "Group Member",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D0D49D3-27D3-490A-9C2A-23988A825F43",
+      "overrideName": "B6967754-0789-4580-9641-0D2C637F0AEC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/485796df9767a7b20f17960e94c355583627c260.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FAF30E24-C1E0-453D-8220-5AA490EAE976",
+      "overrideName": "88FF8E7D-8387-4184-9E34-7252EB7262EC_stringValue",
+      "value": "Quinn Turner"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

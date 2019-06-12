@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 28,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "Matt Cherry’s Reading Squad "
+    "string": "Matt Cherry’s Reading Crew "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,10 +53,10 @@
     "do_objectID": "AB6871B3-D979-4EBC-9F17-C6DBED8A8E99",
     "height": 19,
     "width": 272.5517241379314,
-    "x": 15.99999999999989,
-    "y": 227.728459530026
+    "x": 16,
+    "y": 210
   },
-  "glyphBounds": "{{1, 2}, {239, 17}}",
+  "glyphBounds": "{{1, 2}, {230, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

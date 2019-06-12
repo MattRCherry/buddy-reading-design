@@ -44,7 +44,7 @@
     "do_objectID": "DAB631A5-C3CD-4742-942C-0A6C0412D8A6"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -72,7 +72,7 @@
       "id": "598E1833-717C-4176-9F6B-68FAB5A62D17"
     }
   ],
-  "name": "Search Page ",
+  "name": "Mobile / Search / Start / HPGF",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
