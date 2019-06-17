@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B8FCF35D-FBEA-4CF1-B775-B2950C67B883",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CD65CE1E-CA0B-4CD0-93E0-A0C615743F48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB341A83-6FAB-45C8-9360-0EF27EC8DF0A",
+    "height": 221,
+    "width": 304,
+    "x": 8,
+    "y": 1149
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field Large Inactive w CC",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F32120ED-1142-4299-82FC-B23B3F167E0D",
+      "overrideName": "E89FFDFB-3324-4924-8A7E-6CA69EFF5090_stringValue",
+      "value": "Group Bio"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "182A469F-27CF-4382-BDB8-E43DEDC6F359",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3A03DC2-28E3-4BB3-9CB1-8372C3E7DD63",
+  "verticalSpacing": 0
+}
