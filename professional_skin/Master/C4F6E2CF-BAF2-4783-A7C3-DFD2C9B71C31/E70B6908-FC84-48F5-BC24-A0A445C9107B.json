@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E70B6908-FC84-48F5-BC24-A0A445C9107B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EDEF46F6-179E-4737-8174-1EA10BE70E61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE4F522F-249C-48FA-9EE8-0C044D0147ED",
+    "height": 96,
+    "width": 320,
+    "x": 0,
+    "y": 739
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book List Item Search Link",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6F0E06A-702E-476B-ABE9-2C2D83A6F852",
+      "overrideName": "8B79C3A8-E5E4-4C13-B0A7-7CABF72DC952/CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/14c85ab723e146204f4b0961fd1fef2ec982aabc.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A3888C3-2241-428C-A815-5B7EDE268906",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8EE0F36B-2E95-4BE7-BC10-3977DE6E8932",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6C8BB82-9363-429A-97E6-3A37E1EF1D1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9DA1A0BB-93FA-4663-97CF-90FF82FFEC1A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0170094-00CF-48BE-8C50-873C47CC59EA",
+    "height": 35,
+    "width": 292,
+    "x": 15,
+    "y": 692
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Fast Reading Speed",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E014BDCF-4610-4985-B1AF-D73F5F069A69",
+      "overrideName": "E6E1948C-252A-4D7E-A806-056734F085FE_symbolID",
+      "value": "592390F5-6805-4607-BFCF-0DF1889C9CF6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82D014BD-683C-42FD-9BEF-29416C7AD297",
+      "overrideName": "373750DF-171D-431B-BEEE-68B56FBFBBDD_stringValue",
+      "value": "Moderate Reading Speed"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAAD7E57-52A9-4E85-8C22-39ACFE218465",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C7941352-887D-4E19-A191-5949F87338BB",
+  "verticalSpacing": 0
+}

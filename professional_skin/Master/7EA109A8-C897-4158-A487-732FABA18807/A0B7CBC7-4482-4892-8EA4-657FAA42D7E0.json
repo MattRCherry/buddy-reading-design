@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A0B7CBC7-4482-4892-8EA4-657FAA42D7E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "056379F3-BA32-46DA-81AB-073328A931B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE9AB0BE-B179-4E8A-834C-8BE60AFBBF4E",
+    "height": 56,
+    "width": 320,
+    "x": 0,
+    "y": 200
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page Header ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49694A07-843A-47DA-8A08-24472E34B854",
+      "overrideName": "960A8D23-55E2-4963-A2BB-E6FECBCAD860_stringValue",
+      "value": "Matt Cherry's Reading Crew"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA32C7BC-8A72-4B9F-8CC1-75CF050D3F9F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "15CE5577-956D-4895-BE84-E3CA79BD63C9",
+  "verticalSpacing": 0
+}

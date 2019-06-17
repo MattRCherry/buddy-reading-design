@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "58B851BA-2D0D-4798-B36F-A7A8C9B449E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5067971-E500-4FFA-BEE8-3EFEF7B2EFDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9C9D2D90-0EC1-4089-817D-3920F5781654",
+    "height": 120,
+    "width": 75,
+    "x": 24,
+    "y": 31
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "761418AC-C8B6-4C49-9939-68C15FD61BA6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "125224E5-650A-4214-9129-C47259DB4205"
+    },
+    {
+      "class": "group",
+      "id": "5628F8DF-C387-412E-96BB-F518B46768DF"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0629346C-B7FE-4C25-A3D5-C0D5096CC1F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 120,
+            "enabled": 1,
+            "modelID": "constraint_6b669647-d5ca-4dc8-a554-7070a8d4c8cf",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 75
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_981fa604-326e-4adf-84a4-f4293d010633",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

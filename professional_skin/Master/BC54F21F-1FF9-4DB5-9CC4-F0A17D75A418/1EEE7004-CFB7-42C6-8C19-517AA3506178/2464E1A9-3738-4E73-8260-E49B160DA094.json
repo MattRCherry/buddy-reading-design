@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2464E1A9-3738-4E73-8260-E49B160DA094",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2193B6EC-1B5E-4CE2-A4FA-BE84C6275328",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8135A84E-51A7-4C50-94A3-317C59B9071A",
+    "height": 32,
+    "width": 32,
+    "x": 264,
+    "y": 223
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Moderate Web",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7776C49D-F50F-4860-AAF6-B0645791CC67",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7645CCF5-9BE6-4A61-B88D-04DA1F8F1AC8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_834159ae-b878-495f-a01c-4b8f6957ee17",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 30
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_20eeca45-e5ef-46ea-af85-e37aa146bb44",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

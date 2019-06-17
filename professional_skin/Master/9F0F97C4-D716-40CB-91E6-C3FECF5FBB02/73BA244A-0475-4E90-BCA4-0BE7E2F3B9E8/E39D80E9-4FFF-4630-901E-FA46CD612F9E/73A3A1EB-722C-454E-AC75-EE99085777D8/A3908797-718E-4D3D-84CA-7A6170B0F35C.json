@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3908797-718E-4D3D-84CA-7A6170B0F35C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E424FAB-18D2-433E-A8FD-1D14E85F6A38",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F61E40F7-159A-4709-BE30-30B51796B7FF",
+    "height": 51,
+    "width": 102,
+    "x": 40,
+    "y": 23
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button Outline",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3409C49-8A95-4548-9DC4-6F7606FE222E",
+      "overrideName": "E2F7AA52-3CD2-473D-9616-833F1D297F41_stringValue",
+      "value": "SIGN UP"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B307B39-9813-448C-9A1E-826B820E26B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "400BF038-7FC5-4751-8E14-F551772328B1",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1560293110.649464
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

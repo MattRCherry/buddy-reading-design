@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7111F496-0768-4A04-BD30-C2F2AE577DFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9F84905-61A4-4E48-A17A-E34E11D462F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "980DD5E6-8421-4431-8DC2-4527AA908D61",
+    "height": 81,
+    "width": 304,
+    "x": 8,
+    "y": 380
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Slider 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2D25068-5336-4FFE-9F96-A76C329AFCBB",
+      "overrideName": "35F4F611-4CFE-4F78-88E4-AA668C17626F_stringValue",
+      "value": "How many group members do you want?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B8AE5B1D-E1AE-4BDC-B9FB-DA517B024EE6",
+      "overrideName": "F961EA82-17FC-41C1-94E8-D384C20E5A23_stringValue",
+      "value": "4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "778FC3CA-43D2-4E77-ABDB-F4CFC57ED6EB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "56AFB56C-1733-4F1A-979D-EDAFCA5561F7",
+  "verticalSpacing": 0
+}

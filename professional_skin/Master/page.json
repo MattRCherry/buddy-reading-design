@@ -1,0 +1,187 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9799FDB8-9134-47C5-A300-B1D46E2379B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -386,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "37EE1F81-DA95-4318-99D2-66BD1EB327D4"
+    },
+    {
+      "class": "artboard",
+      "id": "B695F83E-9DDD-4101-9423-5AF301C46C2B"
+    },
+    {
+      "class": "artboard",
+      "id": "2A60833B-4842-46F2-B5CF-260096BAF1F9"
+    },
+    {
+      "class": "artboard",
+      "id": "9F0F97C4-D716-40CB-91E6-C3FECF5FBB02"
+    },
+    {
+      "class": "artboard",
+      "id": "10FE2A65-D410-41F8-A8BC-DEE7FC92C5EE"
+    },
+    {
+      "class": "artboard",
+      "id": "C9B877FE-BDF3-4D1F-BFFD-4DC6363AB5BD"
+    },
+    {
+      "class": "artboard",
+      "id": "7EA109A8-C897-4158-A487-732FABA18807"
+    },
+    {
+      "class": "artboard",
+      "id": "B5934F8D-9376-4623-BFEB-9D2617B2AD97"
+    },
+    {
+      "class": "artboard",
+      "id": "4B926BCF-F9CF-456C-BAAB-A495F2F23077"
+    },
+    {
+      "class": "artboard",
+      "id": "C1F89CC4-0BD8-4C74-ACFB-8A05A3688C11"
+    },
+    {
+      "class": "artboard",
+      "id": "D47A501E-0CF5-4611-ADE9-23D34CE172BF"
+    },
+    {
+      "class": "artboard",
+      "id": "1D7E7E76-40CE-4F68-9B18-3395BE37DE09"
+    },
+    {
+      "class": "artboard",
+      "id": "3F5CA883-CD9E-4AB5-8F1B-DECF9E7D63E5"
+    },
+    {
+      "class": "artboard",
+      "id": "A070FFCC-3BD2-4C49-B0A0-C6E511681617"
+    },
+    {
+      "class": "artboard",
+      "id": "03E9BF21-0B60-4655-9C9E-C1A08A8C6367"
+    },
+    {
+      "class": "artboard",
+      "id": "C49F44F1-106A-4E7B-9B67-2E90F6416793"
+    },
+    {
+      "class": "artboard",
+      "id": "567F4F39-8BAB-4785-8BB1-6FAB33FD896F"
+    },
+    {
+      "class": "artboard",
+      "id": "51A6ADA4-9041-40B3-81F8-4D92B8215BD6"
+    },
+    {
+      "class": "artboard",
+      "id": "FF207922-8A4D-4EFC-B4DC-842F526DBFBB"
+    },
+    {
+      "class": "artboard",
+      "id": "BC54F21F-1FF9-4DB5-9CC4-F0A17D75A418"
+    },
+    {
+      "class": "artboard",
+      "id": "677F7BD3-6A8F-4247-82ED-3A1E801D95F7"
+    },
+    {
+      "class": "artboard",
+      "id": "34736376-7CFD-4C66-816E-32E52488CBE2"
+    },
+    {
+      "class": "artboard",
+      "id": "C4F6E2CF-BAF2-4783-A7C3-DFD2C9B71C31"
+    },
+    {
+      "class": "artboard",
+      "id": "1A191175-D0A9-492F-83C3-EC670D8F0711"
+    },
+    {
+      "class": "artboard",
+      "id": "23889CE5-5DF9-4E75-B8ED-BE32885701DE"
+    },
+    {
+      "class": "artboard",
+      "id": "96FCD0F9-0714-4E68-AAA4-113395794F7A"
+    },
+    {
+      "class": "artboard",
+      "id": "44D8CFE3-C741-4586-BE61-3CDC46748334"
+    },
+    {
+      "class": "artboard",
+      "id": "26443090-9D7D-42F6-A590-659C53EF4A23"
+    },
+    {
+      "class": "artboard",
+      "id": "1508CFE4-DD2E-41AF-9D3F-DBEFF28E6B3B"
+    },
+    {
+      "class": "artboard",
+      "id": "47467177-C3DE-45BD-9086-13CF5F130609"
+    }
+  ],
+  "name": "Master",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -347,
+    "guides": [
+    ]
+  }
+}

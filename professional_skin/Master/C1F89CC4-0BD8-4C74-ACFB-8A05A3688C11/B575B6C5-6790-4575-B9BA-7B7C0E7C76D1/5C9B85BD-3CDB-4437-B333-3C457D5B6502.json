@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C9B85BD-3CDB-4437-B333-3C457D5B6502",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "142A73D0-CC1B-425B-A61E-C8D24C424030",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0DF5D52-6109-48CD-BEA4-7206206A26F7",
+    "height": 29,
+    "width": 127,
+    "x": 0,
+    "y": 201
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Genre Filter Button Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10AA72A9-CA30-4367-9066-D5F5A7EE23F3",
+      "overrideName": "0380F3F7-FCF2-43E3-9BAB-DF1CA0EA7717_stringValue",
+      "value": "Productivity "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82D63E85-C3A3-4832-B6E9-31281DF458AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F6453712-43D9-4238-A17E-88424E9562A6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1560448503.376018
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,158 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "589A87A7-53EB-42CA-8894-314F59D0CD41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9568143-CF8C-4ED5-9022-E3D9A1454495",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6ACB94C1-D579-4E75-B4D3-351744718A4E",
+    "height": 16,
+    "width": 16,
+    "x": 4,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "13A60357-FBBA-42BC-AC9E-6834431DA05B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6702AD50-8F13-4BEF-B1A8-0CB6C6DAA8F4"
+    },
+    {
+      "class": "shapePath",
+      "id": "012FF0CD-A233-48DA-9A4E-110A7580274A"
+    },
+    {
+      "class": "shapePath",
+      "id": "389F07FD-45BA-45E9-85AB-886D037111A6"
+    },
+    {
+      "class": "shapePath",
+      "id": "1B274156-64D6-492F-B35E-56EBCF581B3A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "82C59243-2019-4F19-ABF9-EDC12649282D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39C1A888-B819-4250-A015-2E2A583BB2EE"
+    },
+    {
+      "class": "oval",
+      "id": "19C1F154-5231-4860-B608-BEEC7EB6AF37"
+    },
+    {
+      "class": "shapePath",
+      "id": "92C0396A-3F35-4414-AE25-7E0F7F22A434"
+    },
+    {
+      "class": "shapePath",
+      "id": "DFC9842C-1D4A-405C-9CF1-09AC27A139D7"
+    },
+    {
+      "class": "shapePath",
+      "id": "8E1A1705-F45A-41DD-9415-32CF6B202991"
+    },
+    {
+      "class": "shapePath",
+      "id": "62ACD6B3-B096-4A8E-9F96-6773E6E2E72F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "15B615A1-13C4-4CA1-8B24-890D516EF8EB"
+    },
+    {
+      "class": "shapePath",
+      "id": "6F1F8372-CDB1-4470-A0FA-8446848D3327"
+    },
+    {
+      "class": "shapePath",
+      "id": "D1AE51CD-5C88-44C3-845F-502C6498E182"
+    },
+    {
+      "class": "shapePath",
+      "id": "BC56F3DA-366B-4B3B-B95F-81D0E10742DA"
+    },
+    {
+      "class": "shapePath",
+      "id": "F8944063-FC8F-4D1E-A1E2-85012E3426E8"
+    },
+    {
+      "class": "shapePath",
+      "id": "1119CF96-0352-4EA1-98FE-BAB4F41EB427"
+    },
+    {
+      "class": "shapePath",
+      "id": "22C0A6A3-9E91-45F4-8A66-A1A4ADE7E318"
+    },
+    {
+      "class": "shapePath",
+      "id": "C1B7A7BB-7F4C-4106-85C1-C19DE94A7CA8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F8C9C21B-AFD4-45FA-B5DA-0E2E888B09AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "226597B7-9F7D-4461-93FE-F9627C958635"
+    }
+  ],
+  "name": "confetti",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC26E71A-68F3-4DF9-8573-EB86631CAE2E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_c420e8af-88cc-4f70-9b16-88ffe5f65c81",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 30
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d03d0092-ade9-4be3-9326-19e412ce09db",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FD5EDFA3-6694-4059-A58D-B4849D84DBDE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C119511B-DFE5-4BCB-AF8D-E4823D5947B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5D3BDE0-39F2-42C2-BF08-6B37662B499D",
+    "height": 29,
+    "width": 138,
+    "x": 148,
+    "y": 201
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Genre Filter Button Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10AA72A9-CA30-4367-9066-D5F5A7EE23F3",
+      "overrideName": "0380F3F7-FCF2-43E3-9BAB-DF1CA0EA7717_stringValue",
+      "value": "Programming"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1EB41B1-9716-4E49-B42C-D29170BA1D76",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F6453712-43D9-4238-A17E-88424E9562A6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1560448514.25028
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

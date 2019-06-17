@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "986E94C4-7696-4A28-88B9-AA3B84E9C5D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A8CD373-FAD0-4637-A5B1-659E9C057193",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D45EDD1A-AFF4-48F3-AF30-B219F98B0B97",
+    "height": 200,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Headers / Club Header Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C932CC1-5750-46B8-9A84-1EF22C15210F",
+      "overrideName": "CDAE2485-9C93-4A24-9719-5C983F19E9AD_stringValue",
+      "value": "Pivot "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7974FE5F-42DA-48B1-BF59-A6425B13C7F5",
+      "overrideName": "2E3840BA-2EC7-4AC6-8A33-3EAA9AA024BE_stringValue",
+      "value": "Business"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "669D444E-9BFB-4D60-A5F1-6AA1E8A7B56E",
+      "overrideName": "D9AD7FD3-E072-44E2-BCD9-FF17F720608B_stringValue",
+      "value": "Jenny Blake, 2016"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97CFA901-332E-4D2E-AC39-C87648AEDEEF",
+      "overrideName": "B9868F01-C86C-4881-AD58-1A8CFE2ED395_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d17d586efac70fb86850b18cc03edd84dd91ed25.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D814A6D2-3E54-4141-AE49-B2CCA7806D04",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2E5E2DCC-1816-4C15-87A5-BB4AF72BB64C",
+  "verticalSpacing": 0
+}

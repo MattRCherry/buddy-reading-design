@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B302045-84E3-4DC8-925B-E29EBDAFB8F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7BF309F-0261-47C1-BAA7-9F5FF1583BEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9A2B9A5E-8C02-4F31-9145-8278E4538694",
+    "height": 32,
+    "width": 32,
+    "x": 264,
+    "y": 31
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Slow Web",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48BC1984-0216-4AC9-9C07-339850446430",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A64DDAB0-04B7-40E5-8EB1-61FACC5E1E2B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 40,
+            "enabled": 1,
+            "modelID": "constraint_a40206c2-5ed5-4b33-aafd-4ea37d8f2d8e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 40
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5076950b-8e75-49d6-ac93-aa9004a8f188",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

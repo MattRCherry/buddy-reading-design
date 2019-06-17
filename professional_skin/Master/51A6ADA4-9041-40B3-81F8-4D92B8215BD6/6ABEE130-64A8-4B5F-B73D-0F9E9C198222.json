@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6ABEE130-64A8-4B5F-B73D-0F9E9C198222",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 304,
+    "x": 8,
+    "y": 140
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List Items / Book List / Search Item Selected",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E155AC53-6F75-4197-A166-38F6B7F1476E",
+      "overrideName": "1E760D39-2B4E-44E3-B5FE-71FC7550C7D8_stringValue",
+      "value": "Kafka on the Shore"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C17792D-297B-4C85-817C-19B11A254B22",
+      "overrideName": "AF2DD138-24EC-485C-918B-F565922F771E_stringValue",
+      "value": "Haruki Murakami"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54571476-93B4-407B-995E-5E627DCB7696",
+      "overrideName": "D1B502DE-940B-463D-9EA6-5E1AF1807AFE/CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d9a04807769f48150b396df5fac0274b986f2389.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D4E4DAF6-63D0-4A80-8EF2-11CB85487C45",
+  "verticalSpacing": 0
+}

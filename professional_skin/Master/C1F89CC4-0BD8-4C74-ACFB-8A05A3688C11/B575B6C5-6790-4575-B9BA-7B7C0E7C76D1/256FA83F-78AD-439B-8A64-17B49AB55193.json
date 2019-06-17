@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "256FA83F-78AD-439B-8A64-17B49AB55193",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D61ECD76-FC37-457B-BFEC-040114880366",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F258AE5F-86D7-4942-87EB-5B8887B493E4",
+    "height": 27,
+    "width": 167,
+    "x": 0,
+    "y": 74
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Genre Filter Button Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1B5454E-DF7D-47EF-870F-FC98FF84E77C",
+      "overrideName": "E0AE3C4E-C6A9-4A50-84A5-37EEB9908E0F_stringValue",
+      "value": "Entrepreneurship"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4564C0A0-C860-4F7E-B6D1-A24107A2EFA0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "284FE7A0-0ED9-45E1-839C-FFE6C9418D26",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1560448458.874417
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

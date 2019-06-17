@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "25BE4BF3-7788-48EB-80EB-5A5765B906F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ECB3E733-FE74-4017-A2CE-970C5331C21A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55C0524B-6445-438B-9F1E-54F55E994145",
+    "height": 35,
+    "width": 292,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Group Member Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC0E7DB7-09AC-4F91-9EF2-F1BB65457B28",
+      "overrideName": "88FF8E7D-8387-4184-9E34-7252EB7262EC_stringValue",
+      "value": "Yusuf Khaled"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1880A7A7-93F6-40A4-869B-92DC429AF9B1",
+      "overrideName": "B6967754-0789-4580-9641-0D2C637F0AEC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4a4c4f4ccc9b13334f35409cf6d9ee2349fad3db.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "832304A2-ACD1-4640-A23A-39DED927B888",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5BDAFD01-460A-486D-AD03-EB150B36F48F",
+  "verticalSpacing": 0
+}

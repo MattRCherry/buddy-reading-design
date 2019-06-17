@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8A58173A-99D8-43B7-A42C-4C16CF630EA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A26CEA89-CBCF-40D2-BA11-A3FD7EAE6EA8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9BC2184-A52C-438A-BFBF-7CED60D7D9E8",
+    "height": 51,
+    "width": 228,
+    "x": 35,
+    "y": 177
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button Contained",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "137C98DB-0FB6-487D-ABF0-353BA8E47182",
+      "overrideName": "F76F0D22-9703-4448-AA8A-F8713A450DEA_stringValue",
+      "value": "SIGN IN WITH DISCORD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F79B0F9-B5CC-4BB8-A7BE-B2A0852E7F55",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0C66FD9-8BCE-4EB8-93A9-C353A632AD9F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1560293110.650657
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

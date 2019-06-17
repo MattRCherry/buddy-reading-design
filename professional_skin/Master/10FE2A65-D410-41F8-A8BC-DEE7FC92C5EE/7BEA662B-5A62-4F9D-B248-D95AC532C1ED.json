@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7BEA662B-5A62-4F9D-B248-D95AC532C1ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "298549CD-4FD3-4D04-9084-2C71AD6587FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "814F25A0-561B-4A2C-BFAC-3528CCF3C7AB",
+    "height": 56,
+    "width": 320,
+    "x": 1,
+    "y": 200
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page Header ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5FED859A-9828-448B-A78E-C9637AE0CF52",
+      "overrideName": "960A8D23-55E2-4963-A2BB-E6FECBCAD860_stringValue",
+      "value": "Fantasy Fans Club"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FEFB8B46-CB6D-4B28-8E0C-FF6DA3C64D09",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "15CE5577-956D-4895-BE84-E3CA79BD63C9",
+  "verticalSpacing": 0
+}

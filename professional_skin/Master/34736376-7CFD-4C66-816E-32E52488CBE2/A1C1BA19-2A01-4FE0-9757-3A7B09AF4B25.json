@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A1C1BA19-2A01-4FE0-9757-3A7B09AF4B25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "508EE761-16CB-4990-9176-A73C500ED2D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0672A7CF-6D47-4A37-B21A-1ABE7724D1B3",
+    "height": 56,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header Light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "685C4FDF-CCEA-4034-AAD9-60FBA82ED8F2",
+      "overrideName": "DEF29557-F3C6-4DA0-BE25-FBA21D457A05_stringValue",
+      "value": "Update Reading"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA3D7240-A857-494A-AFA3-C7A7C0A46D78",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2A585686-AD8C-42BE-BFBE-4D83F395D827",
+  "verticalSpacing": 0
+}

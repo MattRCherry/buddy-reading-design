@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC47FF1A-4FAB-432D-B803-47847E5A2468",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19EE971C-CFC0-483A-8BB5-C320CD80CD05",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C2407700-BEAD-43D8-8CB6-C653E094E03D",
+    "height": 32,
+    "width": 32,
+    "x": 264,
+    "y": 127
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Fast Web",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "425121BB-FD94-400C-BA15-362D4A60048E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ABC57A21-ADE9-4B3D-A52F-4A7358286FFD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 40,
+            "enabled": 1,
+            "modelID": "constraint_f09d70c7-9981-4cfe-bfac-ad2ca81f8a64",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 40
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_9cf004e6-d50b-4745-a915-a17378966a77",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "93C4D974-5894-4965-ABA3-8A3273AC6DA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 15,
+    "width": 19,
+    "x": 8,
+    "y": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A2384F72-C92E-4C02-8CE5-10BFE26625AC"
+    },
+    {
+      "class": "oval",
+      "id": "2203844B-0C59-4565-9C21-F452078CAEB0"
+    },
+    {
+      "class": "shapePath",
+      "id": "0264D103-8993-4F30-8AEF-865F844DB0FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "5F5A2B12-9B40-43A2-8C10-463DC2856F3F"
+    }
+  ],
+  "name": "user-plus (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 15,
+            "enabled": 1,
+            "modelID": "constraint_4719e746-64ff-4dd9-a1d4-cff0e0e8cbc4",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 19
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_bdb2e358-121c-45cc-b604-7e1f0723f091",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
