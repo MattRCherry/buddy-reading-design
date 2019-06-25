@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 103,
+  "changeIdentifier": 105,
   "clippingMaskMode": 0,
   "do_objectID": "0645B475-0D26-4784-809A-4333B9CA15B4",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "do_objectID": "673C62B9-554C-433C-8D18-984D4E3BD067",
     "height": 50,
     "width": 50,
-    "x": 1628,
+    "x": 1732,
     "y": 1485
   },
   "groupLayout": {
@@ -66,7 +66,7 @@
       "id": "A97AA5C9-F4FE-4185-BA4D-F1FE682BC878"
     }
   ],
-  "name": "Icons / CIrcles / Slow",
+  "name": "Icons / Circles / Slow",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

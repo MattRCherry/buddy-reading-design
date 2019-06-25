@@ -28,14 +28,14 @@
     "height": 1024,
     "width": 320,
     "x": -160,
-    "y": 1936
+    "y": 323
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "920F4715-2310-4B79-8CBB-E7B6E1A4BB91"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -75,7 +75,7 @@
       "id": "A4618F35-2BF6-46CE-AC7C-F7135DF4EDED"
     }
   ],
-  "name": "Mobile / Sign Up / Preferences",
+  "name": "Mobile / Onboarding / Preferences",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

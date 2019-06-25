@@ -20,6 +20,7 @@
               "size": 16
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
@@ -52,7 +53,7 @@
     "height": 19,
     "width": 66,
     "x": 16,
-    "y": 16
+    "y": 8
   },
   "glyphBounds": "{{0, 3}, {66, 13}}",
   "hasClippingMask": false,
@@ -91,6 +92,7 @@
             "size": 16
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0

@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29,
-    "width": 72,
+    "height": 27,
+    "width": 76,
     "x": 0,
     "y": 0
   },
@@ -58,13 +58,13 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
         "padding": {
-          "bottom": 5,
-          "left": 15,
+          "bottom": 4,
+          "left": 16,
           "modelID": "viewPadding_d8b8f4d8-d44e-41aa-8560-33ec9efca9b9",
           "model_class": "ADModelViewPadding",
           "model_version": 0,
-          "right": 15,
-          "top": 5
+          "right": 16,
+          "top": 4
         }
       }
     }

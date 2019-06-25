@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "64C4BE17-9ED9-470A-94AE-D949B1650EFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27893215-AA5F-46BE-A3E4-E58D0723D83D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA4C1AAC-E0D7-489E-91B6-DBB2E751BAE4",
+    "height": 27,
+    "width": 97,
+    "x": 113,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Genre Filter Unselected Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59D126D9-4B40-4A36-8BA8-3A92A48030C8",
+      "overrideName": "E0AE3C4E-C6A9-4A50-84A5-37EEB9908E0F_stringValue",
+      "value": "Classics"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "45722247-B7C4-46E1-A636-D97BE9B71A37",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "284FE7A0-0ED9-45E1-839C-FFE6C9418D26",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1561495353.418624
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

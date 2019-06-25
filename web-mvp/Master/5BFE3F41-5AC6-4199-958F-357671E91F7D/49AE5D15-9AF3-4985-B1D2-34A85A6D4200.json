@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49AE5D15-9AF3-4985-B1D2-34A85A6D4200",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8F0E598-8ADB-4074-B0D1-02900D89FB63",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A22906E6-6D21-44D8-9E8A-D8E0B8696270",
+    "height": 384,
+    "width": 240,
+    "x": -216,
+    "y": 200
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards / Prompt Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "84ADA6D5-76A0-4E25-AC44-E2D6FCFC35E6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C796203D-EFC5-4195-8123-D6A19CBE3841",
+  "verticalSpacing": 0
+}

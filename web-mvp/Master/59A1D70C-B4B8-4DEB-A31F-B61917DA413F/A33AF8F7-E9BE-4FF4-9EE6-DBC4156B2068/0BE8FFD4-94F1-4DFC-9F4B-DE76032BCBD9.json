@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0BE8FFD4-94F1-4DFC-9F4B-DE76032BCBD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2845032-8C67-4E83-A63D-9D9402AC20F7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5A5D7A9-5111-40C2-91A9-3C42180F6EF3",
+    "height": 35,
+    "width": 292,
+    "x": 0,
+    "y": 35
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List Items / Circle Icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C57E223-E779-46F5-8FE5-A579D71D27EF",
+      "overrideName": "DA7CF5AD-C43F-49CB-B5F0-9BE6537F2F4F_stringValue",
+      "value": "Fast Reader"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54B043FE-9C18-4667-B8B5-2E507E1C6861",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4CC81D8F-2960-4DD7-B9BD-F1ED564621AB",
+  "verticalSpacing": 0
+}

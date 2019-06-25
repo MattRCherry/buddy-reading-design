@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 258,
+  "changeIdentifier": 294,
   "clippingMaskMode": 0,
   "do_objectID": "6160A7B2-FE04-425A-9E13-E171FC970815",
   "exportOptions": {
@@ -28,7 +28,7 @@
     "constrainProportions": false,
     "do_objectID": "02BFF4BB-73D9-44CD-9634-59EB9CB7F031",
     "height": 27,
-    "width": 74,
+    "width": 77,
     "x": 0,
     "y": 308
   },
@@ -55,7 +55,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -85,6 +85,12 @@
     "windingRule": 1
   },
   "symbolID": "284FE7A0-0ED9-45E1-839C-FFE6C9418D26",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

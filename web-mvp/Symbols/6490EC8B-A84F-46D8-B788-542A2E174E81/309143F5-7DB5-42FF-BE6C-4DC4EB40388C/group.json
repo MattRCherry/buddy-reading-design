@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "309143F5-7DB5-42FF-BE6C-4DC4EB40388C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 13.09090909090909,
+    "width": 16,
+    "x": 4,
+    "y": 5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D3C077F1-8AE8-4490-BCED-B2F610491DE8"
+    },
+    {
+      "class": "oval",
+      "id": "F4646756-092A-48B7-B8FC-F30E453FA98D"
+    },
+    {
+      "class": "shapePath",
+      "id": "80A1D7B6-EC43-4DF9-A35B-83B5FD4CC273"
+    },
+    {
+      "class": "shapePath",
+      "id": "7D7CC88A-EC20-4639-8049-467653E5E8A9"
+    }
+  ],
+  "name": "users",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 13.09091,
+            "enabled": 1,
+            "modelID": "constraint_0ffa8296-d757-49b8-9c90-4bf9985c7ffd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 16
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_4a68fa2c-8707-4c07-83b5-a2524d4e04de",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

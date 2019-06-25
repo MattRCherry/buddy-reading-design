@@ -1,0 +1,129 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2A476ED-7235-4B62-A788-AB10B59E8E50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 320,
+    "x": 260,
+    "y": 323
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "46F2D62F-247E-42C1-A7C2-BC886F39EF87"
+    },
+    {
+      "class": "group",
+      "id": "16196BDD-D5DC-4E85-9509-458C842561B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A21EC2A-05E0-456E-B817-5D890C5647D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23F66784-C602-4AEA-9D60-7E126D97B201"
+    },
+    {
+      "class": "text",
+      "id": "E74A355A-1C77-4F24-9386-D0B10230FF7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0375A41-E108-4A50-B1E2-6CD66227EDEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E51F24FD-4ACC-4D02-97C4-D73F6D74ED30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F145E91-39EA-4620-A1B1-7315A7D41866"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45EAFBB5-86CC-470D-A6DF-836E0276D51F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE817733-2436-4595-A677-F59438E5F247"
+    }
+  ],
+  "name": "Mobile / Onboarding / Q&A / Home",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

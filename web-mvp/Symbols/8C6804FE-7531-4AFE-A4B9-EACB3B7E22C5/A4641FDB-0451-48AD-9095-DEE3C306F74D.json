@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4641FDB-0451-48AD-9095-DEE3C306F74D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 14,
+    "width": 14,
+    "x": 3,
+    "y": 3
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Icons / Plus",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12721B1D-92C7-4A35-8D8E-2A362802CECC",
+      "overrideName": "248623F5-B952-4459-AA49-53B5DAF11E84_layerStyle",
+      "value": "3F154D14-0A2A-4B30-AEC4-52B4A3D13515"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68D65D8D-6DF5-41A5-AE8C-15901C928873",
+      "overrideName": "0CDC6FB8-C3B0-4FE5-9166-C6403F9B44FC_layerStyle",
+      "value": "3F154D14-0A2A-4B30-AEC4-52B4A3D13515"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9171A06C-2A74-4C26-904B-F2381A3E3355",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 11,
+            "enabled": 1,
+            "modelID": "constraint_b4bb5e67-ce69-46e2-a2eb-ed557911b5b4",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 11
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_dcd84bbc-53d7-443f-ad40-440cb44de384",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

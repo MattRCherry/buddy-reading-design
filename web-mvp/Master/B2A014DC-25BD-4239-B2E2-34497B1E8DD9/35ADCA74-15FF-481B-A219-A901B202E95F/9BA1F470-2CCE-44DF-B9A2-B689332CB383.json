@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9BA1F470-2CCE-44DF-B9A2-B689332CB383",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3622B6C-7F27-4C47-A71A-462DB0E28A09",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "419FAE7C-61BF-4762-BDCA-33C73EDF3896",
+    "height": 159,
+    "width": 288,
+    "x": 0,
+    "y": 35
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Fields / Profile Q&A",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F473492E-03C3-4CA0-8BCB-59CC204E1B00",
+      "overrideName": "64F367E3-BCED-452F-8C31-ABE0DA7975C2_stringValue",
+      "value": "One book everyone should read?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0FD63798-3D1E-40F1-8734-4FDF5A708E99",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5BEDCE7-02D3-4397-850C-9096093B6C66",
+  "verticalSpacing": 0
+}

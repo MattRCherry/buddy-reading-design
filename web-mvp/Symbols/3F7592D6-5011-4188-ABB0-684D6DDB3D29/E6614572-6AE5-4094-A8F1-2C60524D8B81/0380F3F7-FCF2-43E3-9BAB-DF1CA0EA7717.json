@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Medium",
-              "size": 15
+              "name": "Montserrat-Regular",
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 42,
-    "x": 15,
-    "y": 5
+    "width": 44,
+    "x": 16,
+    "y": 4
   },
-  "glyphBounds": "{{0, 3}, {41, 13}}",
+  "glyphBounds": "{{0, 3}, {43, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -87,8 +87,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Medium",
-            "size": 15
+            "name": "Montserrat-Regular",
+            "size": 16
           }
         },
         "paragraphStyle": {

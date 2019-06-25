@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D2A284A2-9731-4A9A-A1D1-E19CD2A7860F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 304,
+    "x": 0,
+    "y": 131
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List Items / Book List / Item Unselected",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE9FC735-DDE6-4FB9-9610-627A44B1F05A",
+      "overrideName": "3B7626A3-62DE-459E-8294-ECA750FDC605_stringValue",
+      "value": "Patrick Rothfuss"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EE389AF-CE88-4432-995D-76CE3FBD1B53",
+      "overrideName": "6638EC1A-7800-4BDC-99B1-4EF6AE7BF1BB_stringValue",
+      "value": "The Wise Man's Fear"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "272873CD-E3F9-4FAB-981C-5AF58EDE97FA",
+      "overrideName": "7691E813-3989-479C-A67C-CD74D069BF7D/CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/71149252a10a98c11e9338f976df9aaf24d291a4.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "553C394F-3994-4068-AB13-5238CE078D58",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "61E9E5BE-5B57-4D97-B8B3-7D2D99D60367",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6FF07E1E-EBBE-4CFF-B3F4-7327EBB107A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C96D85C-0AF6-45D2-8B5A-0A1A2A35FAA9",
+    "height": 96,
+    "width": 304,
+    "x": 0,
+    "y": 131
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List Items / Book List / Item Unselected Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "00FB6833-3F1A-47BD-A43B-82EBBEC49279",
+      "overrideName": "F8E65C5A-D4A7-4B17-8DED-1539A8668FA8_stringValue",
+      "value": "Fantasy"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0AD6556-DE6E-4C53-98B3-A635B064D947",
+      "overrideName": "3B7626A3-62DE-459E-8294-ECA750FDC605_stringValue",
+      "value": "Patrick Rothfuss"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29F34E9F-340D-46B6-A32E-B0EAE23551E2",
+      "overrideName": "6638EC1A-7800-4BDC-99B1-4EF6AE7BF1BB_stringValue",
+      "value": "The Name of the Wind"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA600E9F-2386-48F7-926C-910D57A71287",
+      "overrideName": "7691E813-3989-479C-A67C-CD74D069BF7D/CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d70b854da7d112c723311c9fd625feefdfcc2b43.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "68808019-9BD9-47EC-81EB-E644C22E804D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "553C394F-3994-4068-AB13-5238CE078D58",
+  "verticalSpacing": 0
+}
