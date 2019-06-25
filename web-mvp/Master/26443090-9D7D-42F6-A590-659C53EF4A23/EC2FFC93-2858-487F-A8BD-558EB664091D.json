@@ -15,7 +15,7 @@
   },
   "flow": {
     "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
+    "animationType": 0,
     "destinationArtboardID": "34736376-7CFD-4C66-816E-32E52488CBE2",
     "do_objectID": "B644BD39-2FDC-4764-BD27-322A715A54C1"
   },
@@ -23,10 +23,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3CEE7D11-2E7C-4B08-8824-90D513E2F56E",
-    "height": 30,
+    "height": 34,
     "width": 217,
     "x": 52,
-    "y": 889
+    "y": 887
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -94,7 +94,7 @@
         "constraints": {
           "automatic": 1,
           "centerHorizontally": {
-            "constant": 0.5,
+            "constant": 0,
             "enabled": 1,
             "modelID": "constraint_ebe24efc-5b8a-4179-8da1-c8a915d247bb",
             "model_class": "ADModelConstraint",
@@ -106,7 +106,7 @@
           "model_version": 0,
           "scaleFactor": 1
         },
-        "size.update": 1560354109.960945
+        "size.update": 1560293110.748786
       }
     }
   },

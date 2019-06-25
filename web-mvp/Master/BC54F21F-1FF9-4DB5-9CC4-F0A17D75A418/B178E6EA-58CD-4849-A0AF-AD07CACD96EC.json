@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "0FD73550-CE46-45F5-8B6C-80744FADAE82",
     "height": 77,
-    "width": 294,
+    "width": 304,
     "x": 8,
     "y": 88
   },
@@ -37,7 +37,7 @@
       "_class": "overrideValue",
       "do_objectID": "FFFC3020-96B5-4B10-9379-35C4B1BB9922",
       "overrideName": "934FC382-C346-4BBD-BF5C-FF4689FAA591_stringValue",
-      "value": "Matt Cherry's Reading Crew"
+      "value": "Matt's Reading Crew"
     },
     {
       "_class": "overrideValue",
@@ -49,7 +49,7 @@
       "_class": "overrideValue",
       "do_objectID": "F143629B-F69C-4344-BFEC-3EC9A4221E94",
       "overrideName": "2E058ED8-BAC9-4BF8-A9B8-EDDAD6C12778_stringValue",
-      "value": "2 / 50"
+      "value": "19 / 50"
     }
   ],
   "resizingConstraint": 63,

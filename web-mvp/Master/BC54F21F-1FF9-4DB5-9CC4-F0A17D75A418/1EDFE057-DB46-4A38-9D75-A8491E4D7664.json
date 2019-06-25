@@ -13,6 +13,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "7EA109A8-C897-4158-A487-732FABA18807",
+    "do_objectID": "4965E0B6-CCCF-48B0-AA89-A9DC61516E01"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -20,7 +26,7 @@
     "height": 51,
     "width": 98,
     "x": 206,
-    "y": 1224
+    "y": 1554
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -33,12 +39,6 @@
   "name": "Button Contained",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "A407A267-049C-41D2-BF75-3A1B1766FF1F",
-      "overrideName": "7C1F0A5B-AB55-4B1B-A598-08E7CA123665_layerStyle",
-      "value": "28A1AF61-3EDE-40E9-8407-9B0F848E3ED4"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -27,7 +27,7 @@
     "do_objectID": "1B97A325-4786-4E77-85EA-6EB4DA48D140",
     "height": 1024,
     "width": 320,
-    "x": 2780,
+    "x": 2360,
     "y": 3160
   },
   "groupLayout": {
@@ -73,6 +73,14 @@
     {
       "class": "symbolInstance",
       "id": "EC2FFC93-2858-487F-A8BD-558EB664091D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "204F14BC-A85E-455B-8AC1-DA2805077E3B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EE80C72-F3B7-4385-ADB8-C880960F5E52"
     },
     {
       "class": "symbolInstance",
@@ -125,17 +133,9 @@
     {
       "class": "symbolInstance",
       "id": "AF55649A-0F10-44FB-BF91-8364B0E19D36"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D11A9D1A-72FF-4D28-AA85-A6A381F74B1C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BDADAB13-1368-4F02-8C67-C87A54153847"
     }
   ],
-  "name": "Mobile / Group Page / Owner / Shelf / KotS",
+  "name": "Mobile - Group Page - Member / Shelf",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

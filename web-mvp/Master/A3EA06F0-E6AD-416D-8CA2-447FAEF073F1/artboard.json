@@ -1,0 +1,140 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "do_objectID": "FDEC5982-10BA-47EB-8E45-C82725B8C351",
+    "green": 0.9803921568627451,
+    "red": 0.9803921568627451
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3EA06F0-E6AD-416D-8CA2-447FAEF073F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4F9079D-E6E8-4B2D-97E0-1090B197E7F6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B0F07A6-CB11-4E5C-A04D-A85E4A49A628",
+    "height": 1024,
+    "width": 320,
+    "x": 1940,
+    "y": 5608
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F8BCF7A7-FE39-4BAA-8EB9-C7EFEFF7E7D3"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EAC23EF4-E9FB-4606-B8A5-A42255692EAD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2F309188-4F29-4EA2-804C-40311078A019"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C99A31D4-B5AE-4C70-9C1B-67EC4065B9FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C43011C-7682-495C-A3B9-C000E5649339"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E377E5BF-04C4-4680-AC46-2767FD6324AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E713914-B633-4E63-8651-45E79D3F96B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5BB568E-78DA-4ADF-919B-3308BAF13D65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "159F8145-13C7-48B2-A747-1981CAEA588D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D07B6854-B745-439B-B1E7-1AC73AA4287E"
+    },
+    {
+      "class": "rectangle",
+      "id": "C75695A1-EE95-4151-929D-482F969B2AEF"
+    },
+    {
+      "class": "text",
+      "id": "23C385A6-ACD0-4921-B0CD-EC521A13D7D7"
+    },
+    {
+      "class": "text",
+      "id": "043F4A1D-E7D6-4118-8646-7A7FEE0770FC"
+    }
+  ],
+  "name": "Search Page - Book Selected",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE44897D-D6F6-45F3-A7FF-C07EDECC9523",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2B51D6A0-9D2B-43EA-9E8B-334203C6DE45",
+    "guides": [
+    ]
+  }
+}

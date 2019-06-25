@@ -17,9 +17,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "675348F3-2E42-4502-8144-2DF5B45C3174",
-    "height": 65,
-    "width": 292,
-    "x": 14,
+    "height": 15,
+    "width": 92,
+    "x": 15,
     "y": 662
   },
   "groupLayout": {
@@ -38,10 +38,6 @@
     {
       "class": "text",
       "id": "D559076E-E18D-4BBA-9BEF-BBE5A4E1A9C7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FE2B8122-21D3-4600-977C-BA6C00B6D44D"
     }
   ],
   "name": "Read Speed",

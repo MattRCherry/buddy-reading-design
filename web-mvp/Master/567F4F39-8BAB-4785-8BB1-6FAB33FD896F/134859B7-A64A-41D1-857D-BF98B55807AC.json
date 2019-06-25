@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "134859B7-A64A-41D1-857D-BF98B55807AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54CA6724-5A16-4649-8FF1-83F15CFB80B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87CB8102-4019-4451-A50B-D46611E11897",
+    "height": 80,
+    "width": 304,
+    "x": 10,
+    "y": 140
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book List Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B3263AF-A61E-41F6-8AED-BD91E8574F57",
+      "overrideName": "FC4D3417-E247-4077-97E2-005DB88B46B5/CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8adf43e6fa09d55134d8ad411d231b61ef0b5c87.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71267B29-D6AD-431B-B4EF-49EFB91DF3FE",
+      "overrideName": "00B2DE01-40B7-461F-8916-648C05B161DF_stringValue",
+      "value": "How to Train your Pet Dragon # 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6702DC91-35A9-474B-90B3-9EE706270EDD",
+      "overrideName": "F725A446-673C-4B84-8167-407778BFB159_flowDestination",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E700765E-9F7D-4498-B9B0-BC48541533EF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "755799D9-18A0-4DDA-82EE-6F90F9E38492",
+  "verticalSpacing": 0
+}

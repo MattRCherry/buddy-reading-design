@@ -27,7 +27,7 @@
     "do_objectID": "937F2D20-D1A6-4A63-B445-4FD34694035B",
     "height": 1024,
     "width": 320,
-    "x": 1940,
+    "x": 1520,
     "y": 3160
   },
   "groupLayout": {
@@ -55,8 +55,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "986E94C4-7696-4A28-88B9-AA3B84E9C5D1"
+      "class": "group",
+      "id": "063D2956-C2A2-453D-829B-E9B2C9EB76A6"
+    },
+    {
+      "class": "group",
+      "id": "A454C609-56C4-4174-8402-173F529F70E9"
     },
     {
       "class": "group",
@@ -112,22 +116,22 @@
     },
     {
       "class": "symbolInstance",
+      "id": "C3E1F4F1-210D-41D0-A13B-B0315B658DD0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D31AC5B5-F4C5-4265-B9AE-F090F90A873A"
+    },
+    {
+      "class": "symbolInstance",
       "id": "E5FCEAB6-F130-4A9E-8E45-90408138E42F"
     },
     {
       "class": "symbolInstance",
       "id": "8D9A16FD-C11C-489F-B2DA-52C621F5AF95"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EFFB8B43-6734-4037-A466-82F00BCEFBD7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "353A6C09-E7EB-4FFA-B37B-E857ADDD82CE"
     }
   ],
-  "name": "Mobile / Group Page / Member / Shelf",
+  "name": "Mobile - Group Page - Member / Shelf",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

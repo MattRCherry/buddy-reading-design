@@ -35,7 +35,7 @@
     "do_objectID": "9E1621AE-5827-4358-B341-761541B1B658"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,7 +63,7 @@
       "id": "35D86FB5-9DF5-426B-8A2B-A25192563C33"
     }
   ],
-  "name": "Mobile / Log In / Incorrect Password",
+  "name": "Mobile - Log In - Incorrect Password",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

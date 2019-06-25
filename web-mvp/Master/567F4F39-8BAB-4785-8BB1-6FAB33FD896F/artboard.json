@@ -73,6 +73,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "134859B7-A64A-41D1-857D-BF98B55807AC"
+    },
+    {
+      "class": "symbolInstance",
       "id": "331D64DD-B40D-4177-B78B-F9AFB3BFCDFC"
     },
     {
@@ -82,13 +86,9 @@
     {
       "class": "text",
       "id": "AB3FBB6B-C64B-4AB4-95A8-D1145A7F1285"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D7B5448E-6307-43C8-98F2-84924147AE26"
     }
   ],
-  "name": "Mobile / Search / Selected / HPGF",
+  "name": "Search Page - Book Selected",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
