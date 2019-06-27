@@ -1,0 +1,148 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E394EB51-9419-469A-8A3C-09353D192431",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 910,
+  "clippingMaskMode": 0,
+  "do_objectID": "83AFE557-D697-42D8-8AAB-D386ABF00A5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79EA9693-7697-424B-ACF8-56598336F165",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A779972E-E81A-493E-94F3-EB32AF0652B1",
+    "height": 80,
+    "width": 304,
+    "x": 1878,
+    "y": 955
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8FE0792E-9CEE-4763-A906-D7879C8F6741"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1C7AEAA1-7E2F-4B43-840C-7F1728665D20",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "10F2F86C-A8D5-4ECB-B328-A9DC82E6D6E1"
+    },
+    {
+      "class": "group",
+      "id": "10EDBBE5-A5DA-49A6-A298-165982432E30"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "C107C204-BC55-4410-ABB1-12574C79DCD4"
+    }
+  ],
+  "name": "List Items / Book List / Search Page / Revised",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1CC97B1F-1750-48CF-9D62-5692E89705BD_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C49B1F5A-E21A-41EA-9CD8-50B8EC6D705D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BB779A89-462A-4BE1-8365-6492D13C4E3E_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "045AB504-F19C-42B8-9027-6AC61B9DCC4D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2AA48713-E957-48B0-BE18-18ED904A7E21_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C49B1F5A-E21A-41EA-9CD8-50B8EC6D705D_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2AA48713-E957-48B0-BE18-18ED904A7E21_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "045AB504-F19C-42B8-9027-6AC61B9DCC4D_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "102260BC-F922-4DE9-B070-46F0B4B24BC5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C107C204-BC55-4410-ABB1-12574C79DCD4_flowDestination"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35D8361E-5ED4-4B67-9D83-8A161DE7188A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F83B2C00-5CEB-42D2-8354-1680CAABFE4B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "68393C88-5D95-41E5-A260-A0AD06BF94D3",
+    "guides": [
+    ]
+  }
+}

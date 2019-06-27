@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 31,
-    "width": 134,
-    "x": 176,
-    "y": 363
+    "height": 30,
+    "width": 120,
+    "x": 175,
+    "y": 373.728459530026
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,20 +33,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "484EDB6C-A98E-41A3-9C57-3B1407D4E7C8"
+      "class": "group",
+      "id": "8BD0E626-9B8C-41EA-B0E0-5038F26F27CD"
     },
     {
-      "class": "symbolInstance",
-      "id": "1255B1FB-F4D0-4415-AE49-228E3670997D"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
-      "id": "11E0FB6E-39EC-4353-A91D-6C5BE0D1C35F"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
-      "id": "52ABDAA1-DDD6-43FD-9F7D-CB7334A59095"
+      "class": "group",
+      "id": "32AE2E22-5008-4B3A-B320-84A79A1DE248"
     }
   ],
   "name": "Group 7",

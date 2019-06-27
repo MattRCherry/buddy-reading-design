@@ -58,15 +58,11 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": true,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "328BE35D-DD02-4707-8D92-A069A6B7B7BC"
-    },
     {
       "class": "symbolInstance",
       "id": "919DD8F8-1FF0-4CFE-A627-66A28375AD63"
@@ -76,15 +72,19 @@
       "id": "59284C82-120B-49D4-B301-606B600CA89C"
     },
     {
-      "class": "group",
-      "id": "686331F6-3291-4CA1-8143-18607811B59D"
+      "class": "symbolInstance",
+      "id": "59462CAA-FBC7-4B2E-BD1A-51167456857D"
     },
     {
       "class": "symbolInstance",
-      "id": "1425F4E9-CE82-47C0-AB51-D52BE4DEC9FE"
+      "id": "DEAFC54F-DF0C-4A67-91B6-D3E4E2926548"
+    },
+    {
+      "class": "group",
+      "id": "686331F6-3291-4CA1-8143-18607811B59D"
     }
   ],
-  "name": "Mobile / Find a Buddy / Not Logged In",
+  "name": "Mobile Landing Page -- Not Logged In",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

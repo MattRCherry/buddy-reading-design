@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC03A12A-B864-4538-8F1B-B637BF4AB691",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F2BBA08-F2BF-4F6D-84DE-4A567C8C2CB9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E7F37FF-E3A8-4F9C-B8C8-2F456AC973B8",
+    "height": 56,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Header Light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6FB464AD-3799-41C6-AF7C-B82DB5CC8310",
+      "overrideName": "DEF29557-F3C6-4DA0-BE25-FBA21D457A05_stringValue",
+      "value": "Find Books "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C801E3FD-9296-4DA4-9042-C636489763CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2A585686-AD8C-42BE-BFBE-4D83F395D827",
+  "verticalSpacing": 0
+}

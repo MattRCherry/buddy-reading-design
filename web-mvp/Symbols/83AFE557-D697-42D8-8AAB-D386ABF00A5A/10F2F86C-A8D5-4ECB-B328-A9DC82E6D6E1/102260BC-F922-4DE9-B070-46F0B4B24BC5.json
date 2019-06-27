@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "102260BC-F922-4DE9-B070-46F0B4B24BC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BBFB303-7AF5-4ED9-A6D0-55124D5EF6FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D7341B6A-AA8C-4130-A60B-D04CFCAEEAA7",
+    "height": 80,
+    "width": 50,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Book Cover",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76B1A9CF-A7CC-4E9F-9859-FF86037FB8C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C22044F0-915B-4915-BA92-096E43C6E755",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 120,
+            "enabled": 1,
+            "modelID": "constraint_4cee4c14-28d9-45bd-b262-ec488ffe8233",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 75
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_acbd14b2-a863-46fc-b0d8-1ed45fb35325",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

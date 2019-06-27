@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4C62433-4226-4D5F-BD0E-58AD8EAFE644",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "68840FC0-5B1D-495F-8144-EE60A8E0321A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "854050B0-D63C-49A5-B51E-F81E008B43AB",
+    "height": 34,
+    "width": 217,
+    "x": 52,
+    "y": 887
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Pill Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90D95B55-19EE-4F44-BE26-1489811D3F7D",
+      "overrideName": "26D62F92-E65D-4133-A4BE-5A78390CAEA2_stringValue",
+      "value": "update current book"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16FC965D-CF81-4395-8BD7-53E9B7FB63B5",
+      "overrideName": "47D2A16B-2185-4800-BE56-A08AF7586C78_layerStyle",
+      "value": "D5FB44C7-3B9F-421E-B740-769C6A089243"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9FCC2A7A-C9C8-4885-A4EE-6670938D4991",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2DEA9E31-A205-449D-9D03-F3612C9D57D3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_ebe24efc-5b8a-4179-8da1-c8a915d247bb",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_bd1ddc8b-7bcd-42a0-97d8-f1f55c021a75",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        },
+        "size.update": 1560293110.748786
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

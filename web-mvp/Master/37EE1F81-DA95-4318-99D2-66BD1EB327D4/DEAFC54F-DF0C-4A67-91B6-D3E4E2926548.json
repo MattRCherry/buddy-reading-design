@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DEAFC54F-DF0C-4A67-91B6-D3E4E2926548",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02E1B581-6DE0-4FEB-BF1C-409A086500A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "2A60833B-4842-46F2-B5CF-260096BAF1F9",
+    "do_objectID": "4922331E-CBB4-46B5-B9D0-0EFA1E4BE8BC"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E72F8EA6-0D3D-4C21-8F7D-01BA917736B1",
+    "height": 383,
+    "width": 304,
+    "x": 8,
+    "y": 616
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile Card -- Info & Join",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28102234-2279-4303-B816-3D3BEE050C8A",
+      "overrideName": "2F2965EA-95BA-4496-8F2C-419B1A675623_stringValue",
+      "value": "How to Train your Dragon"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9692BD77-E185-45E7-9FC6-070247AE8F0B",
+      "overrideName": "4182AC37-F2E9-4188-95B6-7D4A7D309FEC_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8adf43e6fa09d55134d8ad411d231b61ef0b5c87.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CF88CDF-058E-410E-A2FB-5930CB4BE51F",
+      "overrideName": "53096889-DDB0-4D7D-9BA7-6D4B1877C9DD_stringValue",
+      "value": "The Book Crew "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7B25F36-7B90-4D07-A8C6-12AA03D7C587",
+      "overrideName": "9D3DF78C-0936-40F2-B9D6-A934BB5A50AA_stringValue",
+      "value": "Cressida Cowell, 2003"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9180337-CEFC-43AC-8FF6-F1C5E5927211",
+      "overrideName": "52ABDAA1-DDD6-43FD-9F7D-CB7334A59095_flowDestination",
+      "value": "2A60833B-4842-46F2-B5CF-260096BAF1F9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52C09738-DCE2-4E3C-83C5-53F9054AE3A8",
+      "overrideName": "11E0FB6E-39EC-4353-A91D-6C5BE0D1C35F_flowDestination",
+      "value": "2A60833B-4842-46F2-B5CF-260096BAF1F9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95053A0D-9A5C-470D-BED5-DE7575AEE8A0",
+      "overrideName": "570BDA0B-99F8-4D2E-BE4E-C45BFAE31281_flowDestination",
+      "value": "2A60833B-4842-46F2-B5CF-260096BAF1F9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F898218-FAFC-458A-B8AC-748D598C39E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3A24F95A-1822-40D6-B46A-0230F6CEF3A2",
+  "verticalSpacing": 0
+}

@@ -49,7 +49,7 @@
   },
   "flow": {
     "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
+    "animationType": 0,
     "destinationArtboardID": "10FE2A65-D410-41F8-A8BC-DEE7FC92C5EE",
     "do_objectID": "3965034F-35B9-405B-A137-6CB175152EF8"
   },
