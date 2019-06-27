@@ -101,17 +101,9 @@
     {
       "class": "symbolInstance",
       "id": "2C8F66D9-D585-4091-83C8-896225521564"
-    },
-    {
-      "class": "group",
-      "id": "665DF967-27BA-4F35-8E6F-B46F9EF29B4D"
-    },
-    {
-      "class": "MSImmutableHotspotLayer",
-      "id": "C57AF98C-7654-411E-893F-E4A1FC0D1E35"
     }
   ],
-  "name": "Mobile - Update Current Book",
+  "name": "Mobile / Update Book / Pre-search",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7E7EBF25-5EF7-43C6-A19C-DD537F505A09",
-    "height": 60,
-    "width": 178,
+    "height": 45,
+    "width": 214,
     "x": 66,
     "y": 8
   },
@@ -33,19 +33,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "4CCEA709-70AD-4912-BC7B-F2B254ED8DD9"
-    },
-    {
-      "class": "text",
-      "id": "A56EEC5C-F876-46A1-A10E-F4EE8C546548"
-    },
-    {
-      "class": "text",
-      "id": "AD0C00C5-2F4F-448E-B011-F76F4EA7A34F"
+      "class": "group",
+      "id": "DFAF1098-41D7-4097-ACC6-8A6E21D2776B"
     }
   ],
   "name": "Group 3",

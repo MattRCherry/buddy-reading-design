@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "748D7AEA-656E-4500-B81A-DDEFBF3B26FC",
-    "height": 1704,
+    "height": 1301,
     "width": 320,
     "x": -160,
     "y": 6443
@@ -87,7 +87,7 @@
       "id": "1EDFE057-DB46-4A38-9D75-A8491E4D7664"
     }
   ],
-  "name": "Mobile - Create a Group",
+  "name": "Mobile / Create Group / Start",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
