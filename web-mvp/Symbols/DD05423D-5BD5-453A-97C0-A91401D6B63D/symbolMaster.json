@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 100,
+  "changeIdentifier": 140,
   "clippingMaskMode": 0,
   "do_objectID": "DD05423D-5BD5-453A-97C0-A91401D6B63D",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 96,
     "width": 320,
-    "x": 1878,
-    "y": 392
+    "x": 1982,
+    "y": 588
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -53,8 +53,12 @@
   "layerListExpandedType": 1,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "7691E813-3989-479C-A67C-CD74D069BF7D"
+    },
+    {
       "class": "group",
-      "id": "C37E8F7F-5377-40D7-97EF-DA426E2B7F38"
+      "id": "299498A1-854F-4574-A71B-B76AC1B3B64D"
     }
   ],
   "name": "List Items / Book List / Item Unselected",
@@ -96,7 +100,7 @@
       "overrideName": "3B7626A3-62DE-459E-8294-ECA750FDC605_textStyle"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

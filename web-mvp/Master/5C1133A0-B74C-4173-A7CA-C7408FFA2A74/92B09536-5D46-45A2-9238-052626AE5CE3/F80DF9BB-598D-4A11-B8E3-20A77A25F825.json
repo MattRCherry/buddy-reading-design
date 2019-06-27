@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F80DF9BB-598D-4A11-B8E3-20A77A25F825",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 304,
+    "x": 0,
+    "y": 35
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List Items / Book List / Book Item with Club A",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "55B81A8D-DF6D-450A-AB0C-DC8C86DDED27",
+      "overrideName": "825EA79D-2D5F-45FC-9E55-E1925BE61770_stringValue",
+      "value": "Self Improvement Book Club"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FC50C06-1CA5-4B6D-9901-A51B4EF5C0F4",
+      "overrideName": "C290848C-4574-4FB7-99B6-19DF2C13EBE7_stringValue",
+      "value": "Self Help"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7AC808E7-7366-4DEF-9B86-0A25DCB61651",
+      "overrideName": "06C1A43B-40A9-4689-99D5-A2C17DDC3DAB_stringValue",
+      "value": "Stephen Covey"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05E9F33E-E6E2-41D7-AFB1-E9065CAAE05C",
+      "overrideName": "01E35ACF-CDA7-4122-8FFC-6A01ACA3CF09_stringValue",
+      "value": "The 7 Habits of Highly Effective People"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36799B4C-CA10-4E0B-99DA-A4B63B1210B4",
+      "overrideName": "BBB60221-D504-4BBD-A0FD-08E18AB91682/CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7a3e2984f78c671e127a4d9aeeb741e59197ce78.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "270A680A-2ED9-4A60-B0BC-718921620848",
+  "verticalSpacing": 0
+}

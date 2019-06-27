@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 51,
+    "height": 35,
     "width": 98,
     "x": 0,
     "y": 0
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -51,6 +51,28 @@
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -58,13 +80,13 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
         "padding": {
-          "bottom": 16,
+          "bottom": 8,
           "left": 16,
           "modelID": "viewPadding_af152619-ccf6-4f28-b00c-7950091a324c",
           "model_class": "ADModelViewPadding",
           "model_version": 0,
           "right": 16,
-          "top": 16
+          "top": 8
         }
       }
     }

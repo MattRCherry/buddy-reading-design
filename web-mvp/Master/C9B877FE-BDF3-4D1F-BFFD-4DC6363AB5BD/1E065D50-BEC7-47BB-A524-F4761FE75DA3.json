@@ -17,9 +17,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D5D3695D-5113-4F67-9AC3-22340BAD2E8A",
-    "height": 34,
+    "height": 30,
     "width": 73,
-    "x": 234,
+    "x": 231,
     "y": 32
   },
   "hasClippingMask": false,
@@ -63,7 +63,7 @@
           "model_class": "ADModelViewConstraints",
           "model_version": 0,
           "right": {
-            "constant": 13,
+            "constant": 16,
             "enabled": 1,
             "modelID": "constraint_8f64f06e-9f39-4887-94b0-7c0795d826e4",
             "model_class": "ADModelConstraint",
@@ -72,7 +72,7 @@
           },
           "scaleFactor": 1
         },
-        "size.update": 1560293110.645402
+        "size.update": 1560354109.82741
       }
     }
   },

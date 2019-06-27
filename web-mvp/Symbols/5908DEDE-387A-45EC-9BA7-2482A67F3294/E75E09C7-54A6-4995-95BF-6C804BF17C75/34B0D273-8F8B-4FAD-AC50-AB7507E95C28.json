@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "E6DEDF43-014A-4FC1-B7D0-C53B6A470971",
     "height": 19,
-    "width": 32,
+    "width": 27,
     "x": 176,
     "y": 521
   },
@@ -54,5 +54,12 @@
     "windingRule": 1
   },
   "symbolID": "FD05628C-D7DB-46EC-A30B-D6B5805AD268",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1561478243.349325
+      }
+    }
+  },
   "verticalSpacing": 0
 }

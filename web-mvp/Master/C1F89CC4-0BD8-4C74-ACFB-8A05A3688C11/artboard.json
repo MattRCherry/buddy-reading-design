@@ -28,7 +28,7 @@
     "height": 1024,
     "width": 320,
     "x": -160,
-    "y": 1936
+    "y": 323
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -75,8 +75,8 @@
       "id": "A4618F35-2BF6-46CE-AC7C-F7135DF4EDED"
     }
   ],
-  "name": "Mobile - Sign Up Preferences",
-  "nameIsFixed": false,
+  "name": "Mobile / Onboarding / Preferences",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

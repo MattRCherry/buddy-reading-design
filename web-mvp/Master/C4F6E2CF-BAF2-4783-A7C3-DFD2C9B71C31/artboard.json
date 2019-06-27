@@ -28,7 +28,7 @@
     "height": 1024,
     "width": 320,
     "x": 260,
-    "y": 4384
+    "y": 3995
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -103,7 +103,7 @@
       "id": "E70B6908-FC84-48F5-BC24-A0A445C9107B"
     }
   ],
-  "name": "Mobile - Update Current Book Copy",
+  "name": "Mobile / Update Book / Post-search",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -37,7 +37,7 @@
     "height": 1024,
     "width": 320,
     "x": 680,
-    "y": 5608
+    "y": 5219
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -73,10 +73,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "134859B7-A64A-41D1-857D-BF98B55807AC"
-    },
-    {
-      "class": "symbolInstance",
       "id": "331D64DD-B40D-4177-B78B-F9AFB3BFCDFC"
     },
     {
@@ -86,9 +82,13 @@
     {
       "class": "text",
       "id": "AB3FBB6B-C64B-4AB4-95A8-D1145A7F1285"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7B5448E-6307-43C8-98F2-84924147AE26"
     }
   ],
-  "name": "Search Page - Book Selected",
+  "name": "Mobile / Search / Selected / HPGF",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

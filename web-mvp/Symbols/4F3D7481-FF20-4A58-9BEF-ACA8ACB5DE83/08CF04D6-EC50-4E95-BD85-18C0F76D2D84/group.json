@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "08CF04D6-EC50-4E95-BD85-18C0F76D2D84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3ACA00DA-E8A8-4E14-97C5-09EE298A67C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7C5C4D78-B424-42A7-B157-D9DAD25D0202",
+    "height": 16,
+    "width": 7.2,
+    "x": 8,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A3784613-CB0B-4F5E-B996-3A233EBCF794"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "01186F8C-D36C-4B64-9131-99E9A4CDD81A"
+    }
+  ],
+  "name": "old-man-walking-with-a-crutch",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "359B1126-7474-4156-B411-CF9CD726CE67",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_076e73b5-1e9e-44c3-a153-0a92262cd766",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 7.2
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c3b01fe1-91f5-48fc-b73e-a56d8bee1c25",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

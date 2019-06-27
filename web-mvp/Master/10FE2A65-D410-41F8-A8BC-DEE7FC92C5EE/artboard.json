@@ -28,7 +28,7 @@
     "height": 1024,
     "width": 320,
     "x": -160,
-    "y": 3160
+    "y": 2771
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,12 +55,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "B8889B16-C469-4CD0-A474-919E40B45EA9"
-    },
-    {
-      "class": "group",
-      "id": "85A9F726-B54F-493B-9340-66A731D9F322"
+      "class": "symbolInstance",
+      "id": "E3DED46D-CC41-4DDC-9F00-BC4A6662D85B"
     },
     {
       "class": "group",
@@ -107,7 +103,7 @@
       "id": "B298504E-1EF3-4B1D-B345-D8666394B102"
     }
   ],
-  "name": "Mobile - Group Page - Not Member",
+  "name": "Mobile / Group Page / Not Member / Group",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

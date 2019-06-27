@@ -27,8 +27,8 @@
     "do_objectID": "E5F64CBA-19C5-4F05-96F6-4BB9E63A9387",
     "height": 1024,
     "width": 320,
-    "x": 260,
-    "y": 3160
+    "x": 1100,
+    "y": 2771
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,12 +55,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "6116F224-D960-41CE-86BC-B8B2E370126A"
-    },
-    {
-      "class": "group",
-      "id": "7D48DE72-CCD4-4E75-BEEB-F0681EC0B1C3"
+      "class": "symbolInstance",
+      "id": "111DBB0B-1B72-4EBB-85F5-E0331829302E"
     },
     {
       "class": "group",
@@ -117,9 +113,13 @@
     {
       "class": "symbolInstance",
       "id": "E0B110E7-4E84-4ECD-A779-0C2940BB4188"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17F536CB-EBE9-45A7-8395-FA025FC2EBD1"
     }
   ],
-  "name": "Mobile - Group Page - Not Member / Shelf",
+  "name": "Mobile / Group Page / Join / Shelf",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -13,14 +13,14 @@
   },
   "flow": {
     "_class": "MSImmutableFlowConnection",
-    "animationType": 0,
+    "animationType": -1,
     "destinationArtboardID": "10FE2A65-D410-41F8-A8BC-DEE7FC92C5EE",
     "do_objectID": "11BBEA76-61AA-48A8-8BB9-8CF2FBA89003"
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 418,
+    "height": 408,
     "width": 304,
     "x": 0,
     "y": 0

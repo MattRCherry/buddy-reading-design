@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Medium",
-              "size": 14
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -51,21 +51,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "604CFF97-2F82-4C41-A28A-DC66B9405104",
-    "height": 18,
+    "height": 19,
     "width": 247,
-    "x": 45,
-    "y": 9
+    "x": 43,
+    "y": 8
   },
-  "glyphBounds": "{{1, 3}, {144, 14}}",
+  "glyphBounds": "{{1, 2}, {165, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Name",
+  "name": "Label",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Medium",
-            "size": 14
+            "size": 16
           }
         },
         "paragraphStyle": {

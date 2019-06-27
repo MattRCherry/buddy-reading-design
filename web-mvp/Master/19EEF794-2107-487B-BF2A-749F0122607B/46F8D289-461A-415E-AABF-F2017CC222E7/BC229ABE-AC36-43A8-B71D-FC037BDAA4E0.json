@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC229ABE-AC36-43A8-B71D-FC037BDAA4E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59B902D0-FF4C-4225-8E9A-DAF7126C601E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0054327-C1AE-4D76-8F35-0EC748ACD0CC",
+    "height": 99,
+    "width": 288,
+    "x": 0,
+    "y": 210
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Fields / Profile Q&A Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F473492E-03C3-4CA0-8BCB-59CC204E1B00",
+      "overrideName": "64F367E3-BCED-452F-8C31-ABE0DA7975C2_stringValue",
+      "value": "Worst movie adaptation of a book?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF63932A-C684-40BA-876E-FD4E8A4290C8",
+      "overrideName": "0F630AB6-C22A-484B-BB67-6260A27311E5_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus quis nunc vitae porttitor. Aenean rutrum orci nibh, a rutrum urna congue quis."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "587993EE-B1AC-417A-903B-0DFB3F15EE9C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5BEDCE7-02D3-4397-850C-9096093B6C66",
+  "verticalSpacing": 0
+}

@@ -27,8 +27,8 @@
     "do_objectID": "85737399-FD66-4103-98F2-C774A58BE94D",
     "height": 1024,
     "width": 320,
-    "x": 1100,
-    "y": 3160
+    "x": 1520,
+    "y": 2771
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -55,12 +55,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "88B251BF-2574-498F-B203-27595EA1080F"
-    },
-    {
-      "class": "group",
-      "id": "191F6AD9-0B04-465A-83AB-4AEE2BFF0C02"
+      "class": "symbolInstance",
+      "id": "D8A74E2D-2ECF-4FE7-9FC3-818EC432B9E6"
     },
     {
       "class": "group",
@@ -104,14 +100,18 @@
     },
     {
       "class": "symbolInstance",
-      "id": "2AA1853A-57C6-4A8A-BF4B-B287ABA0A05B"
+      "id": "E9B53821-1D7C-477D-B2E5-286288E2E7A8"
     },
     {
       "class": "symbolInstance",
-      "id": "E9B53821-1D7C-477D-B2E5-286288E2E7A8"
+      "id": "4223630D-7C11-43A3-8665-87A10EF4B8E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96FA5F4D-5B2D-4109-8330-A92D423B2399"
     }
   ],
-  "name": "Mobile - Group Page - Member",
+  "name": "Mobile / Group Page / Member / Group",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

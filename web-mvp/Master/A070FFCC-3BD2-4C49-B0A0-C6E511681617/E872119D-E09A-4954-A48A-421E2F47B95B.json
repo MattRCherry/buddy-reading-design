@@ -19,7 +19,7 @@
     "do_objectID": "6BC9B825-B8EC-4C5C-9F5A-BC25B02B28C9",
     "height": 80,
     "width": 304,
-    "x": 10,
+    "x": 8,
     "y": 140
   },
   "hasClippingMask": false,
@@ -54,6 +54,22 @@
       "do_objectID": "590A2E9A-5A47-4559-A96A-AEDFA5D9F53E",
       "overrideName": "F725A446-673C-4B84-8167-407778BFB159_flowDestination",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "618D54C2-6BAE-4025-ABB3-8C94910E1D28",
+      "overrideName": "C32460BC-0669-4D46-9604-D85621CBD176/CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/726c50960ca10834a8b544456fc6d837f97084ee.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95B39ABD-55AE-4167-834F-9625E244E193",
+      "overrideName": "4CCEA709-70AD-4912-BC7B-F2B254ED8DD9_stringValue",
+      "value": "Harry Potter and the Sorcerer's Stone"
     }
   ],
   "resizingConstraint": 63,

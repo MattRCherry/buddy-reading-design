@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AB80AE22-1E59-42F5-93BF-2DD858CA4ACD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B926BCF-F9CF-456C-BAAB-A495F2F23077",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC49537C-0C44-490D-B8A9-F7441384AB2A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C9670D3-7197-4678-BD97-289F3F87F73E",
+    "height": 1024,
+    "width": 320,
+    "x": 4040,
+    "y": 2771
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0DB7FC04-349E-4539-866A-76B2B0D56365"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B32CFB18-D2B2-4D75-8092-D2A6F88AFBFD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8FD8585E-5A4F-4FB2-9BBD-4DB841ADC8F4"
+    },
+    {
+      "class": "group",
+      "id": "5755FEF2-81FA-40C4-BF80-DB6FAFF203B3"
+    },
+    {
+      "class": "group",
+      "id": "30E890EB-242F-400A-86EE-B1BBE2689BFE"
+    },
+    {
+      "class": "group",
+      "id": "1356256F-EEF4-4C94-A93D-717C2E6E07A8"
+    },
+    {
+      "class": "group",
+      "id": "5784E03C-FEF5-48AC-99EF-6B6B7EF5EA09"
+    },
+    {
+      "class": "group",
+      "id": "2BD2AA25-E7A8-4607-B323-1BCC2785FB56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "91A6F4D5-32D2-487C-8843-0B8EDD775B85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9B9D4C01-B6B2-4A0F-9F61-4E98ECB83FFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E0C1267-2715-48F9-B05C-3FACEA147625"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F09F4B96-C1EE-462E-8E87-3F8F5D83EDED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "143C6FB0-150B-4D6B-8EDA-015816B2B8F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53011292-F74B-42F6-BF66-82D1C28B5338"
+    }
+  ],
+  "name": "Mobile / Group Page / Owner / Group / Hobbit",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B8CB36C-179D-4AD6-9DB7-A97C48CCF648",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B17D6C2E-CEEE-4C4E-B560-F8D8696AB882",
+    "guides": [
+    ]
+  }
+}

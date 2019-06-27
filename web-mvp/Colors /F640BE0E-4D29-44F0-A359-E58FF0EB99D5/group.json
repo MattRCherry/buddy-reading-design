@@ -7,6 +7,15 @@
     "_class": "exportOptions",
     "do_objectID": "308DFEFB-679E-4BB1-ADDF-3620B83CBABE",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,7 +29,7 @@
     "height": 150,
     "width": 120,
     "x": -50,
-    "y": 0
+    "y": 33
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",

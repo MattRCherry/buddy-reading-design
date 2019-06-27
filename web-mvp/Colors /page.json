@@ -40,6 +40,10 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "slice",
+      "id": "029451C3-BB5D-48DD-9724-0475084454B2"
+    },
+    {
       "class": "group",
       "id": "1419EDC5-2636-468E-B3F8-E8C6C6170C0D"
     },
@@ -61,15 +65,19 @@
     },
     {
       "class": "group",
+      "id": "054BFE50-65E5-4863-9F54-2A60C50DBAD0"
+    },
+    {
+      "class": "group",
+      "id": "182E2CDB-37D4-4F93-923D-61FCC28AA4AF"
+    },
+    {
+      "class": "group",
+      "id": "D2091BD6-F2BC-431C-B55A-C8A0E995E81E"
+    },
+    {
+      "class": "group",
       "id": "F640BE0E-4D29-44F0-A359-E58FF0EB99D5"
-    },
-    {
-      "class": "group",
-      "id": "6E21244D-6FCB-424E-8FEE-D3628A748B00"
-    },
-    {
-      "class": "group",
-      "id": "CB1A003A-5AB3-47EC-A05B-AC66071798DD"
     },
     {
       "class": "group",
@@ -89,6 +97,10 @@
     },
     {
       "class": "group",
+      "id": "68317489-72AC-4479-8AA8-FD71B4430189"
+    },
+    {
+      "class": "group",
       "id": "B20D2F0B-172F-40C5-8189-B65F9116529C"
     },
     {
@@ -97,7 +109,19 @@
     },
     {
       "class": "group",
+      "id": "2D9D8A03-DBEC-4713-9125-09327B31D5A1"
+    },
+    {
+      "class": "group",
       "id": "407E58A3-FE52-4CCC-BB98-32E556FBD740"
+    },
+    {
+      "class": "group",
+      "id": "E6B2C7DE-F99A-4E2D-BD0D-CD3F4EB5F68E"
+    },
+    {
+      "class": "group",
+      "id": "3ADA98D9-9196-458B-9106-8E9E33E46691"
     },
     {
       "class": "group",

@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9803921568627451,
+    "do_objectID": "99FC876A-932C-4630-89D2-E298E114980D",
+    "green": 0.9803921568627451,
+    "red": 0.9803921568627451
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C49F44F1-106A-4E7B-9B67-2E90F6416793",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5540D0F-CCCB-49B0-B675-222935776E3C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E114D1A-9F63-4BCC-9611-7C32EAF1EB6E",
+    "height": 1024,
+    "width": 320,
+    "x": 2780,
+    "y": 5219
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "3B3B84A0-9D77-4526-88B7-F65FBFB5340C"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "61D115E0-CCB4-4716-9735-5DE6CCF17D19",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1CFE41DD-75E4-4017-BD88-7535930DD788"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4BB12A8-0299-4359-91EC-00D8DE42EC55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "112E7E90-FC6B-43D8-8673-16108A336B71"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0AFAB53B-B60D-4C40-8495-A20577A4304F"
+    }
+  ],
+  "name": "Mobile / Search / Results / Hobbit",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7E97A37C-1311-467E-B8F5-A745FF6448CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "015838C6-DB42-4F3E-B8E7-B411588ABEA3",
+    "guides": [
+    ]
+  }
+}

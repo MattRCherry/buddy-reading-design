@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 14,
+  "changeIdentifier": 16,
   "clippingMaskMode": 0,
   "do_objectID": "CA328DE7-A48C-41FB-A751-10E3C3F3E810",
   "exportOptions": {
@@ -27,7 +27,7 @@
     "height": 19,
     "width": 32,
     "x": 0,
-    "y": 849
+    "y": 966
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -79,6 +79,21 @@
     "windingRule": 1
   },
   "symbolID": "FD05628C-D7DB-46EC-A30B-D6B5805AD268",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "padding": {
+          "bottom": 0,
+          "left": 0,
+          "modelID": "viewPadding_9c881021-e1e9-4767-9d71-075028269632",
+          "model_class": "ADModelViewPadding",
+          "model_version": 0,
+          "right": 0,
+          "top": 0
+        }
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

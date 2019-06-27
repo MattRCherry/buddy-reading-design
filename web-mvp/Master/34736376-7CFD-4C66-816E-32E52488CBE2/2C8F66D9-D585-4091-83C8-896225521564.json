@@ -15,7 +15,7 @@
   },
   "flow": {
     "_class": "MSImmutableFlowConnection",
-    "animationType": 0,
+    "animationType": -1,
     "destinationArtboardID": "1508CFE4-DD2E-41AF-9D3F-DBEFF28E6B3B",
     "do_objectID": "A4A9C098-FFE6-4363-A542-1314392381C7"
   },
@@ -23,10 +23,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4362784E-F745-4510-8F35-F07B74BB4CB6",
-    "height": 51,
-    "width": 95,
-    "x": 209,
-    "y": 867
+    "height": 35,
+    "width": 76,
+    "x": 228,
+    "y": 875
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -43,7 +43,7 @@
       "_class": "overrideValue",
       "do_objectID": "C3454DEC-9FAB-4C73-8FAF-95B8B9B7F4C8",
       "overrideName": "F76F0D22-9703-4448-AA8A-F8713A450DEA_stringValue",
-      "value": "SELECT"
+      "value": "SAVE"
     }
   ],
   "resizingConstraint": 63,
@@ -63,7 +63,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "size.update": 1560293110.648542
+        "size.update": 1561496651.391756
       }
     }
   },

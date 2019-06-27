@@ -27,8 +27,8 @@
     "do_objectID": "9AD69974-7C13-4268-880D-60B480CAD19B",
     "height": 1024,
     "width": 320,
-    "x": 3200,
-    "y": 3160
+    "x": 4460,
+    "y": 2771
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -69,18 +69,6 @@
     {
       "class": "symbolInstance",
       "id": "390BB32C-DB18-47F1-B4F3-EF5E058C628B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "77BF10EA-886F-4D74-841A-0543C1AB7DF6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BFBC445E-9160-4E33-A463-C3BCFBE37C24"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D4A66B3F-2B6E-4366-975E-3203D9738D7C"
     },
     {
       "class": "symbolInstance",
@@ -137,9 +125,21 @@
     {
       "class": "symbolInstance",
       "id": "1A42FA12-FECF-4758-A77C-C66940A484C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F6F4913-2AE7-4D90-A663-BE8AA3CC040F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5831BED-94E5-4AB3-A76C-A98D97AB33DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FBED9DF-52E5-495C-A897-47138569823D"
     }
   ],
-  "name": "Mobile - Group Page - Member / Shelf",
+  "name": "Mobile / Group Page / Owner / Shelf / Hobbit",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
