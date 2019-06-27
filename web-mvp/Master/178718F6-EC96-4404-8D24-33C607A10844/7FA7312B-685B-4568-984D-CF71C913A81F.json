@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FA7312B-685B-4568-984D-CF71C913A81F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4410CEF6-2740-43A7-A259-EBCEE0472A46",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C563449-C6CD-4975-ABA5-E994654C8CFF",
+    "height": 35,
+    "width": 83,
+    "x": 227,
+    "y": 1315
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Contained",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A369631-4BC3-43D1-A246-C36AEBD57E93",
+      "overrideName": "F76F0D22-9703-4448-AA8A-F8713A450DEA_stringValue",
+      "value": "DONE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B6190EE-002E-40E7-87EB-00BD5E3FE92F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0C66FD9-8BCE-4EB8-93A9-C353A632AD9F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1561666190.427347
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

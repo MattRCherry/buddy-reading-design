@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B103BA53-439D-4158-A602-743595C62CAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F411F276-1F3E-46C9-AAD5-EAD1287F7D88",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2C261442-6C77-474F-B9ED-CB49165F4FC4",
+    "height": 10,
+    "width": 10,
+    "x": 286,
+    "y": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "4DC2B919-29EA-4B95-8132-3923E4AF4341"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "68DDC5D9-F15D-4BD7-87E8-111B661BAFB2"
+    },
+    {
+      "class": "shapePath",
+      "id": "395C8AE4-9A79-48A7-B4D9-C01B60ED0086"
+    }
+  ],
+  "name": "x",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40746518-7202-47E0-8DBA-98F2232A28E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 12,
+            "enabled": 1,
+            "modelID": "constraint_b469b2b7-02c2-44a3-a187-e147873823aa",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 12
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d9cc66a9-594c-452d-b6f4-230d6a1b8631",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

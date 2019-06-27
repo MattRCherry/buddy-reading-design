@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "67F1B357-61CE-44C9-BC34-17F29E2DE282",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3646B2E5-068A-4B85-BA84-88F5B4855568",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A779FBF1-3D14-4A1B-8B6B-CCA9BD8136B0",
+    "height": 56,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Headers / Light Default Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE3E9FB7-F976-400E-A46F-0A89BF38F6B5",
+      "overrideName": "2FEC8D32-4FAE-4B89-B1F6-E0EEEB6210AD_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B1202C4-73E4-429C-BB2D-D6CF2D6AF21C",
+      "overrideName": "DEF29557-F3C6-4DA0-BE25-FBA21D457A05_stringValue",
+      "value": "Clubs for You"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D56233AB-39B1-4057-BFAF-A454C12AC175",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2A585686-AD8C-42BE-BFBE-4D83F395D827",
+  "verticalSpacing": 0
+}

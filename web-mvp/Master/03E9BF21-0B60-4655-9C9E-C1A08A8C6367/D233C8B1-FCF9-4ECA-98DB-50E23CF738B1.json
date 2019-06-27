@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 77,
+    "width": 81,
     "x": 122,
     "y": 284
   },
@@ -97,7 +97,7 @@
           "model_version": 0,
           "scaleFactor": 1
         },
-        "size.update": 1560354109.956634
+        "size.update": 1561664264.358871
       }
     }
   },

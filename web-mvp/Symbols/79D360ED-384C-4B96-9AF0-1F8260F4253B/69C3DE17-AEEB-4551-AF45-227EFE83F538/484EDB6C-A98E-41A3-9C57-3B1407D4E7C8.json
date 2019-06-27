@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 67,
+    "width": 81,
     "x": 53,
     "y": 0
   },
@@ -60,7 +60,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "size.update": 1560354100.422405
+        "size.update": 1561664282.322605
       }
     }
   },

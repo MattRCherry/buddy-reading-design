@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "22D0DDDD-A229-43AE-85AF-53FCD7C45F56",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "178718F6-EC96-4404-8D24-33C607A10844",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5CEA4956-0F32-49B3-B821-69D6BC69F06A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31259A12-EAB3-492B-ADDE-219887BB7A07",
+    "height": 1415,
+    "width": 320,
+    "x": 1940,
+    "y": 323
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9F7E850D-7FDF-4E14-977E-714788ADD980"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "87023164-16BF-4B00-A5C7-2A9E8C7AA5FC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "67F1B357-61CE-44C9-BC34-17F29E2DE282"
+    },
+    {
+      "class": "group",
+      "id": "86BF5EE8-BB41-468F-837C-DFABB4180B8C"
+    },
+    {
+      "class": "text",
+      "id": "08202A6D-66AC-4F62-BCF3-748FDC80E73D"
+    },
+    {
+      "class": "text",
+      "id": "453135F4-69D7-4D38-8766-F936F23BFAA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7FA7312B-685B-4568-984D-CF71C913A81F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5BF7B60A-ADF8-4927-9EA5-7C173EF1DCE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC36D7CC-8BA9-446C-B6CA-7127D557335A"
+    },
+    {
+      "class": "text",
+      "id": "63B6039D-5E6A-4C34-B04B-2ADBD2A2E90A"
+    }
+  ],
+  "name": "Mobile / Onboarding / Shelf",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3CFAF69-3F4F-4FE0-B169-184D741787E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F761462C-7C57-482A-BBEE-6E6853F4A7D9",
+    "guides": [
+    ]
+  }
+}

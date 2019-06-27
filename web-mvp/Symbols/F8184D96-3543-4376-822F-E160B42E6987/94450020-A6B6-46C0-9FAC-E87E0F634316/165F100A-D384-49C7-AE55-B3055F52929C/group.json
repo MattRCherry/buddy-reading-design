@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "165F100A-D384-49C7-AE55-B3055F52929C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "917A0280-E46E-4DC0-9DF4-88EB7AB840B4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5FE2424C-5087-4F8E-93EC-9C188727740F",
+    "height": 24,
+    "width": 43,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "90F99737-D5F7-4F17-8741-64B8E710ED62"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5B722E90-12FB-459D-B83F-723ABEB4A425"
+    },
+    {
+      "class": "text",
+      "id": "1576535F-697A-4506-A5D2-2F8537DFFEFC"
+    }
+  ],
+  "name": "Stacked Group 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "911DFDEB-222A-4A0A-8ED1-544DB7B4B243",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_80067ec0-5543-4261-ae1d-8ed4b435b671",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_d201cd0b-03ff-420a-95aa-dcdf92b803bb",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        },
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 4,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

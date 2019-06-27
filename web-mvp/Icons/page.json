@@ -1,0 +1,87 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5989E0DF-EE41-4B7A-8FD9-069D5960A6A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -472,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "5D629038-A40A-4C04-AA5A-81645E95A283"
+    },
+    {
+      "class": "artboard",
+      "id": "7CB3996B-FA96-4A03-8F56-133781395AC9"
+    },
+    {
+      "class": "artboard",
+      "id": "3865A7DA-4CA2-4356-AD80-73773DE58111"
+    },
+    {
+      "class": "artboard",
+      "id": "353DE781-E41C-4486-B0E1-94602D3A181B"
+    },
+    {
+      "class": "artboard",
+      "id": "B99565A5-54AE-4337-91A5-25235732C6D6"
+    }
+  ],
+  "name": "Icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -352,
+    "guides": [
+    ]
+  }
+}

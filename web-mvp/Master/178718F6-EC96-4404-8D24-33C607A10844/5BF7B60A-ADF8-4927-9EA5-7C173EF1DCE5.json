@@ -1,0 +1,128 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BF7B60A-ADF8-4927-9EA5-7C173EF1DCE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9CC3A4F-5225-4625-996F-BDE700897C82",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63CFA633-2563-42D6-A004-0CAEDDF2935C",
+    "height": 408,
+    "width": 304,
+    "x": 8,
+    "y": 317
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards / Group Card Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1EFE6EDF-B222-439E-9104-7CE78E1AC2DE",
+      "overrideName": "6C7D27E5-11EB-4C07-9EAD-EAAFE6C18C71_symbolID",
+      "value": "3F138EFE-736D-490D-9344-8453F8C222CA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24636CDA-A0DE-499C-AA89-3F444EB36BCC",
+      "overrideName": "4F5F3CA6-F886-4F60-87F4-07FD8CB0B5EA_symbolID",
+      "value": "00F4443E-EDBA-4A53-95D0-F05CE70F5765"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "374C5E19-B929-46AD-B24D-A48B6D9ABC02",
+      "overrideName": "86121FF0-09CA-4C14-AA6D-DBB8C4EA574F_stringValue",
+      "value": "Learning"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7CEBC96-3991-44BB-BFCF-D57A4A666A9C",
+      "overrideName": "96305DB4-CB9D-4372-B422-941B5983E611_stringValue",
+      "value": "Join us as we read the best of non-fiction to expand our minds and discuss big ideas!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC43448A-F54E-4183-B02B-C79A404C5966",
+      "overrideName": "AD2A1A89-1C57-4DD2-BF27-17F96C0E3008_stringValue",
+      "value": "Fast"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44999CA0-07EB-4911-9538-F12CC33668F7",
+      "overrideName": "B498CF9F-8A13-43A5-A353-CC3209A77324_stringValue",
+      "value": "2/3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDB8B485-A3FD-4D50-82D9-B12A23565AE7",
+      "overrideName": "DAD85325-0A1A-451D-96EE-D12F1016A119_stringValue",
+      "value": "Non-fiction"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3FFD1FFB-0CD2-49D7-8B7F-D90FE2826511",
+      "overrideName": "2A5D5C34-4023-49FC-AA83-6AE471F02FF6_flowDestination",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6AF6BB8-600D-42FE-BE0A-7C10DF193C27",
+      "overrideName": "9CA9B06F-F2F8-443A-93F2-0358E0A8ABDA_stringValue",
+      "value": "Personal Development Club"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F09663C4-FCD8-4BA0-A20F-6526250F50F1",
+      "overrideName": "8072441D-4E0F-43A1-ACDC-CBF4C766B3AD_stringValue",
+      "value": "Donald A. Norman"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B2B3EF9-1B92-4168-A17A-3FA112BFF7A0",
+      "overrideName": "AD9F000C-6468-4951-A29E-2785ED1B7FA2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/586c8620a7fa1b689244ddf543910286ed187e56.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3835F2D-2C90-4C34-9DFB-03D66C0AAD0C",
+      "overrideName": "E623FA77-E335-41DD-8657-167A1622A12E_stringValue",
+      "value": "The Design of Everyday Things"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F6590DC-4F74-45AB-9928-1FB1BDFD7A68",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3E7B2142-89F1-4E00-AF16-A927F7E8FC2D",
+  "verticalSpacing": 0
+}
