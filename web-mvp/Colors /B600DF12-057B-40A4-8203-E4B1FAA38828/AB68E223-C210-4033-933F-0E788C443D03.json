@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Primary Purple\n#7289da"
+    "string": "Primary Purple\n#5c6bc0"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Primary Purple #7289",
+  "name": "Primary Purple #5c6b",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

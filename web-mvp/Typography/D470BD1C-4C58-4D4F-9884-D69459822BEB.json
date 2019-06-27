@@ -8,16 +8,16 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.2909873188405797,
-            "green": 0.2909873188405797,
-            "red": 0.2909873188405797
+            "alpha": 0.7,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Light",
-              "size": 12
+              "name": "Montserrat-Regular",
+              "size": 60
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 21,
+        "length": 33,
         "location": 0
       }
     ],
-    "string": "Primary Light\n#E4EAF6"
+    "string": "h2. This is what text looks like."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "864BD6D3-4CFC-4388-B965-32D85AA82560",
+  "do_objectID": "D470BD1C-4C58-4D4F-9884-D69459822BEB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C8AC648C-F158-4352-9FCE-192E6BE39769",
+    "do_objectID": "4035DCB9-2F6C-4E69-B04A-6A095AD011E7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B32A3543-3C73-4E40-AF68-7564D33E51C1",
-    "height": 30,
-    "width": 82,
-    "x": 0,
-    "y": 120
+    "do_objectID": "51CEED6E-47C4-4FA6-B5CE-0F0F86BD7EA2",
+    "height": 73,
+    "width": 888,
+    "x": -670,
+    "y": -169
   },
-  "glyphBounds": "{{0, 3}, {81, 25}}",
+  "glyphBounds": "{{5, 13}, {880, 46}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,34 +65,35 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Primary Light #E4EAF",
+  "name": "h2. This is what tex",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "2BEADBF9-649F-4736-BC9C-C2B6B919E92A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3404571E-2292-4C56-8AFD-F2A22170595C",
+    "do_objectID": "CF70C0DD-711D-40A1-B425-CBE1BDF50ECB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "2C573874-C177-49A7-B8E8-18788713E64B",
+      "do_objectID": "821CB5BA-2C3C-48D8-97F1-F541F96AD3CB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.2909873188405797,
-          "green": 0.2909873188405797,
-          "red": 0.2909873188405797
+          "alpha": 0.7,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Light",
-            "size": 12
+            "name": "Montserrat-Regular",
+            "size": 60
           }
         },
         "paragraphStyle": {

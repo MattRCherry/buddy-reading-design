@@ -27,7 +27,7 @@
     "height": 150,
     "width": 120,
     "x": -50,
-    "y": -232
+    "y": -532
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -48,10 +48,6 @@
     {
       "class": "text",
       "id": "AB68E223-C210-4033-933F-0E788C443D03"
-    },
-    {
-      "class": "text",
-      "id": "20E62C7D-2431-4934-9664-61DF57655499"
     }
   ],
   "name": "Group 3",

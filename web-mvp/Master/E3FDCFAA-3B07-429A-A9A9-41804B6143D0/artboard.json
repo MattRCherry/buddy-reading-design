@@ -52,6 +52,38 @@
     {
       "class": "symbolInstance",
       "id": "4119070B-7F21-4357-8EDF-06D67F414335"
+    },
+    {
+      "class": "group",
+      "id": "62F9B96A-5FA4-42BB-95AB-867B8B1D2BB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "499D3EF2-FD9C-4B51-8CDB-018B3394AADC"
+    },
+    {
+      "class": "text",
+      "id": "EAE1B272-EC74-4403-9750-88237DF0A261"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89F1873D-1E0F-41DC-8BC5-69C6E5A1F07B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09FF518B-2B0F-49E8-B236-B7681845FE60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5EF27302-B625-444D-8323-1EE0BD35A91C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1A9DDE4-BC45-41F0-ADF3-71FD7A7EE632"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F3895FF-5DE4-4CF7-A060-E07181D97072"
     }
   ],
   "name": "Mobile / Onboarding / Shelf",

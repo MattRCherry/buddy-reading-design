@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 21,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Primary Light\n#E4EAF6"
+    "string": "Secondary Dark\n#cabf45"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9B5E5F50-160D-4C54-A50A-550AB6EF01FE",
+  "do_objectID": "F49C7045-08A8-49CE-A1EA-DCDA65910C11",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "8DE112F3-7CE5-4491-85AE-27774D0AD33A",
+    "do_objectID": "E68A1029-68BF-428D-BCD0-7D66E75F6303",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "38A70E23-3BD6-4980-90C8-2760B293CC05",
+    "do_objectID": "3901C7D8-383E-4FE1-B64E-DE380681E905",
     "height": 30,
-    "width": 82,
+    "width": 95,
     "x": 0,
     "y": 120
   },
-  "glyphBounds": "{{0, 3}, {81, 25}}",
+  "glyphBounds": "{{0, 3}, {95, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Primary Light #E4EAF",
+  "name": "Secondary Dark #cabf",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4B33B09C-0A74-428C-B409-BC56F5EF2CC2",
+    "do_objectID": "2C70F7B8-1739-4034-8CD0-A6B8D65209C3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "26F5FEDD-6DC9-4275-A142-02479483CA97",
+      "do_objectID": "EFE253AD-4281-4176-9226-27D6B040B2B9",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

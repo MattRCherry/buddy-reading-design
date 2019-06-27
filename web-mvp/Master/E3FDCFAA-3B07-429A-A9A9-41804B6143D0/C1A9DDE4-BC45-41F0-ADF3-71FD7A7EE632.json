@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1A9DDE4-BC45-41F0-ADF3-71FD7A7EE632",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6CF3559C-1635-4AA8-B577-B8A7E2B6C075",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B5B8B9E-784A-4F1D-A995-FCF163AC56D9",
+    "height": 96,
+    "width": 288,
+    "x": 16,
+    "y": 561
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List Items / Book List / Item Unselected",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DECEA6F3-E09E-4AB0-B96E-6489F16CDA58",
+      "overrideName": "F8E65C5A-D4A7-4B17-8DED-1539A8668FA8_stringValue",
+      "value": "Business"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "67EE3B6E-C67D-44EE-861B-246050BD0E82",
+      "overrideName": "3B7626A3-62DE-459E-8294-ECA750FDC605_stringValue",
+      "value": "Eric Reis"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2DF5D9D3-5544-41D4-917E-800F53E9884E",
+      "overrideName": "6638EC1A-7800-4BDC-99B1-4EF6AE7BF1BB_stringValue",
+      "value": "The Lean Startup"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E2C17DF-D67D-4F41-B6EA-641D3359372E",
+      "overrideName": "7691E813-3989-479C-A67C-CD74D069BF7D/CEB20566-A14A-4756-8AF0-BB44B4545888_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/f07d40c6b2d4620e00d092356aff078d8200ed52.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B57381A0-4E3C-4D39-8236-3EEC008A226F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "553C394F-3994-4068-AB13-5238CE078D58",
+  "verticalSpacing": 0
+}

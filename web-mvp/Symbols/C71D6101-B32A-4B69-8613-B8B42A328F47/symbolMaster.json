@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
+  "changeIdentifier": 6,
   "clippingMaskMode": 0,
   "do_objectID": "C71D6101-B32A-4B69-8613-B8B42A328F47",
   "exportOptions": {
@@ -60,6 +60,11 @@
   "name": "Surfaces / Paper",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FD2A40B0-5441-4DAE-8AED-442B5072778B_layerStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

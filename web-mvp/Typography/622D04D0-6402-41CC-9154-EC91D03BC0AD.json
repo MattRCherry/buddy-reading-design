@@ -8,38 +8,39 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.2909873188405797,
-            "green": 0.2909873188405797,
-            "red": 0.2909873188405797
+            "alpha": 0.7,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Light",
-              "size": 12
+              "name": "Montserrat-SemiBold",
+              "size": 14
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 22,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "Primary Purple\n#7289da"
+    "string": "BUTTON. THIS IS WHAT TEXT LOOKS LIKE."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "20E62C7D-2431-4934-9664-61DF57655499",
+  "do_objectID": "622D04D0-6402-41CC-9154-EC91D03BC0AD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6123A33E-F944-4809-BD55-8543EAF6F0E4",
+    "do_objectID": "7F2F569E-3995-4171-8F76-E6983343D176",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "809B2FC1-F60E-4AA6-AB10-485523276DA0",
-    "height": 30,
-    "width": 90,
-    "x": 0,
-    "y": 120
+    "do_objectID": "422C7888-9B49-49D8-B80E-B985FB69AC77",
+    "height": 18,
+    "width": 302,
+    "x": -670,
+    "y": 221
   },
-  "glyphBounds": "{{0, 3}, {90, 25}}",
+  "glyphBounds": "{{1, 4}, {301, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,36 +66,38 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Primary Purple #7289",
+  "name": "BUTTON. THIS IS WHAT",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "791C0309-DC03-445E-95AB-6CC2B855E989",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F4196BCD-F0F5-4C3D-8BFE-3A5A405174DE",
+    "do_objectID": "8D018E4B-2432-45A3-950E-6C9AC3D52DCF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "DE1FDB21-84DF-49C1-9AC5-1210BFCE189E",
+      "do_objectID": "D534E9D8-E6F5-4BB4-9E92-61F3B669D918",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.2909873188405797,
-          "green": 0.2909873188405797,
-          "red": 0.2909873188405797
+          "alpha": 0.7,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Light",
-            "size": 12
+            "name": "Montserrat-SemiBold",
+            "size": 14
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0
