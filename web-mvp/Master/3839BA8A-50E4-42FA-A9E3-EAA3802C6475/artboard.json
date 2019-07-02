@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "3813A4D9-67B7-4909-9107-C206819D4C9A",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -34,7 +43,7 @@
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "460160BC-3138-40B6-84BA-0810B0F2FD2C"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {

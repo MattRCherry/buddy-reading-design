@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "5CEA4956-0F32-49B3-B821-69D6BC69F06A",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -34,8 +43,8 @@
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "9F7E850D-7FDF-4E14-977E-714788ADD980"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -87,7 +96,7 @@
       "id": "63B6039D-5E6A-4C34-B04B-2ADBD2A2E90A"
     }
   ],
-  "name": "Mobile / Onboarding / Shelf",
+  "name": "Mobile / Onboarding / Shelf - Joined",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
