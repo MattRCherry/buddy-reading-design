@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 237,
+  "changeIdentifier": 238,
   "clippingMaskMode": 0,
   "do_objectID": "411B657A-8148-4329-8225-3FA884D854C7",
   "exportOptions": {
@@ -37,7 +37,7 @@
     "do_objectID": "02CC2BA5-087C-4F08-ABDD-06969D7C8455"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -73,6 +73,11 @@
   "name": "Headers / Light Two Icon",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9DE3F651-12D5-4F48-804F-B874DE9C29FC_layerStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

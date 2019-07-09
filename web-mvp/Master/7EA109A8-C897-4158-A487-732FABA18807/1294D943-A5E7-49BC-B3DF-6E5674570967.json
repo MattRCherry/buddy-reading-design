@@ -18,7 +18,7 @@
     "constrainProportions": false,
     "do_objectID": "A0472D78-FDCE-4611-8426-0C7C14AC0EE9",
     "height": 30,
-    "width": 81,
+    "width": 119,
     "x": 100,
     "y": 858
   },
@@ -72,7 +72,7 @@
           "model_version": 0,
           "scaleFactor": 1
         },
-        "size.update": 1560354109.832394
+        "size.update": 1562686073.087279
       }
     }
   },
