@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 16,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Genre (Filtered)"
+    "string": "Genre "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "CF0221B1-19F3-462B-ADE3-97EE16EC395E",
     "height": 18,
-    "width": 113,
+    "width": 48,
     "x": 34,
     "y": 143
   },
-  "glyphBounds": "{{0, 3}, {112, 14}}",
+  "glyphBounds": "{{0, 4}, {44, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Genre (Filtered)",
+  "name": "Genre",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

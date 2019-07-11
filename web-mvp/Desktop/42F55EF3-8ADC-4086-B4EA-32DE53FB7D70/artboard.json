@@ -21,7 +21,7 @@
         "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -92,20 +92,28 @@
       "id": "48AD64D2-704E-4862-9CE1-A00E1F618C35"
     },
     {
+      "class": "text",
+      "id": "6C5AFA30-9EF8-4AFE-AE50-E74521420408"
+    },
+    {
+      "class": "rectangle",
+      "id": "78854BF9-A7CC-49C1-9C1D-5F49D03A4B2A"
+    },
+    {
       "class": "bitmap",
       "id": "6D1B006E-0251-43D4-8E3C-87D7014ACD3E"
     },
     {
-      "class": "symbolInstance",
-      "id": "8613CECA-B2E5-4D86-B233-7568F13D9D58"
+      "class": "group",
+      "id": "148F0AA1-9F3B-4595-A8E3-7E27DFF28676"
     },
     {
-      "class": "symbolInstance",
-      "id": "152E7529-F79C-45C6-892C-FC1B909BB1DC"
+      "class": "group",
+      "id": "53C66045-A735-41AE-A784-00BE04E070F8"
     },
     {
-      "class": "symbolInstance",
-      "id": "91392521-CD2E-4424-AF12-84DAFA8A7B35"
+      "class": "group",
+      "id": "B5A4277F-4B85-401E-AADD-E687D27C5F32"
     }
   ],
   "name": "Mobile Landing / Genre Filtered",
