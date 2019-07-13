@@ -1,0 +1,153 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F14FE526-7CEB-4F69-BE38-AD978846A3A5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "56C197BD-A185-408D-9587-53F7B451D047",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "429821A6-1D00-452B-BD03-D22EF909116C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "02524319-9E9A-4E16-A3C0-D3AD7576E404",
+    "height": 810,
+    "width": 376,
+    "x": 1728,
+    "y": -323
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C584962A-27D8-4B82-B5C6-F48C8D881742"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8954383D-B0CC-4DA4-9B3F-88F26A966D23",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "BB2AC515-42AB-45F2-9E8F-5C4AED2419AE"
+    },
+    {
+      "class": "rectangle",
+      "id": "C16D0E2F-C2C8-4D2F-979F-935947123B74"
+    },
+    {
+      "class": "rectangle",
+      "id": "B5DF136D-D841-49BB-97CB-F47953F630DE"
+    },
+    {
+      "class": "rectangle",
+      "id": "BF3FDE4B-7E17-4112-BB3D-CC0556BB40C6"
+    },
+    {
+      "class": "text",
+      "id": "2BAA83E0-09CF-441D-ADC6-0C65AE9A9F86"
+    },
+    {
+      "class": "group",
+      "id": "DE0C2251-11B5-4EF2-A36B-4865BA5C70DA"
+    },
+    {
+      "class": "group",
+      "id": "5D32F05D-DEC0-4272-B0E3-AF764B70EF6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AD763C95-E038-4A9A-B18F-3B19114FA894"
+    },
+    {
+      "class": "shapePath",
+      "id": "37E3BB00-B67E-45AE-B273-78224A660B07"
+    },
+    {
+      "class": "text",
+      "id": "DD8ED2BE-E2E1-4D32-85A3-C1A010F25CE1"
+    },
+    {
+      "class": "text",
+      "id": "2E964073-56D4-4B86-85E1-7A134366A82D"
+    },
+    {
+      "class": "rectangle",
+      "id": "0CA12687-E825-49B9-88EA-A219CD307F47"
+    },
+    {
+      "class": "rectangle",
+      "id": "140A2F7D-7FC0-43A3-8DAF-D6DD4F14C283"
+    },
+    {
+      "class": "text",
+      "id": "AF1173EC-5149-467B-8B60-86F059E62B4B"
+    },
+    {
+      "class": "text",
+      "id": "EC239B88-CE2F-4B29-8698-41168A862A92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03E71874-6076-4F94-8AF2-EB3A38DD1646"
+    }
+  ],
+  "name": "Author / Club Page / Expanded Comments (Self)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "531857C2-2D3C-4367-A642-41336E17988D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E693DF96-8FD7-4D77-A364-E0029D68EEB6",
+    "guides": [
+    ]
+  }
+}

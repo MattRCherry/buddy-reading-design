@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0ABC6CEA-B861-4310-9476-89F312858D13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03F11919-049F-4DF7-960A-0545AAA3AC46",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9317E9ED-C701-4786-9A63-B4B7C988AF5D",
+    "height": 64,
+    "width": 330,
+    "x": 24.24264068711932,
+    "y": 387
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Fields / Profile Q&A",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40C00BDB-0C92-4A1F-A5EC-287973E276F2",
+      "overrideName": "0F630AB6-C22A-484B-BB67-6260A27311E5_stringValue",
+      "value": "My latest in a series of (soon to be) classics :D "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6847C005-3E88-409C-8AD0-F2016D5CC82E",
+      "overrideName": "64F367E3-BCED-452F-8C31-ABE0DA7975C2_stringValue",
+      "value": "Give a brief description of what you've written"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC50868C-11E3-488A-A8FC-0348AC7C648A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E5BEDCE7-02D3-4397-850C-9096093B6C66",
+  "verticalSpacing": 0
+}
