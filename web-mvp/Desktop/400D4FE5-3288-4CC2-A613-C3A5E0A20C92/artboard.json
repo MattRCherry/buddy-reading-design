@@ -1,0 +1,156 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6B26CBAE-441E-4D2A-91F0-9C60AF9F9826",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "400D4FE5-3288-4CC2-A613-C3A5E0A20C92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD02B62A-E4F4-47A7-9FE1-19566CD04432",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4A1DEBD-E85D-4217-971F-95CD67552B84",
+    "height": 821,
+    "width": 1440,
+    "x": 8211,
+    "y": 511
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "26936E6D-B1CC-40B2-980D-D769C237C968"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "664DBBBA-74D2-4393-98CA-0C94D37F4966",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2F9F8D3E-D069-4D9F-8880-CE32288755BA"
+    },
+    {
+      "class": "rectangle",
+      "id": "24048E1E-9F1A-4E55-BA70-1BF5D6529EDF"
+    },
+    {
+      "class": "text",
+      "id": "467B1F01-070F-45F7-9864-4A646A2C70F2"
+    },
+    {
+      "class": "rectangle",
+      "id": "4C56D5D9-DF42-48D2-8570-BCCE63958DED"
+    },
+    {
+      "class": "text",
+      "id": "56E0EF90-E263-4029-BB33-4A71523CF6C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "464D0F49-908B-41C9-960B-C8498EC002EC"
+    },
+    {
+      "class": "shapePath",
+      "id": "F9614DFB-65F5-45B1-B949-D59C101BD6DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0C7F1E6-6C0E-4918-A935-868E6FE3A95A"
+    },
+    {
+      "class": "shapePath",
+      "id": "F24EFEDC-3509-4EDD-A694-451BCC27B7CD"
+    },
+    {
+      "class": "shapePath",
+      "id": "B89BF1D3-829B-49BD-AF29-693671048265"
+    },
+    {
+      "class": "text",
+      "id": "6071B135-E262-4588-84A3-B04114CB88EE"
+    },
+    {
+      "class": "rectangle",
+      "id": "B6A49629-AE5B-4D5C-8966-8967A115CD3F"
+    },
+    {
+      "class": "text",
+      "id": "8321A3DC-C7CF-4B35-A9BE-760DF27A864B"
+    },
+    {
+      "class": "group",
+      "id": "535FB4D6-DCEF-4051-8048-106C8EB78F96"
+    },
+    {
+      "class": "text",
+      "id": "051909B9-E823-4E6C-84E2-CC50AE7A044B"
+    }
+  ],
+  "name": "Desktop / Logged In / Landing Page",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8DD70CB8-3768-4A90-85A6-3826CB222C59",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DB34E67A-E8B5-4233-ABA6-7E8D04425E9F",
+    "guides": [
+    ]
+  }
+}

@@ -43,7 +43,7 @@
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "CB3E4C6A-AB65-42F3-AA02-1C964C3CCE40"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
