@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "09787F4E-1107-4320-B2A2-3CD540AB2DEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACBD9ED5-4838-4F25-A7F4-C78F7A13A865",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7970B71-72C1-4CA9-B964-9564F48042A5",
+    "height": 49,
+    "width": 330,
+    "x": 13,
+    "y": 112
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "40ED7921-81D5-4456-9F13-6E17C1C433BE"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "85412B4A-155E-46CA-8309-EF40933CD855"
+    },
+    {
+      "class": "rectangle",
+      "id": "4F6D729F-0B38-42EE-BC3C-33AAD93115E3"
+    },
+    {
+      "class": "rectangle",
+      "id": "03712A85-C469-4F22-B197-7A50E26E52B1"
+    },
+    {
+      "class": "text",
+      "id": "E8558D43-0A46-42AB-9689-B9BC271DF6ED"
+    },
+    {
+      "class": "text",
+      "id": "F8D2C374-3E67-4CA1-B079-7388C0E13015"
+    },
+    {
+      "class": "text",
+      "id": "6C1D7971-0193-478D-8263-AA593819B85D"
+    },
+    {
+      "class": "text",
+      "id": "34775965-CE19-4FB1-B45C-95C1FC253E4C"
+    },
+    {
+      "class": "rectangle",
+      "id": "C3AC3A77-F34A-465D-B4F6-DDAC8B2F4DA5"
+    },
+    {
+      "class": "text",
+      "id": "93C5F3B6-F8B7-40DD-A547-AD6ADFE30F86"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "304579E6-5923-41FE-B421-5E0C34EB145C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

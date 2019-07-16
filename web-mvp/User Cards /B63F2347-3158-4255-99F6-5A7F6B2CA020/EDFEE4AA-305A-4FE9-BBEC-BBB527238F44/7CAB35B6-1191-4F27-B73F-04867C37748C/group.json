@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7CAB35B6-1191-4F27-B73F-04867C37748C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02C031C3-022F-497B-A5D7-95FCC804E234",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "533EF996-2F9D-42D9-A177-CDBD9E0F1A4B",
+    "height": 49,
+    "width": 330,
+    "x": 13,
+    "y": 112
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C908F386-5D91-4AD6-924B-2BC34434ED4E"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1D3FB51E-213F-4A9C-A2ED-293672323E21"
+    },
+    {
+      "class": "rectangle",
+      "id": "7AED9C3E-C50D-4206-A516-07E28AE15BBE"
+    },
+    {
+      "class": "rectangle",
+      "id": "0AD00190-4CB3-408C-A923-3EB3653A3642"
+    },
+    {
+      "class": "text",
+      "id": "FB5D0D82-8190-491B-AA99-63570F504FC3"
+    },
+    {
+      "class": "text",
+      "id": "004B1E5B-0E9D-4862-9A3C-F7DC6C17CFCC"
+    },
+    {
+      "class": "text",
+      "id": "F8E0A217-257D-4B18-9CD1-6D2F741FE658"
+    },
+    {
+      "class": "text",
+      "id": "770B9B05-C51F-4B28-B08C-1FAABF60649E"
+    },
+    {
+      "class": "rectangle",
+      "id": "FE0B8E00-A9C5-4140-83F0-7C5B1894EF63"
+    },
+    {
+      "class": "text",
+      "id": "B09081E9-5DF5-43F8-9915-DB680943B694"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40102C7F-506F-478E-BBF9-8BDDB19F83B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

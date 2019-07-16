@@ -43,8 +43,8 @@
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "B4257D20-B904-4813-8F12-686027A4C7E1"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -92,7 +92,7 @@
       "id": "02EA7740-CC5A-4D9E-9394-D2128C2885B1"
     }
   ],
-  "name": "Mobile Landing / Filter",
+  "name": "mobile_splash",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

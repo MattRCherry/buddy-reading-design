@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2D820BB6-8DB3-4308-B79B-C5AD9BAC4418",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77423D4A-29DD-468F-A937-581E7154A1D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFC346D6-435C-4585-A7CE-4D42B5420A01",
+    "height": 35,
+    "width": 292,
+    "x": 24,
+    "y": 566
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List Items / Nerdy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3792F9B9-D7E7-422E-813F-E51B875F98D2",
+      "overrideName": "373750DF-171D-431B-BEEE-68B56FBFBBDD_stringValue",
+      "value": "Learning "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E33C99BB-79E8-45EF-9D73-7809FC4195FF",
+      "overrideName": "E6E1948C-252A-4D7E-A806-056734F085FE_symbolID",
+      "value": "7645CCF5-9BE6-4A61-B88D-04DA1F8F1AC8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "940CDB21-E300-448B-BE3B-4A8A432FBDB4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C7941352-887D-4E19-A191-5949F87338BB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B522C01-1BEE-4FF0-AC89-8FF701C487D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D28E965-F069-4A6B-8EBD-16D3D15CC46F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "872C303D-9244-4B05-9119-D916719B8860",
+    "height": 35,
+    "width": 292,
+    "x": 24,
+    "y": 498
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List Items / Nerdy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02A3DF7E-E1F0-4541-AC09-D880F72F2831",
+      "overrideName": "E6E1948C-252A-4D7E-A806-056734F085FE_symbolID",
+      "value": "9AC73967-3D1A-4F5F-BAF6-9E6ED0CBF3BF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "716B0BF8-E6F2-40B6-8319-C418BF60FEA5",
+      "overrideName": "373750DF-171D-431B-BEEE-68B56FBFBBDD_stringValue",
+      "value": "5 (20 max)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F036BE7-E195-4366-9854-379EAE284984",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C7941352-887D-4E19-A191-5949F87338BB",
+  "verticalSpacing": 0
+}

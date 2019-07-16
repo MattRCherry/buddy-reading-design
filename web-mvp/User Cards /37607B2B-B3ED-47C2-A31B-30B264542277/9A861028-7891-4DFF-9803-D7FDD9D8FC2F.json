@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A861028-7891-4DFF-9803-D7FDD9D8FC2F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A3C06B76-6AE0-4AE0-AFA0-DB5561FC9DE6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AF8684F-8B70-4942-9DA0-431F4F44E889",
+    "height": 36,
+    "width": 360,
+    "x": 8,
+    "y": 75
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Search / Search Bar w Shadow",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1CB15AD-6394-4F50-B108-5D4216D8A8A5",
+      "overrideName": "F1B90315-35F9-4671-AFEB-46F68B64044E_stringValue",
+      "value": "Search for a User"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CD7B19E9-BB49-4DA2-B8E9-1AC58D77FF61",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D485B153-647B-451D-8F80-84DF9DBEBE8B",
+  "verticalSpacing": 0
+}

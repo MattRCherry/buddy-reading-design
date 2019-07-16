@@ -19,8 +19,8 @@
     "do_objectID": "D47155D5-7D3D-4E9F-92B1-B3C2C6AB8338",
     "height": 35,
     "width": 292,
-    "x": 267,
-    "y": 406
+    "x": 262,
+    "y": 397
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -37,7 +37,7 @@
       "_class": "overrideValue",
       "do_objectID": "B052CF59-7955-441F-94AD-1DDFC98101CD",
       "overrideName": "373750DF-171D-431B-BEEE-68B56FBFBBDD_stringValue",
-      "value": "Start: July 18th"
+      "value": "Started: July 18th"
     }
   ],
   "resizingConstraint": 63,

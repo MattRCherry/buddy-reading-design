@@ -20,7 +20,7 @@
     "height": 35,
     "width": 292,
     "x": 51,
-    "y": 406
+    "y": 397
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -43,7 +43,7 @@
       "_class": "overrideValue",
       "do_objectID": "716B0BF8-E6F2-40B6-8319-C418BF60FEA5",
       "overrideName": "373750DF-171D-431B-BEEE-68B56FBFBBDD_stringValue",
-      "value": "2/20 Members"
+      "value": "5 (20 max)"
     }
   ],
   "resizingConstraint": 63,

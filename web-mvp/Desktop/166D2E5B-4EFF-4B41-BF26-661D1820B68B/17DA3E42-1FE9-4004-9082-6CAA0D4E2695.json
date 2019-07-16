@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 169,
+        "length": 151,
         "location": 0
       }
     ],
-    "string": "This is the description for my club. It is where I will include any and all relavent information to the way I would like my club to operate. Lorem ipsum looks too fake. "
+    "string": "This is the description for my club. It is where I will include any and all relavent information, and I feel like the bio should be cut at three lines…"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 82,
+    "height": 58,
     "width": 396,
     "x": 51,
     "y": 308
   },
-  "glyphBounds": "{{0, 3}, {372, 73}}",
+  "glyphBounds": "{{0, 3}, {387, 51}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

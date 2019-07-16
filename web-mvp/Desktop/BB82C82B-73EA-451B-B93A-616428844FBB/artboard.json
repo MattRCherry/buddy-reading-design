@@ -70,6 +70,10 @@
     {
       "class": "group",
       "id": "34A3D5D2-DB67-4BD8-BE70-136E6F846482"
+    },
+    {
+      "class": "bitmap",
+      "id": "8FEDE116-5F20-4177-B751-C7DCDEF2BF5B"
     }
   ],
   "name": "Mobile / Logged In / Landing Page",

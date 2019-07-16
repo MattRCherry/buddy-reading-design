@@ -95,11 +95,19 @@
     },
     {
       "class": "symbolInstance",
+      "id": "96EFED3C-097E-4300-81D3-74FDBCF38779"
+    },
+    {
+      "class": "symbolInstance",
       "id": "6D489508-8438-41F0-A75B-004183CC48B3"
     },
     {
       "class": "text",
       "id": "35A52147-DF11-4E2E-B20F-74D6154A5FB1"
+    },
+    {
+      "class": "text",
+      "id": "1EE2A94D-6FFB-4F83-B30B-1C9053E1A099"
     }
   ],
   "name": "Artboard",

@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF5B5611-3223-405A-8743-24A7DF903355",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F33ACED-4766-4EE0-9B2E-F9BA67748351",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A9B8552-2B43-4110-B9FD-18CC93149329",
+    "height": 49,
+    "width": 330,
+    "x": 13,
+    "y": 112
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2E7C0531-5097-4BD0-AC4C-00C91425DFA7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6ADE2637-8AB4-4F0D-A65A-F375438CDAF0"
+    },
+    {
+      "class": "rectangle",
+      "id": "5DD5B7B0-9C6E-40DC-9A50-3BF08125A4BC"
+    },
+    {
+      "class": "rectangle",
+      "id": "2C5A6E53-060D-437C-A6FA-BBFA8CDE0309"
+    },
+    {
+      "class": "text",
+      "id": "B336F5CB-6B56-4379-AA49-1B3F8E794802"
+    },
+    {
+      "class": "text",
+      "id": "2D2E1B24-D4D5-4243-96E8-7669E18A49B8"
+    },
+    {
+      "class": "text",
+      "id": "E02D0D9B-753C-4F24-9DE8-C900BBA51CF7"
+    },
+    {
+      "class": "text",
+      "id": "517A62E5-AD47-4BA5-AE6D-20904FF0C089"
+    },
+    {
+      "class": "rectangle",
+      "id": "6C38FBBB-CBCA-4B6A-B802-6EF0EA5F9B1F"
+    },
+    {
+      "class": "text",
+      "id": "7EFE1AED-AEDA-463B-83B2-C2DDF054C6C3"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1783FF84-EC8F-4BF2-9290-9E4E052B1226",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

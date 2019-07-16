@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A42FE8C-E757-4D24-91FC-A7E5A13CF937",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E64D61D6-4C57-4A96-89E0-CBDCBAE868FF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FD17D2CE-C857-47AA-A9C0-F097088CEFC0",
+    "height": 446,
+    "width": 343,
+    "x": 556,
+    "y": 1543
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FB6A17E5-0091-436F-874A-78B70E75FD6A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9D4DEAC5-5C0F-40C0-ABA2-2ADA471CE62E"
+    },
+    {
+      "class": "rectangle",
+      "id": "43D2E01D-86FE-4145-BEFC-9E019D9564C9"
+    },
+    {
+      "class": "text",
+      "id": "34A4938B-55D3-4ABF-A2DA-250DEE9B58ED"
+    },
+    {
+      "class": "group",
+      "id": "0EE967EC-39E5-4BA6-BC34-764A741FD26D"
+    },
+    {
+      "class": "group",
+      "id": "AF5B5611-3223-405A-8743-24A7DF903355"
+    },
+    {
+      "class": "text",
+      "id": "8A43E5A6-5E35-4766-B3DB-1443D4EB46EA"
+    },
+    {
+      "class": "text",
+      "id": "0700A40A-1C7E-46BD-B181-48354E6D8451"
+    },
+    {
+      "class": "group",
+      "id": "79A26636-F674-4C67-BE48-82474B3558BF"
+    }
+  ],
+  "name": "Group 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "959A6917-2C61-4C9B-B810-3AC337442FA7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

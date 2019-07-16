@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FFA23795-FCF2-4D49-B8F9-30B5C8053CBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F4CACF19-117D-4C84-A1B9-A5B1092DBE11",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC78F372-2402-4A9E-A0C7-62AC54C147C8",
+    "height": 49,
+    "width": 330,
+    "x": 13,
+    "y": 112
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "13116E4B-439D-4A79-89AC-B959D7F940AC"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "008CA660-020C-444F-BFFA-60DB80C22189"
+    },
+    {
+      "class": "rectangle",
+      "id": "61ABCA81-CA75-4EF5-83C3-6D182CED96B4"
+    },
+    {
+      "class": "rectangle",
+      "id": "D9A9C98A-B600-465C-9D6F-C075FEAE2D87"
+    },
+    {
+      "class": "text",
+      "id": "EC0EA868-58D5-42A7-BB05-8719554ADF35"
+    },
+    {
+      "class": "text",
+      "id": "28AF78C4-B053-4909-850B-CCB5C9965DB6"
+    },
+    {
+      "class": "text",
+      "id": "6B08697C-48F9-4E68-8B58-87FF51759C6A"
+    },
+    {
+      "class": "text",
+      "id": "01B23C42-88A3-4106-82EB-EB005F7B9C1E"
+    },
+    {
+      "class": "rectangle",
+      "id": "8176CE6F-3715-4E8B-BB8F-FA72F4B3FDC0"
+    },
+    {
+      "class": "text",
+      "id": "87F3FF40-7C58-4933-8F25-D2361E2439A6"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9A9723D-02FA-435F-944C-DF70B0766FD1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

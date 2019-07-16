@@ -1,0 +1,141 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B63F2347-3158-4255-99F6-5A7F6B2CA020",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2560,
+    "width": 1440,
+    "x": -973,
+    "y": -336
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "120D04FD-2533-4B5D-B560-49D83CEC8AB8"
+    },
+    {
+      "class": "rectangle",
+      "id": "24DC6DA8-1DA9-4E5F-A7BC-DB1C9DB84596"
+    },
+    {
+      "class": "shapePath",
+      "id": "63B2B1D3-F084-4391-BF6F-9AA293DCA795"
+    },
+    {
+      "class": "shapePath",
+      "id": "21EFD879-8A27-4E6F-ABFC-0A7861C47E11"
+    },
+    {
+      "class": "group",
+      "id": "4AA6C106-455D-42E3-8D2E-82AA05374CF4"
+    },
+    {
+      "class": "group",
+      "id": "E8468345-1636-4072-9ABB-E5AAF2D03F24"
+    },
+    {
+      "class": "group",
+      "id": "813D3A64-81BC-4A39-85C1-D49016F832E9"
+    },
+    {
+      "class": "group",
+      "id": "4F39A5A1-0300-4B7B-95E6-015AA6415E93"
+    },
+    {
+      "class": "group",
+      "id": "A980285F-E57E-4AB8-A69E-903A426595AE"
+    },
+    {
+      "class": "group",
+      "id": "423F0D0F-C003-406B-A6C5-C07A9CA416F2"
+    },
+    {
+      "class": "group",
+      "id": "E2E89B9E-691F-4C0C-B1FE-C1C683DAFA1B"
+    },
+    {
+      "class": "group",
+      "id": "EDFEE4AA-305A-4FE9-BBEC-BBB527238F44"
+    },
+    {
+      "class": "group",
+      "id": "E043A622-4A02-499D-87F1-1DA52F3296B6"
+    },
+    {
+      "class": "group",
+      "id": "21FC690C-D18C-4BFB-9C58-0BC200A642A8"
+    },
+    {
+      "class": "group",
+      "id": "0A42FE8C-E757-4D24-91FC-A7E5A13CF937"
+    },
+    {
+      "class": "group",
+      "id": "0F8AE8B7-8D07-48CB-AC64-29DBA5FF656F"
+    },
+    {
+      "class": "group",
+      "id": "70C21C5E-D0FF-4249-8E22-087237A3526D"
+    }
+  ],
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
