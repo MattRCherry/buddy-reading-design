@@ -49,10 +49,6 @@
     },
     {
       "class": "artboard",
-      "id": "118818A7-63E8-44D1-BD59-D7AA8DA73819"
-    },
-    {
-      "class": "artboard",
       "id": "400D4FE5-3288-4CC2-A613-C3A5E0A20C92"
     },
     {
@@ -85,6 +81,10 @@
     },
     {
       "class": "artboard",
+      "id": "0A846C30-8B91-44E4-A7EA-43CE832606C4"
+    },
+    {
+      "class": "artboard",
       "id": "42F55EF3-8ADC-4086-B4EA-32DE53FB7D70"
     },
     {
@@ -102,6 +102,14 @@
     {
       "class": "artboard",
       "id": "CD7147AC-2E1C-4923-B378-7170AE009321"
+    },
+    {
+      "class": "artboard",
+      "id": "DC76E8A1-D2F2-4732-9E84-3F2217D18420"
+    },
+    {
+      "class": "artboard",
+      "id": "166D2E5B-4EFF-4B41-BF26-661D1820B68B"
     }
   ],
   "name": "Desktop",

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Light",
+              "name": "Montserrat-SemiBold",
               "size": 50
             }
           },
@@ -42,7 +42,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Light",
+              "name": "Montserrat-SemiBold",
               "size": 50
             }
           },
@@ -78,11 +78,11 @@
     "constrainProportions": false,
     "do_objectID": "965F28D0-0322-4FBC-8CDE-7591E495104A",
     "height": 61,
-    "width": 854,
+    "width": 892,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{6, 10}, {845, 48}}",
+  "glyphBounds": "{{4, 9}, {886, 50}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -117,7 +117,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Light",
+            "name": "Montserrat-SemiBold",
             "size": 50
           }
         },
