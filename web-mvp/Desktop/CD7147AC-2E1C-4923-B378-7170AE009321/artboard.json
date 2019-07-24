@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -59,8 +59,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "CEB2EDBC-CD02-4DA4-8E1E-9B2C6BBB874F"
+      "class": "oval",
+      "id": "CA35D1D6-753A-4756-BCE4-FB3DC1BA83CF"
     },
     {
       "class": "group",
@@ -97,6 +97,14 @@
     {
       "class": "group",
       "id": "215EA87D-4CBB-4EBF-AB1A-FF03E180F3F2"
+    },
+    {
+      "class": "slice",
+      "id": "75C526FB-4CA7-4FDF-A2DF-C9D9B3401E52"
+    },
+    {
+      "class": "slice",
+      "id": "B3DCB5FC-3E90-4798-84D2-3828131FBA7E"
     }
   ],
   "name": "landingpage_scene",
