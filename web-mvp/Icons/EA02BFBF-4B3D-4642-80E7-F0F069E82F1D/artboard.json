@@ -18,10 +18,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "svg",
+        "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -34,8 +34,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "37742EA3-8DB1-4388-99EE-7EFC3D500481",
-    "height": 400,
-    "width": 400,
+    "height": 512,
+    "width": 512,
     "x": -758,
     "y": 406
   },
@@ -44,7 +44,7 @@
     "do_objectID": "8A87192C-65CA-4DE3-B01E-3C7D1F21C4DF"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,8 +68,8 @@
       "id": "EDF34F50-1DB7-404E-8CAC-3D9D88A8DC56"
     },
     {
-      "class": "oval",
-      "id": "46E7FA41-E4C8-4F97-80BC-F9DEA1DACA8E"
+      "class": "group",
+      "id": "92D9FC7F-BE2C-426B-9EFD-82FA999D04F0"
     }
   ],
   "name": "Icon / White",

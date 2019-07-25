@@ -59,6 +59,14 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "slice",
+      "id": "8368B627-C51C-4C12-AC69-95822E3A2510"
+    },
+    {
+      "class": "rectangle",
+      "id": "ACA14710-EBD1-4795-8C33-B4721B09DDF7"
+    },
+    {
       "class": "oval",
       "id": "CA35D1D6-753A-4756-BCE4-FB3DC1BA83CF"
     },
@@ -105,6 +113,10 @@
     {
       "class": "slice",
       "id": "B3DCB5FC-3E90-4798-84D2-3828131FBA7E"
+    },
+    {
+      "class": "slice",
+      "id": "2A8F67C4-262C-49C4-A95C-EA35CF26AE42"
     }
   ],
   "name": "landingpage_scene",

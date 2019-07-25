@@ -27,7 +27,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "name": "Oval",
   "nameIsFixed": false,
@@ -102,7 +102,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.3,
           "blue": 0.9607843137254902,
           "green": 0.9607843137254902,
           "red": 0.9607843137254902
@@ -124,12 +124,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 150,
+            "constant": 82.45033,
             "enabled": 1,
             "modelID": "constraint_c3650f10-97a6-49a1-9cde-e24c823f0632",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 150
+            "multiplier": 82
           },
           "automatic": 1,
           "modelID": "viewConstraints_bcc569d6-6199-46e4-b5d8-bb83ccb40971",

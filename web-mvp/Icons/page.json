@@ -57,6 +57,10 @@
     },
     {
       "class": "artboard",
+      "id": "9A3AA8C4-9CE6-4AF2-AED7-E180857CA58F"
+    },
+    {
+      "class": "artboard",
       "id": "7CB3996B-FA96-4A03-8F56-133781395AC9"
     },
     {
@@ -78,6 +82,18 @@
     {
       "class": "artboard",
       "id": "775DBA23-F1B4-43B0-A2A7-C612A2F944F5"
+    },
+    {
+      "class": "artboard",
+      "id": "9732E3BB-948E-4106-AB22-6CD0E489DD60"
+    },
+    {
+      "class": "artboard",
+      "id": "617567C8-799F-44CF-8D2F-40F72A139CA2"
+    },
+    {
+      "class": "artboard",
+      "id": "83BF6824-2880-4402-8042-66F14AED5206"
     }
   ],
   "name": "Icons",
