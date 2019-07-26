@@ -64,15 +64,15 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "oval",
-      "id": "55BFF4D8-F705-4892-881B-A05D1B6518B6"
+      "class": "rectangle",
+      "id": "FAFC1F9C-B9C8-4308-9609-AF772BCBC3BA"
     },
     {
       "class": "group",
       "id": "786976DF-D5E3-444F-A9C7-54F3BE432978"
     }
   ],
-  "name": "Icon / White",
+  "name": "discordicon",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
