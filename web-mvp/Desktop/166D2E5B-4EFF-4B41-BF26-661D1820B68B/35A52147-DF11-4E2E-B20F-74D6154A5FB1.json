@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Light",
-              "size": 14
+              "size": 10
             }
           },
           "paragraphStyle": {
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 164,
+    "height": 13,
+    "width": 117,
     "x": 51,
-    "y": 536
+    "y": 540
   },
-  "glyphBounds": "{{0, 3}, {163, 14}}",
+  "glyphBounds": "{{0, 2}, {117, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -88,7 +88,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Light",
-            "size": 14
+            "size": 10
           }
         },
         "paragraphStyle": {

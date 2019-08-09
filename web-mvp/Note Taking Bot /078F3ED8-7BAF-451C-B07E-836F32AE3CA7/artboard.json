@@ -35,7 +35,7 @@
     "do_objectID": "9F9EBE8D-C27B-4D5B-BB6A-F3FA7C1EA0B0"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,6 +57,74 @@
     {
       "class": "bitmap",
       "id": "C1885D95-931C-46DC-9160-4D5F0BA9CC8A"
+    },
+    {
+      "class": "rectangle",
+      "id": "9FD0F1F8-9A0B-41E0-B3CD-59E6293118E1"
+    },
+    {
+      "class": "text",
+      "id": "CBD86911-E275-45E7-AE54-A33E9EA9B6B3"
+    },
+    {
+      "class": "oval",
+      "id": "88DA3DCF-F081-4B47-8F39-CB6702E735B4"
+    },
+    {
+      "class": "rectangle",
+      "id": "4D175D6B-970C-4B6F-8525-1CBD130228D0"
+    },
+    {
+      "class": "group",
+      "id": "3B4CA9F5-557C-4E8E-84B9-7074100DC06B"
+    },
+    {
+      "class": "text",
+      "id": "685381E9-08E8-4F26-BC1A-24172805E6D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "9F3C8268-6A57-407F-96DB-3D154D993EE2"
+    },
+    {
+      "class": "text",
+      "id": "A068734B-1029-4568-BC0F-3CBFC4D53A0F"
+    },
+    {
+      "class": "text",
+      "id": "A9A7EAED-8978-45C6-802E-7DCB7F8B0CB2"
+    },
+    {
+      "class": "oval",
+      "id": "1C4AABD8-5420-4C22-BB2D-6DD683326EDB"
+    },
+    {
+      "class": "text",
+      "id": "C129DE47-AD1A-4896-A253-4561B23EAFE3"
+    },
+    {
+      "class": "text",
+      "id": "1243FC0E-45D2-453D-9096-A504E45F0E71"
+    },
+    {
+      "class": "oval",
+      "id": "BB4B4FF8-ACFA-49C7-B5DD-5100F85514A5"
+    },
+    {
+      "class": "text",
+      "id": "BBF41EF3-5E4A-4056-B821-071E3E0ACB57"
+    },
+    {
+      "class": "text",
+      "id": "36B7D36D-2337-45F3-8E3A-4D6A1306CCA2"
+    },
+    {
+      "class": "oval",
+      "id": "007CD2E1-6B51-4331-982B-ED3136C865FE"
+    },
+    {
+      "class": "text",
+      "id": "557DA2EF-47A5-4D79-9827-000DAA1FC29C"
     }
   ],
   "name": "Artboard",
