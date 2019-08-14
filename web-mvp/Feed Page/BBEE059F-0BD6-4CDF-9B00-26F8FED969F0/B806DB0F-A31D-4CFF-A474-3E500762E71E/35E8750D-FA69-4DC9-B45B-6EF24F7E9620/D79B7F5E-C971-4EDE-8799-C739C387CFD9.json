@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D79B7F5E-C971-4EDE-8799-C739C387CFD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D36FB6D-4ED0-4424-9963-784E7134BA1E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CD15384-C256-4099-B0AE-5EBF542E8A93",
+    "height": 24,
+    "width": 25,
+    "x": 70,
+    "y": 3
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / Profile Large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34992709-538E-4572-AA7B-0C6CF426DAAC",
+      "overrideName": "45917BF6-547E-4114-8079-361A8B0E4551_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c51f78a4e687287a1aebb5c69bfe8269060a8eb4.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "541B6C21-6E05-4158-BAEF-9A87BA7589C1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6FAE5282-2C71-461E-A71E-E33BE23D30B2",
+  "verticalSpacing": 0
+}
