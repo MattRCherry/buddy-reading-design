@@ -118,6 +118,10 @@
       "id": "BFE4B68B-71CB-4ABF-979C-10B115DF34C7"
     },
     {
+      "class": "bitmap",
+      "id": "07323865-80FF-422A-AB8C-8DF05C4589FD"
+    },
+    {
       "class": "oval",
       "id": "A5EC3317-801A-4823-814B-6941BBECC082"
     },
@@ -128,6 +132,10 @@
     {
       "class": "shapeGroup",
       "id": "FEC8EEF8-208B-42F1-91B2-C66FFBC86D7E"
+    },
+    {
+      "class": "bitmap",
+      "id": "BA148044-F548-4FC4-8510-B5F3C1B14915"
     }
   ],
   "name": "Feed - Mobile",

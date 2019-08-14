@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3FD7862D-89A4-4D5C-9353-18E906502C27",
-    "height": 232,
+    "height": 580,
     "width": 355,
     "x": 12,
-    "y": 482
+    "y": 134
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -52,6 +52,10 @@
       "id": "26F3FED8-86C5-4013-8FC3-DA330C33997D"
     },
     {
+      "class": "bitmap",
+      "id": "992443B0-04C0-4DB8-90C4-CEB23AFDFAB4"
+    },
+    {
       "class": "text",
       "id": "5AECE155-D708-4F1F-8136-FF01FCBC6E5E"
     },
@@ -66,6 +70,10 @@
     {
       "class": "group",
       "id": "5C34DD8B-75C0-49EB-946F-283F8B96C63C"
+    },
+    {
+      "class": "bitmap",
+      "id": "1E290594-620A-4E0A-BC89-DB612F78C73F"
     }
   ],
   "name": "Group 6",
