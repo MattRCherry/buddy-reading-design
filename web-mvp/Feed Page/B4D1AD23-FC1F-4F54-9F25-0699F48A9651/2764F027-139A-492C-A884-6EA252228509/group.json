@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2764F027-139A-492C-A884-6EA252228509",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "240155D0-C122-4704-9419-356B3AEB53DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FFB5BF89-BF14-49D4-9201-BEDBBE954AC9",
+    "height": 406,
+    "width": 352,
+    "x": 12,
+    "y": 1092
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "49CE5C7A-7FEB-4C32-82C1-B35D4B6E0CA4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "64C1CBA5-089E-4C9C-96D7-8CFC8BD97BC5"
+    },
+    {
+      "class": "group",
+      "id": "630D503E-2BC1-453E-B447-9A229E9ED8CE"
+    },
+    {
+      "class": "group",
+      "id": "09FF83A4-C7EF-404D-B018-95D9F2B3514C"
+    },
+    {
+      "class": "oval",
+      "id": "988A5618-918C-4A5D-BF7B-454B51CE11DE"
+    },
+    {
+      "class": "text",
+      "id": "2BB346AA-6344-4BD7-ADDA-8D185942C3B7"
+    },
+    {
+      "class": "group",
+      "id": "26BDC775-DE22-4F59-AE2C-FCF0495CC42B"
+    },
+    {
+      "class": "group",
+      "id": "C800AF44-0FD9-4AEB-BA77-03FE00ECFFD6"
+    },
+    {
+      "class": "text",
+      "id": "CD645A6C-83A2-4ED8-BB7D-007119043D3F"
+    }
+  ],
+  "name": "Group 6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62CBC20B-0B0B-4F5A-934C-9866EB7624F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

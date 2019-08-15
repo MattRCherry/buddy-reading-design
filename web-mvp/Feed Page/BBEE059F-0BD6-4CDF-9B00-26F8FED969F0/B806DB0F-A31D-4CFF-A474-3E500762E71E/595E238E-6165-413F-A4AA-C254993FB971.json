@@ -22,15 +22,15 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 18,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "The Sun Also Rises"
+    "string": "Matt’s Summer Reading List "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "42F290CB-CD70-4706-B66A-615F410FDC0A",
     "height": 29,
-    "width": 227,
-    "x": 356,
-    "y": 94
+    "width": 352,
+    "x": 72,
+    "y": 201
   },
-  "glyphBounds": "{{0, 4}, {226, 20}}",
+  "glyphBounds": "{{2, 4}, {343, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "The Sun Also Rises",
+  "name": "Matt’s Summer Readin",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -97,7 +97,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
