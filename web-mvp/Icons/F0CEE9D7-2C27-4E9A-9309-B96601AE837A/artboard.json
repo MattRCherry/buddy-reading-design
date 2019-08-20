@@ -18,7 +18,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "svg",
         "name": "",
         "namingScheme": 0,
         "scale": 2,
@@ -44,7 +44,7 @@
     "do_objectID": "952AA5A2-C972-49EE-B975-636595774FAA"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,8 +68,8 @@
       "id": "E68C8291-C850-4B6C-BBE8-531A8ECFEEEE"
     },
     {
-      "class": "text",
-      "id": "AD197A93-9159-4B54-8F39-51D280D57017"
+      "class": "group",
+      "id": "8DEA6CA2-2E10-4BAF-A3CC-80E215435D8A"
     }
   ],
   "name": "Artboard",
