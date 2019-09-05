@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0AEE104C-B747-46D3-8C88-44467F166B87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7477BA78-6AB7-4D2D-AB5E-6A127C2A1BC9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB45EBEA-E4BA-4A2C-8B83-EE296FAA7E1B",
+    "height": 73,
+    "width": 301,
+    "x": 33,
+    "y": 186
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "19FB1AB8-A8DE-428C-913D-3DB6FEEE96DB"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "82E59DC7-77D2-4507-BC2E-BF5E6E99F600"
+    },
+    {
+      "class": "triangle",
+      "id": "BEE5CA15-674F-42A7-A142-ECCB2F7F805F"
+    },
+    {
+      "class": "oval",
+      "id": "9935C7EB-24F6-4242-8EDF-2EC382236F6E"
+    },
+    {
+      "class": "oval",
+      "id": "910E5C52-1220-4710-9719-BD243C6066A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "0ADBEDB8-AFD6-40B3-9C38-CB6468AF142F"
+    },
+    {
+      "class": "shapePath",
+      "id": "985A4EEE-27BA-4AB3-9891-8B52670CCC37"
+    },
+    {
+      "class": "shapePath",
+      "id": "B46C7CCC-7AB9-4A3A-93AE-D3CD979DF8F6"
+    },
+    {
+      "class": "oval",
+      "id": "839EDBD1-5C35-4838-855C-5BD44931DFAF"
+    },
+    {
+      "class": "oval",
+      "id": "8A385FD0-6B7C-4B18-90A3-D38ACF51E799"
+    },
+    {
+      "class": "oval",
+      "id": "145224F4-6E17-487C-9159-845F7C00DC60"
+    },
+    {
+      "class": "oval",
+      "id": "BFD7C631-1477-48DB-9318-8F13F04FAC85"
+    },
+    {
+      "class": "text",
+      "id": "3F3C3F80-7A08-4858-85E8-7140A86CC657"
+    },
+    {
+      "class": "text",
+      "id": "F1D7D8D1-713B-4FBC-8B17-D3F9BA18481D"
+    }
+  ],
+  "name": "Group 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A2C2576-717B-43A7-9DCB-A5FDB0AC26A4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

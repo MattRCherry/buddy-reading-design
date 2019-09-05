@@ -1,0 +1,158 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBEE059F-0BD6-4CDF-9B00-26F8FED969F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1509,
+    "width": 1440,
+    "x": -463,
+    "y": -313
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4B235CB0-A3AC-4CD7-92C8-F5B70262134F"
+    },
+    {
+      "class": "shapePath",
+      "id": "27A4D74D-EB09-4CC9-BB26-6621BF850817"
+    },
+    {
+      "class": "bitmap",
+      "id": "45847A24-AAC7-4762-9D12-7726AEB5D554"
+    },
+    {
+      "class": "text",
+      "id": "B8863537-9E75-4E33-9474-9DC32828150C"
+    },
+    {
+      "class": "group",
+      "id": "D1402EA3-D6D0-451E-8F28-D08D3C0D0646"
+    },
+    {
+      "class": "group",
+      "id": "C09A96ED-97CD-48D6-B7CD-575A2159C762"
+    },
+    {
+      "class": "group",
+      "id": "B806DB0F-A31D-4CFF-A474-3E500762E71E"
+    },
+    {
+      "class": "group",
+      "id": "706C049B-30C8-45FD-A9E0-FC42DC9D7376"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E05CE22-8D92-4094-B357-F96811544634"
+    },
+    {
+      "class": "rectangle",
+      "id": "57B11D74-64BB-4253-9BBC-8A987822E575"
+    },
+    {
+      "class": "rectangle",
+      "id": "9E1C957E-1A0F-4341-88D5-75D84C11A273"
+    },
+    {
+      "class": "rectangle",
+      "id": "149271CE-86AB-40E6-B39B-EC3F014C6277"
+    },
+    {
+      "class": "rectangle",
+      "id": "F5FACB03-5810-43BD-B36B-8ED8A7D68312"
+    },
+    {
+      "class": "text",
+      "id": "5A109799-94DE-42BF-B6EA-364536442BD6"
+    },
+    {
+      "class": "text",
+      "id": "A315918E-6C88-428F-B0C8-8F212F14FF2A"
+    },
+    {
+      "class": "text",
+      "id": "C3B5D5E3-17F8-4236-B5F4-2445F4422BD7"
+    },
+    {
+      "class": "text",
+      "id": "33BD728B-B9D1-4839-B024-A8FE2831F910"
+    },
+    {
+      "class": "text",
+      "id": "E188CB27-0AE8-42CE-B28A-C941BADAA11E"
+    },
+    {
+      "class": "bitmap",
+      "id": "9F1CA80A-B79D-490F-B660-B24475BDBBA3"
+    }
+  ],
+  "name": "Feed - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
