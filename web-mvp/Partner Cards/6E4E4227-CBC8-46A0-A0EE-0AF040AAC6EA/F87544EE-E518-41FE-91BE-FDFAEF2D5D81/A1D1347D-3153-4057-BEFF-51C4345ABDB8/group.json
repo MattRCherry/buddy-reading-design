@@ -1,0 +1,129 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A1D1347D-3153-4057-BEFF-51C4345ABDB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F04C947-6F75-4EDD-83A2-980455F47324",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C4FF7143-5BF9-4AD6-AB45-C24E520FDE95",
+    "height": 64,
+    "width": 64,
+    "x": 110.8210526315791,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "82BAD990-3FF6-4D7B-B12A-53F9AEC5DF80"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "71351AB7-3B57-4B90-A512-0CEC506B3505"
+    },
+    {
+      "class": "shapePath",
+      "id": "87284812-2246-430D-B686-5769C5DA3B76"
+    },
+    {
+      "class": "oval",
+      "id": "43BAD400-8A21-4283-8ACC-3A1F324AEA96"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Caravan Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D930C16E-F7CC-402A-92C5-F6C7E6EF9369",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "BCDA66FD-F239-4F4F-A19D-F81AF5CD1682",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "2CD1B8DD-B317-4DE7-BB94-7660ABC36D0A",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "4294E492-99B3-4DDE-9882-05AA5689F542",
+      "opacity": 1
+    },
+    "do_objectID": "655D8188-AEE9-499C-A000-E84187C833BC",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 64,
+            "enabled": 1,
+            "modelID": "constraint_354c4505-6b91-4891-8075-47899ef1a8a1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 64
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ee8fa590-d38f-4ed9-9862-388f5ce08d43",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

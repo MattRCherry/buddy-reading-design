@@ -14,7 +14,8 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": -1,
-    "destinationArtboardID": "10FE2A65-D410-41F8-A8BC-DEE7FC92C5EE"
+    "destinationArtboardID": "10FE2A65-D410-41F8-A8BC-DEE7FC92C5EE",
+    "do_objectID": "BF6BBC67-C2CF-4E94-A4EB-35F3CAC1FF16"
   },
   "frame": {
     "_class": "rect",
@@ -30,6 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Hotspot",
   "nameIsFixed": false,
   "resizingConstraint": 63,

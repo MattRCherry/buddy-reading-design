@@ -70,6 +70,7 @@
       "id": "6FD10F91-ADF4-4A9B-99B0-F5BF1D46BDAB"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Text Fields / Inactive w Error",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -89,6 +90,8 @@
       "overrideName": "B2B56ACE-A69B-4EE7-B456-81612FE5350E_textStyle"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -96,9 +99,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "42B387D2-2A6B-41E3-8541-F70299163B42",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

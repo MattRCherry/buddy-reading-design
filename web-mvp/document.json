@@ -11,7 +11,8 @@
           "blue": 0.7529411764705882,
           "green": 0.4196078431372549,
           "red": 0.3607843137254902
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -21,7 +22,8 @@
           "blue": 0.5607843137254902,
           "green": 0.2549019607843137,
           "red": 0.1490196078431373
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -31,7 +33,8 @@
           "blue": 0.9529411764705882,
           "green": 0.6,
           "red": 0.5568627450980392
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -41,7 +44,8 @@
           "blue": 0.9725490196078431,
           "green": 0.9411764705882353,
           "red": 0.9333333333333333
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -51,7 +55,8 @@
           "blue": 0.4627450980392157,
           "green": 0.9450980392156862,
           "red": 1
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -61,7 +66,8 @@
           "blue": 0.2705882352941176,
           "green": 0.7490196078431373,
           "red": 0.792156862745098
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -71,7 +77,8 @@
           "blue": 0.6588235294117647,
           "green": 1,
           "red": 1
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -81,7 +88,8 @@
           "blue": 1,
           "green": 1,
           "red": 1
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -91,7 +99,8 @@
           "blue": 0.9098039215686274,
           "green": 0.9098039215686274,
           "red": 0.9098039215686274
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -101,7 +110,8 @@
           "blue": 0.2901960784313725,
           "green": 0.2901960784313725,
           "red": 0.2901960784313725
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -111,7 +121,8 @@
           "blue": 0.1254901960784314,
           "green": 0,
           "red": 0.6901960784313725
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -121,7 +132,8 @@
           "blue": 0.3137254901960784,
           "green": 0.6862745098039216,
           "red": 0.2980392156862745
-        }
+        },
+        "name": ""
       },
       {
         "_class": "MSImmutableColorAsset",
@@ -131,7 +143,8 @@
           "blue": 0.8392156862745098,
           "green": 0.396078431372549,
           "red": 0.01176470588235294
-        }
+        },
+        "name": ""
       }
     ],
     "colors": [
@@ -227,6 +240,8 @@
         "red": 0.01176470588235294
       }
     ],
+    "exportPresets": [
+    ],
     "gradientAssets": [
     ],
     "gradients": [
@@ -253,9 +268,9 @@
     ]
   },
   "meta": {
-    "appVersion": "57.1",
-    "build": 83088,
-    "version": 119
+    "appVersion": "58",
+    "build": 84663,
+    "version": 120
   },
   "pages": [
     "Master",
@@ -264,8 +279,10 @@
     "User Cards ",
     "Author View",
     "Feed Page",
+    "Partner Cards",
     "Symbols",
     "Colors ",
+    "Vectors",
     "Note Taking Bot ",
     "Icons",
     "Typography"

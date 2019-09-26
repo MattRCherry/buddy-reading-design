@@ -1,0 +1,177 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "59072F39-2369-480F-BB73-F20E800933B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 34.453125,
+    "width": 36,
+    "x": 0,
+    "y": 1
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "40444DED-C325-471C-A47D-AE8E37315302"
+    },
+    {
+      "class": "shapePath",
+      "id": "6BD71597-2B77-4DE2-A4BA-6964E9BB1D2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06E0838F-1071-4B8D-90F8-77228EFA5BA6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA2BDE86-0FCC-40A7-BDFF-D3304A30776F"
+    },
+    {
+      "class": "shapePath",
+      "id": "10110EC9-40EB-4E49-B1CF-28BEEFECF787"
+    },
+    {
+      "class": "shapePath",
+      "id": "E25DCAB5-80B0-4AB5-A4DA-B9612F0E5704"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8B0CACF-CC10-4F0B-AA26-B11CAE043713"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C45903C3-B5B6-49BB-A074-1FAA76DE5CD3"
+    },
+    {
+      "class": "shapePath",
+      "id": "400620C0-DA50-45AE-A266-A41B443BF8C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06B62134-4FBD-4631-80D2-A5BB00D27D5B"
+    },
+    {
+      "class": "shapePath",
+      "id": "45EE922A-5D1A-4AF5-8F00-09CA1B6876D6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E165073-80C3-4E6E-88B3-9225C087975A"
+    },
+    {
+      "class": "shapePath",
+      "id": "955C2350-75B8-4341-B654-A6C0DC40536E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6AB6CE45-F02A-4D5B-ACD0-09C5D25E716F"
+    },
+    {
+      "class": "shapePath",
+      "id": "A37B9B56-1DA3-486D-8098-83A50BD03553"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E1BD8CE-CBEE-44C3-BCE9-6C65D5CAFA8C"
+    },
+    {
+      "class": "shapePath",
+      "id": "A44179C2-A366-4AF4-92F4-55F9ED978AEF"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "bot",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 34.45312,
+            "enabled": 1,
+            "modelID": "constraint_6563c9d1-eded-440e-8758-ff5402292eae",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 36
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0a6afeb3-f83b-4c92-9565-60fe617b72e1",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

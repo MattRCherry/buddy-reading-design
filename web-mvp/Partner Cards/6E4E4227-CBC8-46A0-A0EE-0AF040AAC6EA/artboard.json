@@ -1,0 +1,204 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E4E4227-CBC8-46A0-A0EE-0AF040AAC6EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 720,
+    "width": 1440,
+    "x": 260,
+    "y": -512
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DED66D07-79BF-4560-9DC0-8377C64F915B"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B973C50-8E36-463D-954E-213795C10DD7"
+    },
+    {
+      "class": "shapePath",
+      "id": "6543981F-4BDC-4D63-9EBD-73DE31026902"
+    },
+    {
+      "class": "rectangle",
+      "id": "4742900B-5939-4A67-968B-2FFB8F1ABBD5"
+    },
+    {
+      "class": "text",
+      "id": "E2472229-CDCB-4FF0-89FE-DB116EE17C86"
+    },
+    {
+      "class": "group",
+      "id": "F87544EE-E518-41FE-91BE-FDFAEF2D5D81"
+    },
+    {
+      "class": "text",
+      "id": "1494D5F7-5190-4884-A076-322F0A231CBF"
+    },
+    {
+      "class": "group",
+      "id": "6A4AC2D8-768C-49CD-860A-ED282CDD4539"
+    },
+    {
+      "class": "group",
+      "id": "009E5094-6862-40E6-8A69-0C080F5A7439"
+    },
+    {
+      "class": "text",
+      "id": "04ACCCE9-122E-4506-BC1A-D2EBD4EF09AD"
+    },
+    {
+      "class": "group",
+      "id": "E5794ED8-455B-4EA3-91AF-8B8EF74F2721"
+    },
+    {
+      "class": "text",
+      "id": "1249CCEE-EC4E-4434-9CB0-DCAEC98DEB42"
+    },
+    {
+      "class": "group",
+      "id": "4FC7A58E-D9B6-4D68-985C-126650E8147D"
+    },
+    {
+      "class": "text",
+      "id": "D8CB9AAB-AB7E-4109-AAC9-513686CCB7C4"
+    },
+    {
+      "class": "group",
+      "id": "A84F452C-B483-4615-AD33-14792C687CCC"
+    },
+    {
+      "class": "text",
+      "id": "3B75445C-71AA-41FA-8B29-EA68A2348D3F"
+    },
+    {
+      "class": "group",
+      "id": "A9E90721-4EFA-4088-A15F-EE1A12BF92CC"
+    },
+    {
+      "class": "text",
+      "id": "A30CA8DB-C66C-48C3-8B29-855ED1EF1F0E"
+    },
+    {
+      "class": "text",
+      "id": "0D4EEB71-CD05-4B42-A893-E81D4F390F3E"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "wattpad x Caravan Partnership Announcement",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
